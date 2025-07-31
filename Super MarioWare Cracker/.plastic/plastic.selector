@@ -1,0 +1,4 @@
+repository "Super MarioWare Cracker/Super MarioWare Cracker@9072294797741@cloud"
+  path "/"
+    br "/main"
+    co "/main"
