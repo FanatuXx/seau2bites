@@ -699,12 +699,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a264ddf838c3c24a820324493bb11ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 1058957001}
-  animator: {fileID: 0}
-  runSpeed: 40
-  horizontalMove: 0
-  jump: 0
-  crouch: 0
 --- !u!114 &1058957001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -718,7 +712,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpForce: 10
+  jumpForce: 9
   feetPos: {fileID: 1921443572}
   checkRadius: 0.3
   whatIsGround:
