@@ -9,7 +9,7 @@ public class PlayerOneWayPlatform : MonoBehaviour
 
     private void Update()
     {
-        if ((Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) && Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
             if (currentOneWayPlatform != null)
             {
