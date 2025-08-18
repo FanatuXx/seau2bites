@@ -1,15 +1,12 @@
 using UnityEngine;
 
-public class Destroyoncollision2D : MonoBehaviour
+public class Breakable : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D (Collider2D other)
     {
-
-        if (collision.gameObject.tag == "Player")
+        if (other.gameObject.CompareTag("Breakable"))
         {
-            Destroy(gameObject);
-
+            Destroy(other.gameObject);
         }
     }
-
 }
