@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Charactercontrolelr : MonoBehaviour
+public class CharacterController : MonoBehaviour
 {
 
     private Rigidbody2D rb;
@@ -17,13 +17,15 @@ public class Charactercontrolelr : MonoBehaviour
 
     private float jumpTimeCounter;
     public float jumpTime;
-    private bool isJumping; 
+    private bool isJumping;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
+
 
     // Update is called once per frame
     void Update()
@@ -55,6 +57,8 @@ public class Charactercontrolelr : MonoBehaviour
                 isJumping = false;
             }
     }
+
+
     void FixedUpdate()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
