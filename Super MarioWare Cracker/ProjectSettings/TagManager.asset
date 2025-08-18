@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Breakable
   - OneWayPlatform
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -48,6 +49,9 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 3759569455
+    locked: 0
+  - name: ground
+    uniqueID: 383389213
     locked: 0
   m_RenderingLayers:
   - Default
