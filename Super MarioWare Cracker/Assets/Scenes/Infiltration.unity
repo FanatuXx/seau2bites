@@ -161,7 +161,7 @@ GameObject:
   - component: {fileID: 409566309}
   - component: {fileID: 409566308}
   - component: {fileID: 409566307}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -296,7 +296,7 @@ GameObject:
   - component: {fileID: 950790458}
   - component: {fileID: 950790457}
   - component: {fileID: 950790456}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -776,7 +776,7 @@ MonoBehaviour:
   checkRadius: 0.35
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 119
+    m_Bits: 64
   jumpTime: 0.25
 --- !u!61 &2055065102
 BoxCollider2D:
@@ -839,7 +839,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
