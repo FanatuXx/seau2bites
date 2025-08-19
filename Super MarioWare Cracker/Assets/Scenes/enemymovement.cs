@@ -35,11 +35,14 @@ public class EnemyMovement : MonoBehaviour
             if (hasLineOfSight)
             {
                 Debug.Log("CATCH");
+               
 
             }
             else
             {
                 Debug.Log("PAS CATCH");
+               
+
             }
         }
     }
