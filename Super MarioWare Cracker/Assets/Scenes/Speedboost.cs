@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class Lyrica : MonoBehaviour
+public class Speedboost : MonoBehaviour
 {
 
     public float m_multiplier = 2f;
@@ -16,7 +16,7 @@ public class Lyrica : MonoBehaviour
 
     private void OnTriggerEnter2D (Collider2D other)
     {
-        if (other.gameObject.CompareTag("Lyrica"))
+        if (other.gameObject.CompareTag("Speedboost"))
         {
            
             gameObject.GetComponent<CharacterController>().speed *= m_multiplier;

@@ -8,6 +8,8 @@ TagManager:
   - OneWayPlatform
   - Enemy
   - Lyrica
+  - Speedboost
+  - Jumpboost
   layers:
   - Default
   - TransparentFX
