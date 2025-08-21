@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Jumpboost : MonoBehaviour
 {
-    public float jumpboost = 500f;
+    public float jumpboost = 2f;
     public float m_duration = 5f;
     private float tempjump;
     
@@ -19,15 +19,8 @@ public class Jumpboost : MonoBehaviour
         {
 
             gameObject.GetComponent<CharacterController>().jumpForce *= jumpboost;
-            gameObject.GetComponent<CharacterController>().jumpForce = Mathf.Clamp(gameObject.GetComponent<CharacterController>().jumpForce, tempjump, tempjump * jumpboost);
-            StartCoroutine(ResetJump());
             other.gameObject.SetActive(false);
         }
-    }
-    System.Collections.IEnumerator ResetJump()
-    {
-        yield return new WaitForSeconds(m_duration);
-        gameObject.GetComponent<CharacterController>().jumpForce = tempjump;
     }
 
 }
