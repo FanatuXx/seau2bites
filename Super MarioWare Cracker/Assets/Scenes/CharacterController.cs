@@ -19,6 +19,8 @@ public class CharacterController : MonoBehaviour
     public float jumpTime;
     private bool isJumping;
 
+    public Animator animator; //anim
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -56,6 +58,10 @@ public class CharacterController : MonoBehaviour
             {
                 isJumping = false;
             }
+
+        animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+
+      
     }
 
 
@@ -63,5 +69,8 @@ public class CharacterController : MonoBehaviour
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+       
     }
+
+    
 }
