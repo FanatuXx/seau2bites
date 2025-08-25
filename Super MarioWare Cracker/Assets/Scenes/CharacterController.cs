@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CharacterController : MonoBehaviour
@@ -20,12 +21,17 @@ public class CharacterController : MonoBehaviour
     private bool isJumping;
 
     public Animator animator; //anim
+    bool facingRight = true; //flip
+    
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+
+    
+       
     }
 
 
@@ -38,39 +44,75 @@ public class CharacterController : MonoBehaviour
         {
             isJumping = true;
             jumpTimeCounter = jumpTime;
-            rb.linearVelocity = Vector2.up * jumpForce; 
+            rb.linearVelocity = Vector2.up * jumpForce;
+            
         }
+
+        
 
         if (Input.GetKey(KeyCode.Space) && isJumping == true)
         {
+
+           
+
             if (jumpTimeCounter > 0)
             {
                 rb.linearVelocity = Vector2.up * jumpForce;
                 jumpTimeCounter -= Time.deltaTime;
+                animator.SetBool("IsJumping", true); //anim
             }
             else
             {
                 isJumping = false;
+                animator.SetBool("IsJumping", false); //anim
+
+
             }
+
         }
 
         if (Input.GetKeyUp(KeyCode.Space))
             {
                 isJumping = false;
+            animator.SetBool("IsJumping", false);//anim
+           
             }
 
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
 
-      
+        
     }
 
-
+   
     void FixedUpdate()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
-       
+
+        if (moveInput > 0 && !facingRight) //flip
+
+        {
+            Flip();
+        }
+
+        if (moveInput <0 && facingRight)
+        {
+             Flip();
+        }
+        
     }
 
-    
+    void Flip() //flip
+
+    {
+        Vector3 currentScale = gameObject.transform.localScale;
+        currentScale.x *= -1;
+        gameObject.transform.localScale = currentScale;
+
+        facingRight = !facingRight;
+    }
+
+ 
+
+
 }
