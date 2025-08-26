@@ -48,18 +48,19 @@ public class CharacterController : MonoBehaviour
             
         }
 
-        
+       
 
-        if (Input.GetKey(KeyCode.Space) && isJumping == true)
+            if (Input.GetKey(KeyCode.Space) && isJumping == true)
         {
+            
 
-           
 
             if (jumpTimeCounter > 0)
             {
                 rb.linearVelocity = Vector2.up * jumpForce;
                 jumpTimeCounter -= Time.deltaTime;
                 animator.SetBool("IsJumping", true); //anim
+               
             }
             else
             {
@@ -78,9 +79,11 @@ public class CharacterController : MonoBehaviour
            
             }
 
+
+
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
 
-        
+
     }
 
    
@@ -99,7 +102,8 @@ public class CharacterController : MonoBehaviour
         {
              Flip();
         }
-        
+
+       
     }
 
     void Flip() //flip
