@@ -106,6 +106,7 @@ public class CharacterController : MonoBehaviour
        
     }
 
+    #region Flip
     void Flip() //flip
 
     {
@@ -116,7 +117,7 @@ public class CharacterController : MonoBehaviour
         facingRight = !facingRight;
     }
 
-
+    #endregion
 
 
 }
