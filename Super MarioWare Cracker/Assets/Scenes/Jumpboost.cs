@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Jumpboost : MonoBehaviour
 {
-    public float jumpboost = 2f;
+    public float jumpboost = 1.5f;
     public float m_duration = 5f;
     private float tempjump;
     

@@ -30,7 +30,7 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
-    
+  
        
     }
 
@@ -116,7 +116,7 @@ public class CharacterController : MonoBehaviour
         facingRight = !facingRight;
     }
 
- 
+
 
 
 }
