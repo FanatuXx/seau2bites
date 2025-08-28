@@ -45,6 +45,7 @@ public class CharacterController : MonoBehaviour
             isJumping = true;
             jumpTimeCounter = jumpTime;
             rb.linearVelocity = Vector2.up * jumpForce;
+            Debug.Log("jumping");
             
         }
 
