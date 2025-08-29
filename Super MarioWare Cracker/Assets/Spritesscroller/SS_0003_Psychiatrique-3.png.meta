@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 0088cb7a947cc7a488acff644c8f08f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8993093037208005952
+    second: SS_0003_Psychiatrique-3_0
+  - first:
+      213: 1708839182354399843
+    second: SS_0003_Psychiatrique-3_1
+  - first:
+      213: 6173338816748897652
+    second: SS_0003_Psychiatrique-3_2
+  - first:
+      213: 492404303082261239
+    second: SS_0003_Psychiatrique-3_3
+  - first:
+      213: -4941666930506649962
+    second: SS_0003_Psychiatrique-3_4
+  - first:
+      213: 7519772936203809116
+    second: SS_0003_Psychiatrique-3_5
+  - first:
+      213: -5126468091939517938
+    second: SS_0003_Psychiatrique-3_6
+  - first:
+      213: 3246986395990404030
+    second: SS_0003_Psychiatrique-3_7
+  - first:
+      213: -7578969301718311100
+    second: SS_0003_Psychiatrique-3_8
+  - first:
+      213: -167405126145120219
+    second: SS_0003_Psychiatrique-3_9
+  - first:
+      213: 9216635693516684641
+    second: SS_0003_Psychiatrique-3_10
+  - first:
+      213: 7154029527808933645
+    second: SS_0003_Psychiatrique-3_11
+  - first:
+      213: 3560133961243316841
+    second: SS_0003_Psychiatrique-3_12
+  - first:
+      213: 4844613195831802416
+    second: SS_0003_Psychiatrique-3_13
+  - first:
+      213: 3325648252768011627
+    second: SS_0003_Psychiatrique-3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29d25b78d123380800000000000000
+      internalID: -8993093037208005952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c08abe2407b710800000000000000
+      internalID: 1708839182354399843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c27232fa1ca550800000000000000
+      internalID: 6173338816748897652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa8713da1f55d600800000000000000
+      internalID: 492404303082261239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e2bd8db1cab6bb0800000000000000
+      internalID: -4941666930506649962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51360ed4a99b5860800000000000000
+      internalID: 7519772936203809116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a029b7e602bd8b0800000000000000
+      internalID: -5126468091939517938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba8838cec9f0d20800000000000000
+      internalID: 3246986395990404030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5d7f339712d690800000000000000
+      internalID: -7578969301718311100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286a8abce14dadf0800000000000000
+      internalID: -167405126145120219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d7f38d45118ef70800000000000000
+      internalID: 9216635693516684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ff4bda3f7384360800000000000000
+      internalID: 7154029527808933645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96256b0b9f2286130800000000000000
+      internalID: 3560133961243316841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a79b3a8068b3340800000000000000
+      internalID: 4844613195831802416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0003_Psychiatrique-3_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65c2224773172e20800000000000000
+      internalID: 3325648252768011627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_0003_Psychiatrique-3_0: -8993093037208005952
+      SS_0003_Psychiatrique-3_1: 1708839182354399843
+      SS_0003_Psychiatrique-3_10: 9216635693516684641
+      SS_0003_Psychiatrique-3_11: 7154029527808933645
+      SS_0003_Psychiatrique-3_12: 3560133961243316841
+      SS_0003_Psychiatrique-3_13: 4844613195831802416
+      SS_0003_Psychiatrique-3_14: 3325648252768011627
+      SS_0003_Psychiatrique-3_2: 6173338816748897652
+      SS_0003_Psychiatrique-3_3: 492404303082261239
+      SS_0003_Psychiatrique-3_4: -4941666930506649962
+      SS_0003_Psychiatrique-3_5: 7519772936203809116
+      SS_0003_Psychiatrique-3_6: -5126468091939517938
+      SS_0003_Psychiatrique-3_7: 3246986395990404030
+      SS_0003_Psychiatrique-3_8: -7578969301718311100
+      SS_0003_Psychiatrique-3_9: -167405126145120219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

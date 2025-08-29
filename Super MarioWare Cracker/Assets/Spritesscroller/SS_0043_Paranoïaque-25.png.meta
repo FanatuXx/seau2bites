@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 47f2a2606f9507246bbd379ca52fe34b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5388616659507286453
+    second: "SS_0043_Parano\xEFaque-25_0"
+  - first:
+      213: -3715807772477549416
+    second: "SS_0043_Parano\xEFaque-25_1"
+  - first:
+      213: 9008941502639015494
+    second: "SS_0043_Parano\xEFaque-25_2"
+  - first:
+      213: 959492501155043391
+    second: "SS_0043_Parano\xEFaque-25_3"
+  - first:
+      213: 783587679351957676
+    second: "SS_0043_Parano\xEFaque-25_4"
+  - first:
+      213: -5948072425112719375
+    second: "SS_0043_Parano\xEFaque-25_5"
+  - first:
+      213: 7843266577668494404
+    second: "SS_0043_Parano\xEFaque-25_6"
+  - first:
+      213: 9173749334175763740
+    second: "SS_0043_Parano\xEFaque-25_7"
+  - first:
+      213: 4345859874306613813
+    second: "SS_0043_Parano\xEFaque-25_8"
+  - first:
+      213: 8743582094477649886
+    second: "SS_0043_Parano\xEFaque-25_9"
+  - first:
+      213: 5962904237333277268
+    second: "SS_0043_Parano\xEFaque-25_10"
+  - first:
+      213: 5957967053918147726
+    second: "SS_0043_Parano\xEFaque-25_11"
+  - first:
+      213: -6050441190836454599
+    second: "SS_0043_Parano\xEFaque-25_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_0"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11fac3d4638ca40800000000000000
+      internalID: 5388616659507286453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_1"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89417d3a48cce6cc0800000000000000
+      internalID: -3715807772477549416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468213b090360d70800000000000000
+      internalID: 9008941502639015494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_3"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f385fff985dc05d00800000000000000
+      internalID: 959492501155043391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_4"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8652eb7dcdfda00800000000000000
+      internalID: 783587679351957676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_5"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2cd2c4a3347da0800000000000000
+      internalID: -5948072425112719375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_6"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444df90a561e8dc60800000000000000
+      internalID: 7843266577668494404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_7"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc5023a64bf4f70800000000000000
+      internalID: 9173749334175763740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_8"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326ba3c7889f4c30800000000000000
+      internalID: 4345859874306613813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_9"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed76ec5e691775970800000000000000
+      internalID: 8743582094477649886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_10"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aebef9fcd70c250800000000000000
+      internalID: 5962904237333277268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_11"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8495480873fea250800000000000000
+      internalID: 5957967053918147726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SS_0043_Parano\xEFaque-25_12"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b3dc52bc3880ca0800000000000000
+      internalID: -6050441190836454599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "SS_0043_Parano\xEFaque-25_0": 5388616659507286453
+      "SS_0043_Parano\xEFaque-25_1": -3715807772477549416
+      "SS_0043_Parano\xEFaque-25_10": 5962904237333277268
+      "SS_0043_Parano\xEFaque-25_11": 5957967053918147726
+      "SS_0043_Parano\xEFaque-25_12": -6050441190836454599
+      "SS_0043_Parano\xEFaque-25_2": 9008941502639015494
+      "SS_0043_Parano\xEFaque-25_3": 959492501155043391
+      "SS_0043_Parano\xEFaque-25_4": 783587679351957676
+      "SS_0043_Parano\xEFaque-25_5": -5948072425112719375
+      "SS_0043_Parano\xEFaque-25_6": 7843266577668494404
+      "SS_0043_Parano\xEFaque-25_7": 9173749334175763740
+      "SS_0043_Parano\xEFaque-25_8": 4345859874306613813
+      "SS_0043_Parano\xEFaque-25_9": 8743582094477649886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
