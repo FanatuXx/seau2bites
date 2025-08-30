@@ -10,6 +10,7 @@ TagManager:
   - Lyrica
   - Speedboost
   - Jumpboost
+  - Rectanglemortel
   layers:
   - Default
   - TransparentFX

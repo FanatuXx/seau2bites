@@ -22,6 +22,7 @@ public class CharacterController : MonoBehaviour
 
     public Animator animator; //anim
     bool facingRight = true; //flip
+  
     
 
 
@@ -29,7 +30,7 @@ public class CharacterController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
+        
   
        
     }
@@ -120,5 +121,6 @@ public class CharacterController : MonoBehaviour
 
     #endregion
 
+    
 
 }
