@@ -24,26 +24,32 @@ public class EnemyMovement : MonoBehaviour
         transform.position = new Vector3(transform.position.x, newY, transform.position.z);
 
 
+        
     }
-
+    
+    
+        
+ 
     private void FixedUpdate() //Toute la suite est LOS
     {
-        RaycastHit2D ray = Physics2D.Raycast(transform.position, player.transform.position - transform.position);
-        if (ray.collider != null)
-        {
-            hasLineOfSight = ray.collider.CompareTag("Player");
-            if (hasLineOfSight)
-            {
-                Debug.Log("CATCH");
-               
+     RaycastHit2D ray = Physics2D.Raycast(transform.position, player.transform.position - transform.position);
+     Debug.DrawRay(transform.position, player.transform.position - transform.position, Color.red);
+     if (ray.collider != null)
+     {
+     hasLineOfSight = ray.collider.CompareTag("Player");
+     if (hasLineOfSight)
+     {
 
-            }
-            else
-            {
-                Debug.Log("PAS CATCH");
-               
+      Debug.Log("CATCH");
 
-            }
-        }
+
+     }
+    else
+    {
+     Debug.Log("PAS CATCH");
+
+
     }
+     }
+     }
 }
