@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 344e4e7f308f3de428b0ad22c38b49fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3574217584041226892
+    second: SS_0014_Calque-9_0
+  - first:
+      213: -5863264847798271780
+    second: SS_0014_Calque-9_1
+  - first:
+      213: 2581353356764465531
+    second: SS_0014_Calque-9_2
+  - first:
+      213: 2909486930601518290
+    second: SS_0014_Calque-9_3
+  - first:
+      213: -2441262270420302125
+    second: SS_0014_Calque-9_4
+  - first:
+      213: 7228841623829849984
+    second: SS_0014_Calque-9_5
+  - first:
+      213: 7283455453771193798
+    second: SS_0014_Calque-9_6
+  - first:
+      213: -8668717335329745796
+    second: SS_0014_Calque-9_7
+  - first:
+      213: -1163491113803950344
+    second: SS_0014_Calque-9_8
+  - first:
+      213: 2726438893960414749
+    second: SS_0014_Calque-9_9
+  - first:
+      213: -421175009369779473
+    second: SS_0014_Calque-9_10
+  - first:
+      213: -1319597631251019886
+    second: SS_0014_Calque-9_11
+  - first:
+      213: -6503792324378340795
+    second: SS_0014_Calque-9_12
+  - first:
+      213: 6968776870750613083
+    second: SS_0014_Calque-9_13
+  - first:
+      213: 7771624533157294984
+    second: SS_0014_Calque-9_14
+  - first:
+      213: -1839113958277435034
+    second: SS_0014_Calque-9_15
+  - first:
+      213: 8900942876606713241
+    second: SS_0014_Calque-9_16
+  - first:
+      213: -1398575295650234793
+    second: SS_0014_Calque-9_17
+  - first:
+      213: 1162373657140050189
+    second: SS_0014_Calque-9_18
+  - first:
+      213: 5538707733480419282
+    second: SS_0014_Calque-9_19
+  - first:
+      213: 6387311796747083168
+    second: SS_0014_Calque-9_20
+  - first:
+      213: -3018155598785086352
+    second: SS_0014_Calque-9_21
+  - first:
+      213: 3679587689067104103
+    second: SS_0014_Calque-9_22
+  - first:
+      213: 4132970422423602841
+    second: SS_0014_Calque-9_23
+  - first:
+      213: 6524147141822160389
+    second: SS_0014_Calque-9_24
+  - first:
+      213: -1065108654195973165
+    second: SS_0014_Calque-9_25
+  - first:
+      213: -7858202744211275836
+    second: SS_0014_Calque-9_26
+  - first:
+      213: 5550913064700641862
+    second: SS_0014_Calque-9_27
+  - first:
+      213: 5200779886740089836
+    second: SS_0014_Calque-9_28
+  - first:
+      213: -4626523576427076585
+    second: SS_0014_Calque-9_29
+  - first:
+      213: -1501811789397443980
+    second: SS_0014_Calque-9_30
+  - first:
+      213: -5057384556462803429
+    second: SS_0014_Calque-9_31
+  - first:
+      213: 7006089779090210365
+    second: SS_0014_Calque-9_32
+  - first:
+      213: 2578557709407388034
+    second: SS_0014_Calque-9_33
+  - first:
+      213: -106650566047838721
+    second: SS_0014_Calque-9_34
+  - first:
+      213: 5629187394896959739
+    second: SS_0014_Calque-9_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d84495b04d56ec0800000000000000
+      internalID: -3574217584041226892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd003f29faf71aea0800000000000000
+      internalID: -5863264847798271780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7945bd833fc2d320800000000000000
+      internalID: 2581353356764465531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42521c2f2906820800000000000000
+      internalID: 2909486930601518290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c80046e4ee1ed0800000000000000
+      internalID: -2441262270420302125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087afe52821025460800000000000000
+      internalID: 7228841623829849984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd9635528041560800000000000000
+      internalID: 7283455453771193798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_7
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745669238782b780800000000000000
+      internalID: -8668717335329745796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f654661ff27adfe0800000000000000
+      internalID: -1163491113803950344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_9
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c1509ab146d520800000000000000
+      internalID: 2726438893960414749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_10
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21e3a7f8fa72af0800000000000000
+      internalID: -421175009369779473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29706d622f8dfade0800000000000000
+      internalID: -1319597631251019886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542548ce653edb5a0800000000000000
+      internalID: -6503792324378340795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e6c0c44a116b060800000000000000
+      internalID: 6968776870750613083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833d8a465b5adb60800000000000000
+      internalID: 7771624533157294984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661396759972a76e0800000000000000
+      internalID: -1839113958277435034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dcf261360868b70800000000000000
+      internalID: 8900942876606713241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e7127bd23479ce0800000000000000
+      internalID: -1398575295650234793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ba12cea4912010800000000000000
+      internalID: 1162373657140050189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2fc896517ddc40800000000000000
+      internalID: 5538707733480419282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad95cadc3a44a850800000000000000
+      internalID: 6387311796747083168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_21
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfe89497b5d16d0800000000000000
+      internalID: -3018155598785086352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767ceb60285801330800000000000000
+      internalID: 3679587689067104103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99641c7a3b24b5930800000000000000
+      internalID: 4132970422423602841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_24
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e90b2524d6a8a50800000000000000
+      internalID: 6524147141822160389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_25
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3647b7259f731f0800000000000000
+      internalID: -1065108654195973165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf794a1d3e02f290800000000000000
+      internalID: -7858202744211275836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_27
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428e88b50ec80d40800000000000000
+      internalID: 5550913064700641862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_28
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceba32880c1ec2840800000000000000
+      internalID: 5200779886740089836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_29
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7142812d1594bcfb0800000000000000
+      internalID: -4626523576427076585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab87d622e782be0800000000000000
+      internalID: -1501811789397443980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_31
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fc738a8f80d9b0800000000000000
+      internalID: -5057384556462803429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_32
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eba23c881aa3160800000000000000
+      internalID: 7006089779090210365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_33
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281821e2390e8c320800000000000000
+      internalID: 2578557709407388034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_34
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdcf9f00e9158ef0800000000000000
+      internalID: -106650566047838721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0014_Calque-9_35
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf890f66c14ee1e40800000000000000
+      internalID: 5629187394896959739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_0014_Calque-9_0: -3574217584041226892
+      SS_0014_Calque-9_1: -5863264847798271780
+      SS_0014_Calque-9_10: -421175009369779473
+      SS_0014_Calque-9_11: -1319597631251019886
+      SS_0014_Calque-9_12: -6503792324378340795
+      SS_0014_Calque-9_13: 6968776870750613083
+      SS_0014_Calque-9_14: 7771624533157294984
+      SS_0014_Calque-9_15: -1839113958277435034
+      SS_0014_Calque-9_16: 8900942876606713241
+      SS_0014_Calque-9_17: -1398575295650234793
+      SS_0014_Calque-9_18: 1162373657140050189
+      SS_0014_Calque-9_19: 5538707733480419282
+      SS_0014_Calque-9_2: 2581353356764465531
+      SS_0014_Calque-9_20: 6387311796747083168
+      SS_0014_Calque-9_21: -3018155598785086352
+      SS_0014_Calque-9_22: 3679587689067104103
+      SS_0014_Calque-9_23: 4132970422423602841
+      SS_0014_Calque-9_24: 6524147141822160389
+      SS_0014_Calque-9_25: -1065108654195973165
+      SS_0014_Calque-9_26: -7858202744211275836
+      SS_0014_Calque-9_27: 5550913064700641862
+      SS_0014_Calque-9_28: 5200779886740089836
+      SS_0014_Calque-9_29: -4626523576427076585
+      SS_0014_Calque-9_3: 2909486930601518290
+      SS_0014_Calque-9_30: -1501811789397443980
+      SS_0014_Calque-9_31: -5057384556462803429
+      SS_0014_Calque-9_32: 7006089779090210365
+      SS_0014_Calque-9_33: 2578557709407388034
+      SS_0014_Calque-9_34: -106650566047838721
+      SS_0014_Calque-9_35: 5629187394896959739
+      SS_0014_Calque-9_4: -2441262270420302125
+      SS_0014_Calque-9_5: 7228841623829849984
+      SS_0014_Calque-9_6: 7283455453771193798
+      SS_0014_Calque-9_7: -8668717335329745796
+      SS_0014_Calque-9_8: -1163491113803950344
+      SS_0014_Calque-9_9: 2726438893960414749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

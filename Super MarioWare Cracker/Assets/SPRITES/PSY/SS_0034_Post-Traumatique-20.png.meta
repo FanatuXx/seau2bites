@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 0a0e61c9b58e8ba42926131014b691d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5697341651885324901
+    second: SS_0034_Post-Traumatique-20_0
+  - first:
+      213: -8658137800080520538
+    second: SS_0034_Post-Traumatique-20_1
+  - first:
+      213: -1392493055752344223
+    second: SS_0034_Post-Traumatique-20_2
+  - first:
+      213: -4790645761403481291
+    second: SS_0034_Post-Traumatique-20_3
+  - first:
+      213: 907422672423233586
+    second: SS_0034_Post-Traumatique-20_4
+  - first:
+      213: 9210203739651928377
+    second: SS_0034_Post-Traumatique-20_5
+  - first:
+      213: -6833967371631771041
+    second: SS_0034_Post-Traumatique-20_6
+  - first:
+      213: 6766615526449329008
+    second: SS_0034_Post-Traumatique-20_7
+  - first:
+      213: -3766385759150056055
+    second: SS_0034_Post-Traumatique-20_8
+  - first:
+      213: 7333272049859532224
+    second: SS_0034_Post-Traumatique-20_9
+  - first:
+      213: -3486348181910157670
+    second: SS_0034_Post-Traumatique-20_10
+  - first:
+      213: -2395482774504519142
+    second: SS_0034_Post-Traumatique-20_11
+  - first:
+      213: -3831587253666656456
+    second: SS_0034_Post-Traumatique-20_12
+  - first:
+      213: 964333054553093163
+    second: SS_0034_Post-Traumatique-20_13
+  - first:
+      213: -7375476866099706068
+    second: SS_0034_Post-Traumatique-20_14
+  - first:
+      213: 5049420608274480680
+    second: SS_0034_Post-Traumatique-20_15
+  - first:
+      213: -2209364589080897811
+    second: SS_0034_Post-Traumatique-20_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a79aceb06011f40800000000000000
+      internalID: 5697341651885324901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa81d92b8d18d780800000000000000
+      internalID: -8658137800080520538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16deeab81fedcace0800000000000000
+      internalID: -1392493055752344223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53390dadf05348db0800000000000000
+      internalID: -4790645761403481291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382ce2ec10d79c00800000000000000
+      internalID: 907422672423233586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9317de2e08731df70800000000000000
+      internalID: 9210203739651928377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52474722eed821a0800000000000000
+      internalID: -6833967371631771041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073b7a168f8d7ed50800000000000000
+      internalID: 6766615526449329008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d55c27b1c1bbbc0800000000000000
+      internalID: -3766385759150056055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59d25731405c560800000000000000
+      internalID: 7333272049859532224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968aedccc00e9fc0800000000000000
+      internalID: -3486348181910157670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a4710cb1981ced0800000000000000
+      internalID: -2395482774504519142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fc84381b773dac0800000000000000
+      internalID: -3831587253666656456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fdc9cdcff16d00800000000000000
+      internalID: 964333054553093163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2704030eda05a990800000000000000
+      internalID: -7375476866099706068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ebcbd4a45231640800000000000000
+      internalID: 5049420608274480680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_0034_Post-Traumatique-20_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de69188ac92c651e0800000000000000
+      internalID: -2209364589080897811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_0034_Post-Traumatique-20_0: 5697341651885324901
+      SS_0034_Post-Traumatique-20_1: -8658137800080520538
+      SS_0034_Post-Traumatique-20_10: -3486348181910157670
+      SS_0034_Post-Traumatique-20_11: -2395482774504519142
+      SS_0034_Post-Traumatique-20_12: -3831587253666656456
+      SS_0034_Post-Traumatique-20_13: 964333054553093163
+      SS_0034_Post-Traumatique-20_14: -7375476866099706068
+      SS_0034_Post-Traumatique-20_15: 5049420608274480680
+      SS_0034_Post-Traumatique-20_16: -2209364589080897811
+      SS_0034_Post-Traumatique-20_2: -1392493055752344223
+      SS_0034_Post-Traumatique-20_3: -4790645761403481291
+      SS_0034_Post-Traumatique-20_4: 907422672423233586
+      SS_0034_Post-Traumatique-20_5: 9210203739651928377
+      SS_0034_Post-Traumatique-20_6: -6833967371631771041
+      SS_0034_Post-Traumatique-20_7: 6766615526449329008
+      SS_0034_Post-Traumatique-20_8: -3766385759150056055
+      SS_0034_Post-Traumatique-20_9: 7333272049859532224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
