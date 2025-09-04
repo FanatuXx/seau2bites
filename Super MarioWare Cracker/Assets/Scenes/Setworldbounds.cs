@@ -1,13 +1,13 @@
 using UnityEngine;
 
-public class Setworldbounds : MonoBehaviour
+using System;
+using UnityEngine;
+
+public class SetWorldBounds : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
         var bounds = GetComponent<SpriteRenderer>().bounds;
         Globals.WorldBounds = bounds;
     }
-
-   
 }

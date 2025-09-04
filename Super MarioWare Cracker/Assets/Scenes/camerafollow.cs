@@ -1,4 +1,6 @@
+using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 
 public class CameraFollow : MonoBehaviour
@@ -11,10 +13,10 @@ public class CameraFollow : MonoBehaviour
 
     [SerializeField] private Transform target;
 
+ 
+
     
 
-     
-    
     private void Update()
     {
         Vector3 targetPosition = target.position + offset;
@@ -23,6 +25,10 @@ public class CameraFollow : MonoBehaviour
        
     }
 
+ 
    
-     
-}
+    }
+
+   
+
+
