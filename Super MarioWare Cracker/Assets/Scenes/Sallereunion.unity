@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 328373654}
   - component: {fileID: 328373653}
   m_Layer: 0
-  m_Name: "Saller\xE9u2-R\xE9cup\xE9r\xE9_0"
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 672137985}
   - component: {fileID: 672137984}
   m_Layer: 6
-  m_Name: Square
+  m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

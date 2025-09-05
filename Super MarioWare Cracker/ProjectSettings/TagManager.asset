@@ -11,6 +11,7 @@ TagManager:
   - Speedboost
   - Jumpboost
   - Rectanglemortel
+  - Reversegravity
   layers:
   - Default
   - TransparentFX

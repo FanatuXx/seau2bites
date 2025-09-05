@@ -162,7 +162,7 @@ GameObject:
   - component: {fileID: 409566308}
   - component: {fileID: 409566307}
   m_Layer: 6
-  m_Name: Square
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -377,7 +377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1179899256}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: TS1
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -408,7 +408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1293231592}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: TS2
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0

@@ -1056,7 +1056,7 @@ GameObject:
   - component: {fileID: 299356742}
   - component: {fileID: 299356741}
   m_Layer: 0
-  m_Name: Cuisine background sans tups_0
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1652,7 +1652,7 @@ GameObject:
   - component: {fileID: 1986995318}
   - component: {fileID: 1986995320}
   m_Layer: 6
-  m_Name: Square
+  m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
