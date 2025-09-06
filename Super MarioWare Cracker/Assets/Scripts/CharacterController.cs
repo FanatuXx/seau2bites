@@ -47,39 +47,40 @@ public class CharacterController : MonoBehaviour
             jumpTimeCounter = jumpTime;
             rb.linearVelocity = Vector2.up * jumpForce;
             Debug.Log("jumping");
-            
+            animator.SetBool("IsJumping", true); //anim
+
         }
 
-       
 
-            if (Input.GetKey(KeyCode.Space) && isJumping == true)
+
+         if (Input.GetKey(KeyCode.Space) && isJumping == true)
+         {
+
+
+
+         if (jumpTimeCounter > 0)
         {
-            
+         rb.linearVelocity = Vector2.up * jumpForce;
+        jumpTimeCounter -= Time.deltaTime;
+        animator.SetBool("IsJumping", true); //anim
+
+        }
+        else
+        {
+          isJumping = false;
+        animator.SetBool("IsJumping", false); //anim
 
 
-            if (jumpTimeCounter > 0)
-            {
-                rb.linearVelocity = Vector2.up * jumpForce;
-                jumpTimeCounter -= Time.deltaTime;
-                animator.SetBool("IsJumping", true); //anim
-               
-            }
-            else
-            {
-                isJumping = false;
-                animator.SetBool("IsJumping", false); //anim
-
-
-            }
+        }
 
         }
 
         if (Input.GetKeyUp(KeyCode.Space))
-            {
-                isJumping = false;
+        {
+            isJumping = false;
             animator.SetBool("IsJumping", false);//anim
-           
-            }
+
+        }
 
 
 
