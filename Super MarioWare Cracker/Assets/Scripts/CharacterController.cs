@@ -31,7 +31,7 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         
-  
+
        
     }
 
@@ -53,38 +53,34 @@ public class CharacterController : MonoBehaviour
 
 
 
-         if (Input.GetKey(KeyCode.Space) && isJumping == true)
-         {
+        //if (Input.GetKey(KeyCode.Space) && isJumping == true)
+        // {
 
 
 
-         if (jumpTimeCounter > 0)
-        {
-         rb.linearVelocity = Vector2.up * jumpForce;
-        jumpTimeCounter -= Time.deltaTime;
-        animator.SetBool("IsJumping", true); //anim
+        // if (jumpTimeCounter > 0)
+        //{
+        // rb.linearVelocity = Vector2.up * jumpForce;
+        //jumpTimeCounter -= Time.deltaTime;
+        //animator.SetBool("IsJumping", true); //anim
 
-        }
-        else
-        {
-          isJumping = false;
-        animator.SetBool("IsJumping", false); //anim
+        //}
+        //else
+        //{
+        //    isJumping = false;
+        //    animator.SetBool("IsJumping", false); //anim
 
 
-        }
+            if (Input.GetKeyUp(KeyCode.Space))
+            {
+                isJumping = false;
+                animator.SetBool("IsJumping", false);//anim
 
-        }
-
-        if (Input.GetKeyUp(KeyCode.Space))
-        {
-            isJumping = false;
-            animator.SetBool("IsJumping", false);//anim
-
-        }
+            }
 
 
 
-        animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+            animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
 
 
     }
@@ -121,7 +117,7 @@ public class CharacterController : MonoBehaviour
     }
 
     #endregion
-
-    
+  
 
 }
+
