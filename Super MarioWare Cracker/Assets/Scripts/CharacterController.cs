@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Cinemachine;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -8,7 +9,7 @@ public class CharacterController : MonoBehaviour
 
     private Rigidbody2D rb;
     public float speed;
-    public float jumpForce; 
+    public float jumpForce;
     private float moveInput;
 
     private bool isGrounded;
@@ -24,17 +25,17 @@ public class CharacterController : MonoBehaviour
 
     public Animator animator; //anim
     bool facingRight = true; //flip
-  
-    
+
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        
 
-       
+
+
     }
 
 
@@ -73,21 +74,21 @@ public class CharacterController : MonoBehaviour
         //    animator.SetBool("IsJumping", false); //anim
 
 
-            if (Input.GetKeyUp(KeyCode.Space))
-            {
-                isJumping = false;
-                animator.SetBool("IsJumping", false);//anim
+        if (Input.GetKeyUp(KeyCode.Space))
+        {
+            isJumping = false;
+            animator.SetBool("IsJumping", false);//anim
 
-            }
+        }
 
 
 
-            animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+        animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
 
 
     }
 
-   
+
     void FixedUpdate()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -99,12 +100,12 @@ public class CharacterController : MonoBehaviour
             Flip();
         }
 
-        if (moveInput <0 && facingRight)
+        if (moveInput < 0 && facingRight)
         {
-             Flip();
+            Flip();
         }
 
-       
+
     }
 
     #region Flip
@@ -119,11 +120,11 @@ public class CharacterController : MonoBehaviour
     }
 
     #endregion
-  
 
 
 
-  private void OnTriggerEnter2D(Collider2D other)
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Reversegravity"))
         {
@@ -147,7 +148,11 @@ public class CharacterController : MonoBehaviour
 
     }
 
+    
+       
 }
+
+
 
 
 
