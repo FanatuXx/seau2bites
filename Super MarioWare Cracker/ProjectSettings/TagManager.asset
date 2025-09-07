@@ -12,6 +12,7 @@ TagManager:
   - Jumpboost
   - Rectanglemortel
   - Reversegravity
+  - Victoire
   layers:
   - Default
   - TransparentFX
