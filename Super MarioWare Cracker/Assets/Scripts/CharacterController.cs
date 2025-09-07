@@ -20,6 +20,8 @@ public class CharacterController : MonoBehaviour
     public float jumpTime;
     private bool isJumping;
 
+    private Vector2 jumpDir = Vector2.up;
+
     public Animator animator; //anim
     bool facingRight = true; //flip
   
@@ -45,7 +47,7 @@ public class CharacterController : MonoBehaviour
         {
             isJumping = true;
             jumpTimeCounter = jumpTime;
-            rb.linearVelocity = Vector2.up * jumpForce;
+            rb.linearVelocity = jumpDir * jumpForce;
             Debug.Log("jumping");
             animator.SetBool("IsJumping", true); //anim
 
@@ -119,5 +121,33 @@ public class CharacterController : MonoBehaviour
     #endregion
   
 
+
+
+  private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Reversegravity"))
+        {
+
+            rb.gravityScale *= -1;
+
+            other.gameObject.SetActive(false);
+
+
+            Vector3 currentScale = gameObject.transform.localScale;
+            currentScale.y *= -1;
+            gameObject.transform.localScale = currentScale;
+
+            jumpDir = -jumpDir;
+
+
+
+
+        }
+
+
+    }
+
 }
+
+
 
