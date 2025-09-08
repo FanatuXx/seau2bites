@@ -45,7 +45,7 @@ public class CharacterController : MonoBehaviour
         {
             isJumping = true;
             jumpTimeCounter = jumpTime;
-            rb.linearVelocity = Vector2.up * jumpForce;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             Debug.Log("jumping");
             
         }
@@ -59,7 +59,7 @@ public class CharacterController : MonoBehaviour
 
             if (jumpTimeCounter > 0)
             {
-                rb.linearVelocity = Vector2.up * jumpForce;
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
                 jumpTimeCounter -= Time.deltaTime;
                 animator.SetBool("IsJumping", true); //anim
                
