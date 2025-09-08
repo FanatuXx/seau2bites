@@ -11,6 +11,10 @@ TagManager:
   - Speedboost
   - Jumpboost
   - Rectanglemortel
+  - Reversegravity
+  - Victoire
+  - Chromatic
+  - Reversecommands
   layers:
   - Default
   - TransparentFX
@@ -56,6 +60,9 @@ TagManager:
     locked: 0
   - name: ground
     uniqueID: 383389213
+    locked: 0
+  - name: Eau
+    uniqueID: 203555911
     locked: 0
   m_RenderingLayers:
   - Default
