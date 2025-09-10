@@ -44,42 +44,40 @@ public class CharacterController : MonoBehaviour
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
             isJumping = true;
-            jumpTimeCounter = jumpTime;
+           // jumpTimeCounter = jumpTime;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             Debug.Log("jumping");
-            
-        }
-
-       
-
-            if (Input.GetKey(KeyCode.Space) && isJumping == true)
-        {
-            
-
-
-            if (jumpTimeCounter > 0)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-                jumpTimeCounter -= Time.deltaTime;
-                animator.SetBool("IsJumping", true); //anim
-               
-            }
-            else
-            {
-                isJumping = false;
-                animator.SetBool("IsJumping", false); //anim
-
-
-            }
+            animator.SetBool("IsJumping", true);
 
         }
+
+
+
+
+        //    if (jumpTimeCounter > 0)
+        //    {
+        //        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        //        jumpTimeCounter -= Time.deltaTime;
+        //        animator.SetBool("IsJumping", true); //anim
+
+        //    }
+        //    else
+        //    {
+        //        isJumping = false;
+        //        animator.SetBool("IsJumping", false); //anim
+
+
+        //    }
+
+        //}
 
         if (Input.GetKeyUp(KeyCode.Space))
-            {
-                isJumping = false;
+        {
+            isJumping = false;
             animator.SetBool("IsJumping", false);//anim
-           
-            }
+            Debug.Log("not jumping");
+
+        }
 
 
 
