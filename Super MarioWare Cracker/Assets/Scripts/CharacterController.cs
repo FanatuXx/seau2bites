@@ -105,6 +105,17 @@ public class CharacterController : MonoBehaviour
 
        
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Reversegravity"))
+        {
+            rb.gravityScale *= -1;
+            Vector3 currentScale = gameObject.transform.localScale;
+            currentScale.y *= -1;
+            gameObject.transform.localScale = currentScale;
+
+        }
+    }
 
     #region Flip
     void Flip() //flip
