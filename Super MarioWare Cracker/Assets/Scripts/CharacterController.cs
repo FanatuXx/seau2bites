@@ -40,12 +40,18 @@ public class CharacterController : MonoBehaviour
     void Update()
     {
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+        Vector2 jumpDir = Vector2.up;
+        if (rb.gravityScale == -1)
+        {
+            jumpDir = -jumpDir;
+            jumpForce = -jumpForce; 
+        }
 
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
             isJumping = true;
-           // jumpTimeCounter = jumpTime;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            // jumpTimeCounter = jumpTime;
+            rb.linearVelocity = jumpDir * jumpForce;
             Debug.Log("jumping");
             animator.SetBool("IsJumping", true);
 
@@ -105,7 +111,7 @@ public class CharacterController : MonoBehaviour
 
        
     }
-    private void OnTriggerEnter2D(Collider2D other)
+     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Reversegravity"))
         {
@@ -114,7 +120,7 @@ public class CharacterController : MonoBehaviour
             currentScale.y *= -1;
             gameObject.transform.localScale = currentScale;
 
-        }
+        } 
     }
 
     #region Flip
