@@ -30,5 +30,6 @@ EditorBuildSettings:
     path: "Assets/Scenes/Cr\xE9dits.unity"
     guid: ac503601d66993d4098ff5a30f746c3b
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b7767defd00584349bb6f290e98e21f1, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
