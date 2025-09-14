@@ -28,8 +28,8 @@ public class TroncheSpawner : MonoBehaviour
             int randEnemy = Random.Range(0, Tronches.Length);
             int randSpawnPoint = Random.Range(0, spawnPoints.Length);
 
-            Instantiate(Tronches[randEnemy], spawnPoints[randSpawnPoint].position, transform.rotation);
-
+            GameObject _Instantiate = Instantiate(Tronches[randEnemy], spawnPoints[randSpawnPoint].position, transform.rotation);
+            _Instantiate.GetComponent<AlarmDead>().Launch();
             SetTimeUntilSpawn();
         }
     }

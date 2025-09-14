@@ -23,8 +23,6 @@ public class EnemyMovement : MonoBehaviour
         // Appliquer le mouvement
         transform.position = new Vector3(transform.position.x, newY, transform.position.z);
 
-
-        
     }
     
     

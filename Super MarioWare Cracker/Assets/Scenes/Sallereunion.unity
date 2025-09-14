@@ -12779,7 +12779,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d37c06a690c02ed448129f91a3e2bb4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
+  m_duration: 6
+  animator: {fileID: 1404443280}
+--- !u!95 &1404443280 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7877542068365127628, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+  m_PrefabInstance: {fileID: 467235812}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1444165420
 GameObject:
   m_ObjectHideFlags: 0

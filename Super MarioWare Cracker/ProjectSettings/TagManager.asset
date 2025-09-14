@@ -15,6 +15,7 @@ TagManager:
   - Victoire
   - Chromatic
   - Reversecommands
+  - Cachette
   layers:
   - Default
   - TransparentFX

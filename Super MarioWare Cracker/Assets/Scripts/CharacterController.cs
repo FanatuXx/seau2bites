@@ -21,6 +21,8 @@ public class CharacterController : MonoBehaviour
     public float checkRadius;
     public LayerMask whatIsGround;
 
+    public bool isHidden = false;
+
     public Animator animator; //anim
     bool facingRight = true; //flip
 
@@ -37,25 +39,8 @@ public class CharacterController : MonoBehaviour
 // Update is called once per frame
 void Update()
     {
-        
-    }
-
-   
-    void FixedUpdate()
-    {
         moveInput = Input.GetAxisRaw("Horizontal");
-        float velocity;
-
-        if (this.isRevesed)
-        {
-            velocity = moveInput * speed * -1;
-        }
-        else
-        {
-            velocity = moveInput * speed;
-        }
-
-        rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
+        Vector2 jumpDir = Vector2.up;
 
         if (moveInput > 0 && !facingRight) //flip
 
@@ -63,15 +48,9 @@ void Update()
             Flip();
         }
 
-        if (moveInput <0 && facingRight)
+        if (moveInput < 0 && facingRight)
         {
-             Flip();
-        }
-        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
-        Vector2 jumpDir = Vector2.up;
-        if (rb.gravityScale <= 0)
-        {
-            jumpDir = Vector2.down;
+            Flip();
         }
 
         if (!isGrounded)
@@ -86,18 +65,43 @@ void Update()
                 animator.SetBool("IsJumping", false);
                 this.isJumping = false;
             }
-            
-        }
 
+        }
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
             rb.linearVelocity = jumpDir * jumpForce;
             animator.SetBool("IsJumping", true);
         }
 
+        if (rb.gravityScale <= 0)
+        {
+            jumpDir = Vector2.down;
+        }
 
 
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+    }
+
+   
+    void FixedUpdate()
+    {
+        float velocity;
+
+        if (this.isRevesed)
+        {
+            velocity = moveInput * speed * -1;
+        }
+        else
+        {
+            velocity = moveInput * speed;
+        }
+
+        rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
+
+        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+       
+
+
     }
 
 
@@ -116,7 +120,20 @@ void Update()
         {
             this.isRevesed = !this.isRevesed;
             this.facingRight = !this.facingRight;   
-        } 
+        }
+
+        if (other.gameObject.CompareTag("Cachette"))
+        {
+            isHidden = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Cachette"))
+        {
+            isHidden = false;
+        }
     }
 
     #region Flip
