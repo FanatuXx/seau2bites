@@ -7,7 +7,7 @@ public class CameraMovement : MonoBehaviour
     private float elapsedTime = 0f;
     private Vector3 startPosition;
     private bool isMoving = false;
-    private float _x;
+
     void Start()
     {
         startPosition = transform.position;
