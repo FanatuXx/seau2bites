@@ -12,14 +12,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 5f425805983c42549992efea7f565b41
   - enabled: 1
-    path: Assets/Scenes/Psy (vertical scroller).unity
-    guid: a1863109bc5b89c469b0564eb97fb5b4
+    path: Assets/Scenes/VideoIntro.unity
+    guid: 375299c4ece56114ebcf60249a2ab0e0
   - enabled: 1
     path: Assets/Scenes/Terrasse.unity
     guid: 6431c1844dee6cb4886ebe057b7e13be
   - enabled: 1
     path: Assets/Scenes/Sallereunion.unity
     guid: d50698f387f7779449576a3b464efdcd
+  - enabled: 1
+    path: Assets/Scenes/Psy (vertical scroller).unity
+    guid: a1863109bc5b89c469b0564eb97fb5b4
   - enabled: 1
     path: Assets/Scenes/Cuisine.unity
     guid: bf3908a7e89cb3546815325afe6885ae

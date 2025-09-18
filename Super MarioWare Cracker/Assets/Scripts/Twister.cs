@@ -9,7 +9,7 @@ public class Spawner : MonoBehaviour
 
     void Start()
     {
-        InvokeRepeating("SpawnThenDestroy", 0f, spawnRate); // Call SpawnThenDestroy repeatedly
+        InvokeRepeating("SpawnThenDestroy", 1f, spawnRate); // Call SpawnThenDestroy repeatedly
     }
 
     void SpawnThenDestroy()

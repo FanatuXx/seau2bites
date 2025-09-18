@@ -40,14 +40,15 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7250020843912494419}
-  - component: {fileID: 5320289198812414972}
   - component: {fileID: 1757485366768422811}
   - component: {fileID: 5344769516164863252}
   - component: {fileID: 2850708474044125757}
+  - component: {fileID: 5320289198812414972}
   - component: {fileID: 5251691532741858018}
   - component: {fileID: 1032737746184664847}
   - component: {fileID: 7877542068365127628}
   - component: {fileID: 1641004991733291392}
+  - component: {fileID: 3114438997317172022}
   m_Layer: 3
   m_Name: SocioSam
   m_TagString: Player
@@ -71,28 +72,6 @@ Transform:
   - {fileID: 5993582061222265629}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5320289198812414972
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2191017650318179002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 643d1c5654d144c4a8aac19bef7ef035, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  jumpForce: 7
-  chromaticab: {fileID: 0}
-  feetPos: {fileID: 5993582061222265629}
-  checkRadius: 1
-  whatIsGround:
-    serializedVersion: 2
-    m_Bits: 64
-  isHidden: 0
-  animator: {fileID: 7877542068365127628}
 --- !u!212 &1757485366768422811
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -896,6 +875,28 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &5320289198812414972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191017650318179002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643d1c5654d144c4a8aac19bef7ef035, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 7
+  chromaticab: {fileID: 0}
+  feetPos: {fileID: 5993582061222265629}
+  checkRadius: 1
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 64
+  isHidden: 0
+  animator: {fileID: 7877542068365127628}
 --- !u!114 &5251691532741858018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -958,3 +959,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6325489f9bfd2949b7aaf6dbc268f60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  videoPlayer: {fileID: 0}
+--- !u!114 &3114438997317172022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191017650318179002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37c06a690c02ed448129f91a3e2bb4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
