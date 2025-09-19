@@ -41,6 +41,7 @@ void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         Vector2 jumpDir = Vector2.up;
+        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
 
         if (moveInput > 0 && !facingRight) //flip
 
@@ -67,16 +68,19 @@ void Update()
             }
 
         }
+
+        if (rb.gravityScale <= 0)
+        {
+            jumpDir = Vector2.down;
+        }
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
             rb.linearVelocity = jumpDir * jumpForce;
             animator.SetBool("IsJumping", true);
         }
 
-        if (rb.gravityScale <= 0)
-        {
-            jumpDir = Vector2.down;
-        }
+
+
 
 
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
@@ -86,6 +90,7 @@ void Update()
     void FixedUpdate()
     {
         float velocity;
+       
 
         if (this.isRevesed)
         {
@@ -98,14 +103,21 @@ void Update()
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
 
-        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+        
+
        
+
+       
+       
+       
+
+
 
 
     }
 
 
-     private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Reversegravity"))
         {
@@ -115,6 +127,7 @@ void Update()
             gameObject.transform.localScale = currentScale;
             chromaticab.enabled = true;
             //chromaticab.active = true;
+            other.gameObject.SetActive(false);
         }
         if (other.gameObject.CompareTag("Reversecommands"))
         {

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: eca91f3ef25312d4abaaaedd79236416
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6872827035272652751
+    second: infirmerieSPRITES stetos_0
+  - first:
+      213: -6678412879274642719
+    second: infirmerieSPRITES stetos_1
+  - first:
+      213: -6045609208711594450
+    second: infirmerieSPRITES stetos_2
+  - first:
+      213: 2710739483571955309
+    second: infirmerieSPRITES stetos_3
+  - first:
+      213: -5757074668544485399
+    second: infirmerieSPRITES stetos_4
+  - first:
+      213: 1416870648037243153
+    second: infirmerieSPRITES stetos_5
+  - first:
+      213: -4975509922421917250
+    second: infirmerieSPRITES stetos_6
+  - first:
+      213: -544088893744764498
+    second: infirmerieSPRITES stetos_7
+  - first:
+      213: 8110668793076550267
+    second: infirmerieSPRITES stetos_8
+  - first:
+      213: 6658055763663106339
+    second: infirmerieSPRITES stetos_9
+  - first:
+      213: 5352024964495485165
+    second: infirmerieSPRITES stetos_10
+  - first:
+      213: -3707802039863770423
+    second: infirmerieSPRITES stetos_11
+  - first:
+      213: 739286161821985555
+    second: infirmerieSPRITES stetos_12
+  - first:
+      213: 6671782814718415599
+    second: infirmerieSPRITES stetos_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 86
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7a02856cf216f50800000000000000
+      internalID: 6872827035272652751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 257
+        width: 87
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2f07bbed28153a0800000000000000
+      internalID: -6678412879274642719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 70
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e3ae7a47ea91ca0800000000000000
+      internalID: -6045609208711594450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 70
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66aeecb23b7e9520800000000000000
+      internalID: 2710739483571955309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 173
+        width: 74
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7910c5713ca10b0800000000000000
+      internalID: -5757074668544485399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 118
+        width: 74
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ffe4f85cb9a310800000000000000
+      internalID: 1416870648037243153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 84
+        width: 71
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb93c91461073fab0800000000000000
+      internalID: -4975509922421917250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_7
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 32
+        width: 71
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ab1aa8020378f0800000000000000
+      internalID: -544088893744764498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 237
+        width: 77
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a8c2e8b42ee8070800000000000000
+      internalID: 8110668793076550267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_9
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 181
+        width: 77
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b1efe07a266c50800000000000000
+      internalID: 6658055763663106339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_10
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 50
+        width: 70
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a6c55956364a40800000000000000
+      internalID: 5352024964495485165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_11
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 0
+        width: 71
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2837480bd3b8cc0800000000000000
+      internalID: -3707802039863770423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_12
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 124
+        width: 87
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be2c6e8d8724a00800000000000000
+      internalID: 739286161821985555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infirmerieSPRITES stetos_13
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 71
+        width: 86
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d8d11f1fe69c50800000000000000
+      internalID: 6671782814718415599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      infirmerieSPRITES stetos_0: 6872827035272652751
+      infirmerieSPRITES stetos_1: -6678412879274642719
+      infirmerieSPRITES stetos_10: 5352024964495485165
+      infirmerieSPRITES stetos_11: -3707802039863770423
+      infirmerieSPRITES stetos_12: 739286161821985555
+      infirmerieSPRITES stetos_13: 6671782814718415599
+      infirmerieSPRITES stetos_2: -6045609208711594450
+      infirmerieSPRITES stetos_3: 2710739483571955309
+      infirmerieSPRITES stetos_4: -5757074668544485399
+      infirmerieSPRITES stetos_5: 1416870648037243153
+      infirmerieSPRITES stetos_6: -4975509922421917250
+      infirmerieSPRITES stetos_7: -544088893744764498
+      infirmerieSPRITES stetos_8: 8110668793076550267
+      infirmerieSPRITES stetos_9: 6658055763663106339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

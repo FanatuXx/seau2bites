@@ -24,6 +24,10 @@ public class PlayerOneWayPlatform : MonoBehaviour
         {
             currentOneWayPlatform = collision.gameObject;
         }
+         if (currentOneWayPlatform != null)
+            {
+                StartCoroutine(DisableCollision());
+            }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
