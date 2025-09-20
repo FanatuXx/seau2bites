@@ -150,7 +150,7 @@ void Update()
 
         IEnumerator ResetGrav()
         {
-            yield return new WaitForSeconds(10);
+            yield return new WaitForSeconds(3);
             rb.gravityScale = V;
             other.gameObject.SetActive(true);
         }
