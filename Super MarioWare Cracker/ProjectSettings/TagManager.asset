@@ -16,6 +16,7 @@ TagManager:
   - Chromatic
   - Reversecommands
   - Cachette
+  - SpaceMonkey
   layers:
   - Default
   - TransparentFX

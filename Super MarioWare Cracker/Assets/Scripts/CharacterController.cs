@@ -8,6 +8,7 @@ using UnityEngine.SocialPlatforms;
 
 public class CharacterController : MonoBehaviour
 {
+    private const float V = 1.5f;
     private Rigidbody2D rb;
     public float speed;
     public float jumpForce; 
@@ -138,6 +139,20 @@ void Update()
         if (other.gameObject.CompareTag("Cachette"))
         {
             isHidden = true;
+        }
+
+        if (other.gameObject.CompareTag("SpaceMonkey"))
+        { 
+            rb.gravityScale = 0.5f;
+            StartCoroutine(ResetGrav());
+            other.gameObject.SetActive(false);
+        }
+
+        IEnumerator ResetGrav()
+        {
+            yield return new WaitForSeconds(10);
+            rb.gravityScale = V;
+            other.gameObject.SetActive(true);
         }
     }
 
