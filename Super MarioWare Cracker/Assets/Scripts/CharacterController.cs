@@ -16,6 +16,7 @@ public class CharacterController : MonoBehaviour
     private bool isRevesed = false;
     private bool isJumping = false;
     public Volume chromaticab;
+    public Volume bloom;
 
     private bool isGrounded;
     public Transform feetPos;
@@ -29,12 +30,20 @@ public class CharacterController : MonoBehaviour
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Awake()
+    {
+        bloom.enabled = false;
+        chromaticab.enabled = false;
+
+    }
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         chromaticab.enabled = false;
 
     }
+
+    
 
 
 // Update is called once per frame
@@ -144,14 +153,16 @@ void Update()
         if (other.gameObject.CompareTag("SpaceMonkey"))
         { 
             rb.gravityScale = 0.5f;
-            StartCoroutine(ResetGrav());
+            bloom.enabled = true;
             other.gameObject.SetActive(false);
+            StartCoroutine(ResetGrav());
         }
 
         IEnumerator ResetGrav()
         {
             yield return new WaitForSeconds(3);
             rb.gravityScale = V;
+            bloom.enabled = false;
             other.gameObject.SetActive(true);
         }
     }

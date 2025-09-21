@@ -17,7 +17,15 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    public void NextLevel()
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+    }
+public void NextLevel()
     {
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
 
