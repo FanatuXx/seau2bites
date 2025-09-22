@@ -18,6 +18,8 @@ TagManager:
   - Cachette
   - SpaceMonkey
   - Finishfinal
+  - Ground
+  - Escargot
   layers:
   - Default
   - TransparentFX

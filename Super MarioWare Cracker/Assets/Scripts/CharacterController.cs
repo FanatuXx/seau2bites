@@ -18,7 +18,7 @@ public class CharacterController : MonoBehaviour
     public Volume chromaticab;
     public Volume bloom;
 
-    private bool isGrounded;
+    public bool isGrounded;
     public Transform feetPos;
     public float checkRadius;
     public LayerMask whatIsGround;
@@ -27,6 +27,10 @@ public class CharacterController : MonoBehaviour
 
     public Animator animator; //anim
     bool facingRight = true; //flip
+
+    public EnemyMovement enemymovement;
+    public EnemyMovement enemymovement2;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -43,15 +47,41 @@ public class CharacterController : MonoBehaviour
 
     }
 
-    
+    //public void OnCollisionEnter2D(Collision2D col)
+    //{
+
+    //    if (col.gameObject.CompareTag("Ground"))
+    //    {
+    //        isGrounded = true;
+    //    }
+        
+    //}
+
+
+    //public void OnCollisionExit2D(Collision2D col)
+    //{
+    //    if (col.gameObject.CompareTag("Ground"))
+    //    {
+
+    //        isGrounded = false;
+
+                  
+    //    }
+
+
+    //}
+
 
 
 // Update is called once per frame
-void Update()
+    void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+        //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
+        //isGrounded = isGrounded1;
+
 
         if (moveInput > 0 && !facingRight) //flip
 
@@ -88,9 +118,6 @@ void Update()
             rb.linearVelocity = jumpDir * jumpForce;
             animator.SetBool("IsJumping", true);
         }
-
-
-
 
 
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
@@ -164,6 +191,19 @@ void Update()
             rb.gravityScale = V;
             bloom.enabled = false;
             other.gameObject.SetActive(true);
+        }
+
+        if (other.gameObject.CompareTag("Escargot"))
+        {
+            //GameObject objectWithScript;
+            //objectWithScript.GetComponent<enemymovement>().speed = 0.5f;
+            ////gameObject = GameObject.FindGameObjectWithTag("RectangleMortel");
+            ////gameObject.enemymovement.speed = 0.5f;
+            enemymovement.speed = 0.5f;
+            enemymovement2.speed = 0.5f;
+            ////bloom.enabled = true;
+            other.gameObject.SetActive(false);
+            ////StartCoroutine(ResetGrav());
         }
     }
 
