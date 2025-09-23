@@ -7,7 +7,7 @@ using Unity.Properties;
 
 public class Finish : MonoBehaviour
 {
-    //public Rigidbody2D rb;
+    public Rigidbody2D rb;
     public Animator animator; //anim
     private void OnTriggerEnter2D (Collider2D other)
     {
@@ -17,7 +17,7 @@ public class Finish : MonoBehaviour
             animator.SetBool("Finish", true);
             
             
-            //rb.gravityScale = 0f;
+            rb.gravityScale = 0.001f;
             StartCoroutine(NextLevel());
             //GetComponent<Rigidbody>().isKinematic = true;
             //rb.bodyType = RigidbodyType2D.Kinematic;
