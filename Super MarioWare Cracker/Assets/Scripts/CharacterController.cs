@@ -8,7 +8,7 @@ using UnityEngine.SocialPlatforms;
 
 public class CharacterController : MonoBehaviour
 {
-    private const float V = 1.5f;
+    private float V = 1.5f;
     private Rigidbody2D rb;
     public float speed;
     public float jumpForce; 
