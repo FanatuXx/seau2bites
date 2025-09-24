@@ -14,10 +14,9 @@ public class Finish : MonoBehaviour
         if (other.gameObject.CompareTag("Finish"))
         {
             Debug.Log("BIEN OUEJ");
-            animator.SetBool("Finish", true);
+            //animator.SetBool("Finish", true);
+
             
-            
-            rb.gravityScale = 0.001f;
             StartCoroutine(NextLevel());
             //GetComponent<Rigidbody>().isKinematic = true;
             //rb.bodyType = RigidbodyType2D.Kinematic;
@@ -32,8 +31,9 @@ public class Finish : MonoBehaviour
     {
         //yield return new WaitForSeconds(1);
         //rb.constraints = RigidbodyConstraints2D.FreezePosition;
+        rb.isKinematic = true;
+        animator.SetBool("Finish", true);
         yield return new WaitForSeconds(3);
-        
         //rb.bodyType = RigidbodyType2D.Dynamic;
         //GetComponent<Rigidbody>().isKinematic = false;
         GameManager.instance.NextLevel();
