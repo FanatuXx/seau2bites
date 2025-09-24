@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: ecba8353513f8ca4ead24d2b24f64e26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1557206324513613668
+    second: "date de p\xE9remption_0"
+  - first:
+      213: 3067685165960708451
+    second: "date de p\xE9remption_1"
+  - first:
+      213: -989505557014870804
+    second: "date de p\xE9remption_2"
+  - first:
+      213: 2909315440505318314
+    second: "date de p\xE9remption_3"
+  - first:
+      213: 2362632423042770930
+    second: "date de p\xE9remption_4"
+  - first:
+      213: -56746505372976683
+    second: "date de p\xE9remption_5"
+  - first:
+      213: -5992484893606367547
+    second: "date de p\xE9remption_6"
+  - first:
+      213: -2974070555077806781
+    second: "date de p\xE9remption_7"
+  - first:
+      213: -671131085689742197
+    second: "date de p\xE9remption_8"
+  - first:
+      213: 8597529863544161643
+    second: "date de p\xE9remption_9"
+  - first:
+      213: -4434165103489520399
+    second: "date de p\xE9remption_10"
+  - first:
+      213: 1738023499139953632
+    second: "date de p\xE9remption_11"
+  - first:
+      213: -5822127434886160994
+    second: "date de p\xE9remption_12"
+  - first:
+      213: 7704448402309639858
+    second: "date de p\xE9remption_13"
+  - first:
+      213: -1655098947759023421
+    second: "date de p\xE9remption_14"
+  - first:
+      213: -8843011441966205380
+    second: "date de p\xE9remption_15"
+  - first:
+      213: 6607467935156952295
+    second: "date de p\xE9remption_16"
+  - first:
+      213: 2684667832309680328
+    second: "date de p\xE9remption_17"
+  - first:
+      213: -5702150985366101871
+    second: "date de p\xE9remption_18"
+  - first:
+      213: 8893267872344731107
+    second: "date de p\xE9remption_19"
+  - first:
+      213: 5588731330554469456
+    second: "date de p\xE9remption_20"
+  - first:
+      213: -2072088629751675677
+    second: "date de p\xE9remption_21"
+  - first:
+      213: -7658493188847578097
+    second: "date de p\xE9remption_22"
+  - first:
+      213: 5061807160788633649
+    second: "date de p\xE9remption_23"
+  - first:
+      213: -8171230773987357977
+    second: "date de p\xE9remption_24"
+  - first:
+      213: -1222291350747115045
+    second: "date de p\xE9remption_25"
+  - first:
+      213: -6907941607893758221
+    second: "date de p\xE9remption_26"
+  - first:
+      213: 9120918591038558652
+    second: "date de p\xE9remption_27"
+  - first:
+      213: -8945939194927968554
+    second: "date de p\xE9remption_28"
+  - first:
+      213: -7447653130475629299
+    second: "date de p\xE9remption_29"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "date de p\xE9remption_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98df592911b36ae0800000000000000
+      internalID: -1557206324513613668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_1"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361c2d7b76b929a20800000000000000
+      internalID: 3067685165960708451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_2"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48ad240f19442f0800000000000000
+      internalID: -989505557014870804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_3"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 51
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe0ea9af6ff5820800000000000000
+      internalID: 2909315440505318314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_4"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7e846cba1c9c020800000000000000
+      internalID: 2362632423042770930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_5"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9bff0aa55663ff0800000000000000
+      internalID: -56746505372976683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_6"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 15
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cea2b22dba66dca0800000000000000
+      internalID: -5992484893606367547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_7"
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 15
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34573a3669af9b6d0800000000000000
+      internalID: -2974070555077806781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_8"
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 19
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9db755d9afa6f0800000000000000
+      internalID: -671131085689742197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_9"
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 15
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65cc56fbdf805770800000000000000
+      internalID: 8597529863544161643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_10"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 15
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce213e45ea672c0800000000000000
+      internalID: -4434165103489520399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_11"
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 19
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3b48df923be1810800000000000000
+      internalID: 1738023499139953632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_12"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 15
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ddd86e1f5a33fa0800000000000000
+      internalID: -5822127434886160994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_13"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 15
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beedf18003bbea60800000000000000
+      internalID: 7704448402309639858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_14"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 15
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca53bea648e709e0800000000000000
+      internalID: -1655098947759023421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_15"
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 15
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36b3e022ff474580800000000000000
+      internalID: -8843011441966205380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_16"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec50d3441172bb50800000000000000
+      internalID: 6607467935156952295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_17"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c88cb46b2bd14520800000000000000
+      internalID: 2684667832309680328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_18"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902c9dd3e3edd0b0800000000000000
+      internalID: -5702150985366101871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_19"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6087e20c3b6b70800000000000000
+      internalID: 8893267872344731107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_20"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c9bc6e8892f8d40800000000000000
+      internalID: 5588731330554469456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_21"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 13
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e48680ae567e33e0800000000000000
+      internalID: -2072088629751675677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_22"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ddfb650197b590800000000000000
+      internalID: -7658493188847578097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_23"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 13
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c55c4bc62f3640800000000000000
+      internalID: 5061807160788633649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_24"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea4eb277e4f99e80800000000000000
+      internalID: -8171230773987357977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_25"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19fa21e7c890fe0800000000000000
+      internalID: -1222291350747115045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_26"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe0a5c15bf0220a0800000000000000
+      internalID: -6907941607893758221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_27"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11c144223049e70800000000000000
+      internalID: 9120918591038558652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_28"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 38
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de031823b3a9d380800000000000000
+      internalID: -8945939194927968554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "date de p\xE9remption_29"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059cabefee94a890800000000000000
+      internalID: -7447653130475629299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "date de p\xE9remption_0": -1557206324513613668
+      "date de p\xE9remption_1": 3067685165960708451
+      "date de p\xE9remption_10": -4434165103489520399
+      "date de p\xE9remption_11": 1738023499139953632
+      "date de p\xE9remption_12": -5822127434886160994
+      "date de p\xE9remption_13": 7704448402309639858
+      "date de p\xE9remption_14": -1655098947759023421
+      "date de p\xE9remption_15": -8843011441966205380
+      "date de p\xE9remption_16": 6607467935156952295
+      "date de p\xE9remption_17": 2684667832309680328
+      "date de p\xE9remption_18": -5702150985366101871
+      "date de p\xE9remption_19": 8893267872344731107
+      "date de p\xE9remption_2": -989505557014870804
+      "date de p\xE9remption_20": 5588731330554469456
+      "date de p\xE9remption_21": -2072088629751675677
+      "date de p\xE9remption_22": -7658493188847578097
+      "date de p\xE9remption_23": 5061807160788633649
+      "date de p\xE9remption_24": -8171230773987357977
+      "date de p\xE9remption_25": -1222291350747115045
+      "date de p\xE9remption_26": -6907941607893758221
+      "date de p\xE9remption_27": 9120918591038558652
+      "date de p\xE9remption_28": -8945939194927968554
+      "date de p\xE9remption_29": -7447653130475629299
+      "date de p\xE9remption_3": 2909315440505318314
+      "date de p\xE9remption_4": 2362632423042770930
+      "date de p\xE9remption_5": -56746505372976683
+      "date de p\xE9remption_6": -5992484893606367547
+      "date de p\xE9remption_7": -2974070555077806781
+      "date de p\xE9remption_8": -671131085689742197
+      "date de p\xE9remption_9": 8597529863544161643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

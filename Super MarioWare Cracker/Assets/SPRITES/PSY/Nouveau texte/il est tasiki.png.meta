@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 6d130ade90d91fd498464156cc0d4483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6087261566978608173
+    second: il est tasiki_0
+  - first:
+      213: -4869061939007230644
+    second: il est tasiki_1
+  - first:
+      213: 7906517302517931402
+    second: il est tasiki_2
+  - first:
+      213: -3872130406261880133
+    second: il est tasiki_3
+  - first:
+      213: 1645672733200341499
+    second: il est tasiki_4
+  - first:
+      213: -6748114385158025471
+    second: il est tasiki_5
+  - first:
+      213: 2177074067840689486
+    second: il est tasiki_6
+  - first:
+      213: 3195367683718627718
+    second: il est tasiki_7
+  - first:
+      213: -6705926465133139962
+    second: il est tasiki_8
+  - first:
+      213: 2699886677542502030
+    second: il est tasiki_9
+  - first:
+      213: 6002095734875310468
+    second: il est tasiki_10
+  - first:
+      213: -6280402096880654375
+    second: il est tasiki_11
+  - first:
+      213: -183362797040855314
+    second: il est tasiki_12
+  - first:
+      213: -5969680572209362501
+    second: il est tasiki_13
+  - first:
+      213: -2600416124873183465
+    second: il est tasiki_14
+  - first:
+      213: -3848882664973507399
+    second: il est tasiki_15
+  - first:
+      213: 8772291770548336586
+    second: il est tasiki_16
+  - first:
+      213: -5767037529548302314
+    second: il est tasiki_17
+  - first:
+      213: 4907749486887206791
+    second: il est tasiki_18
+  - first:
+      213: -4053420990305142997
+    second: il est tasiki_19
+  - first:
+      213: -4369570508716389463
+    second: il est tasiki_20
+  - first:
+      213: -5020225716928855626
+    second: il est tasiki_21
+  - first:
+      213: 6193688676311551794
+    second: il est tasiki_22
+  - first:
+      213: 2424991852485010218
+    second: il est tasiki_23
+  - first:
+      213: -6249844408308089581
+    second: il est tasiki_24
+  - first:
+      213: 5674021660120791863
+    second: il est tasiki_25
+  - first:
+      213: -7607668256476968836
+    second: il est tasiki_26
+  - first:
+      213: -4958815934866118325
+    second: il est tasiki_27
+  - first:
+      213: 7160365587105969860
+    second: il est tasiki_28
+  - first:
+      213: -199033770353862550
+    second: il est tasiki_29
+  - first:
+      213: -1726736585782141357
+    second: il est tasiki_30
+  - first:
+      213: -338437080147157280
+    second: il est tasiki_31
+  - first:
+      213: 929562473740247474
+    second: il est tasiki_32
+  - first:
+      213: -7395519033843140162
+    second: il est tasiki_33
+  - first:
+      213: 1879723013004953677
+    second: il est tasiki_34
+  - first:
+      213: 7807110408767165393
+    second: il est tasiki_35
+  - first:
+      213: -5352259465691819123
+    second: il est tasiki_36
+  - first:
+      213: 1084289137592881074
+    second: il est tasiki_37
+  - first:
+      213: -8240152213776242983
+    second: il est tasiki_38
+  - first:
+      213: -2338821124701639125
+    second: il est tasiki_39
+  - first:
+      213: -5767439183422702960
+    second: il est tasiki_40
+  - first:
+      213: 1372406403770473222
+    second: il est tasiki_41
+  - first:
+      213: 7936086924602494723
+    second: il est tasiki_42
+  - first:
+      213: -851116320133170709
+    second: il est tasiki_43
+  - first:
+      213: -6440057518150977188
+    second: il est tasiki_44
+  - first:
+      213: -8852695413180289393
+    second: il est tasiki_45
+  - first:
+      213: -8191653140009253217
+    second: il est tasiki_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: il est tasiki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33a554bd3b58ba0800000000000000
+      internalID: -6087261566978608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d6910c6fd9d6cb0800000000000000
+      internalID: -4869061939007230644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9f0b989799bd60800000000000000
+      internalID: 7906517302517931402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba85c239ed634ac0800000000000000
+      internalID: -3872130406261880133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d3f6b1aa96d610800000000000000
+      internalID: 1645672733200341499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_5
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc3f048b1e952a0800000000000000
+      internalID: -6748114385158025471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45eb5f7455863e10800000000000000
+      internalID: 2177074067840689486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_7
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681cfc28af9385c20800000000000000
+      internalID: 3195367683718627718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60829d3d863cfe2a0800000000000000
+      internalID: -6705926465133139962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8efabce0ace77520800000000000000
+      internalID: 2699886677542502030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_10
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4894129354abb4350800000000000000
+      internalID: 6002095734875310468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_11
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d76fc0619787d8a0800000000000000
+      internalID: -6280402096880654375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_12
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69b51f180947df0800000000000000
+      internalID: -183362797040855314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_13
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb909e6f52f672da0800000000000000
+      internalID: -5969680572209362501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_14
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f6cb0ef4779ebd0800000000000000
+      internalID: -2600416124873183465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46814cb95069ac0800000000000000
+      internalID: -3848882664973507399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7bd9143e07db970800000000000000
+      internalID: 8772291770548336586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6185de40ced57ffa0800000000000000
+      internalID: -5767037529548302314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f748ce724db1440800000000000000
+      internalID: 4907749486887206791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ffb3d51b5fb7c0800000000000000
+      internalID: -4053420990305142997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abcfe6f5ca2c53c0800000000000000
+      internalID: -4369570508716389463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_21
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cc2a0f43945ab0800000000000000
+      internalID: -5020225716928855626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fc8e8190764f550800000000000000
+      internalID: 6193688676311551794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e59edd3d47a120800000000000000
+      internalID: 2424991852485010218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db55daf971449a0800000000000000
+      internalID: -6249844408308089581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3f5b33ac2ebe40800000000000000
+      internalID: 5674021660120791863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78cca327022c6690800000000000000
+      internalID: -7607668256476968836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4922cf1e2fbe2bb0800000000000000
+      internalID: -4958815934866118325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f161709abe5360800000000000000
+      internalID: 7160365587105969860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_29
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6850c327d3ec3df0800000000000000
+      internalID: -199033770353862550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed8cf49366908e0800000000000000
+      internalID: -1726736585782141357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee120bc441ad4bf0800000000000000
+      internalID: -338437080147157280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_32
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b122d3152876ec00800000000000000
+      internalID: 929562473740247474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_33
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b3223f96dd5990800000000000000
+      internalID: -7395519033843140162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_34
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4889420f1e161a10800000000000000
+      internalID: 1879723013004953677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d352dc8d8d685c60800000000000000
+      internalID: 7807110408767165393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_36
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8397b99f54f8b5b0800000000000000
+      internalID: -5352259465691819123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_37
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc900d93b2c0f00800000000000000
+      internalID: 1084289137592881074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_38
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e7b2483915ad80800000000000000
+      internalID: -8240152213776242983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_39
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eaaf42496da8fd0800000000000000
+      internalID: -2338821124701639125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_40
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09abb60be90f5ffa0800000000000000
+      internalID: -5767439183422702960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_41
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd5385a54cb0310800000000000000
+      internalID: 1372406403770473222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_42
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fcd8fb205a22e60800000000000000
+      internalID: 7936086924602494723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_43
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9bceb573a3034f0800000000000000
+      internalID: -851116320133170709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_44
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f681eec150a6a0800000000000000
+      internalID: -6440057518150977188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_45
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea8a0ec68e42580800000000000000
+      internalID: -8852695413180289393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il est tasiki_46
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960982ded6615e80800000000000000
+      internalID: -8191653140009253217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      il est tasiki_0: -6087261566978608173
+      il est tasiki_1: -4869061939007230644
+      il est tasiki_10: 6002095734875310468
+      il est tasiki_11: -6280402096880654375
+      il est tasiki_12: -183362797040855314
+      il est tasiki_13: -5969680572209362501
+      il est tasiki_14: -2600416124873183465
+      il est tasiki_15: -3848882664973507399
+      il est tasiki_16: 8772291770548336586
+      il est tasiki_17: -5767037529548302314
+      il est tasiki_18: 4907749486887206791
+      il est tasiki_19: -4053420990305142997
+      il est tasiki_2: 7906517302517931402
+      il est tasiki_20: -4369570508716389463
+      il est tasiki_21: -5020225716928855626
+      il est tasiki_22: 6193688676311551794
+      il est tasiki_23: 2424991852485010218
+      il est tasiki_24: -6249844408308089581
+      il est tasiki_25: 5674021660120791863
+      il est tasiki_26: -7607668256476968836
+      il est tasiki_27: -4958815934866118325
+      il est tasiki_28: 7160365587105969860
+      il est tasiki_29: -199033770353862550
+      il est tasiki_3: -3872130406261880133
+      il est tasiki_30: -1726736585782141357
+      il est tasiki_31: -338437080147157280
+      il est tasiki_32: 929562473740247474
+      il est tasiki_33: -7395519033843140162
+      il est tasiki_34: 1879723013004953677
+      il est tasiki_35: 7807110408767165393
+      il est tasiki_36: -5352259465691819123
+      il est tasiki_37: 1084289137592881074
+      il est tasiki_38: -8240152213776242983
+      il est tasiki_39: -2338821124701639125
+      il est tasiki_4: 1645672733200341499
+      il est tasiki_40: -5767439183422702960
+      il est tasiki_41: 1372406403770473222
+      il est tasiki_42: 7936086924602494723
+      il est tasiki_43: -851116320133170709
+      il est tasiki_44: -6440057518150977188
+      il est tasiki_45: -8852695413180289393
+      il est tasiki_46: -8191653140009253217
+      il est tasiki_5: -6748114385158025471
+      il est tasiki_6: 2177074067840689486
+      il est tasiki_7: 3195367683718627718
+      il est tasiki_8: -6705926465133139962
+      il est tasiki_9: 2699886677542502030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

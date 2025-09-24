@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 10d12def8023a794fade4c46c6e01e04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5547764819741714716
+    second: "trouble de la personnalit\xE9_0"
+  - first:
+      213: -5453721559883064736
+    second: "trouble de la personnalit\xE9_1"
+  - first:
+      213: 1387872599261080685
+    second: "trouble de la personnalit\xE9_2"
+  - first:
+      213: -8225808222221230883
+    second: "trouble de la personnalit\xE9_3"
+  - first:
+      213: -3459715726185897483
+    second: "trouble de la personnalit\xE9_4"
+  - first:
+      213: -8117122076161375377
+    second: "trouble de la personnalit\xE9_5"
+  - first:
+      213: 1646679451061784327
+    second: "trouble de la personnalit\xE9_6"
+  - first:
+      213: -6434594082730826032
+    second: "trouble de la personnalit\xE9_7"
+  - first:
+      213: -7414836106431121393
+    second: "trouble de la personnalit\xE9_8"
+  - first:
+      213: 1464522054494378287
+    second: "trouble de la personnalit\xE9_9"
+  - first:
+      213: -5574624632401424663
+    second: "trouble de la personnalit\xE9_10"
+  - first:
+      213: 7456943810529260045
+    second: "trouble de la personnalit\xE9_11"
+  - first:
+      213: 8977617583238101858
+    second: "trouble de la personnalit\xE9_12"
+  - first:
+      213: -320362307331252552
+    second: "trouble de la personnalit\xE9_13"
+  - first:
+      213: 3967492856473107140
+    second: "trouble de la personnalit\xE9_14"
+  - first:
+      213: 8995350304571342545
+    second: "trouble de la personnalit\xE9_15"
+  - first:
+      213: 3599799391896657211
+    second: "trouble de la personnalit\xE9_16"
+  - first:
+      213: -1720206232198538975
+    second: "trouble de la personnalit\xE9_17"
+  - first:
+      213: 8987752425941457779
+    second: "trouble de la personnalit\xE9_18"
+  - first:
+      213: 5850859608487386558
+    second: "trouble de la personnalit\xE9_19"
+  - first:
+      213: 2498621502084117834
+    second: "trouble de la personnalit\xE9_20"
+  - first:
+      213: 5219629536380132081
+    second: "trouble de la personnalit\xE9_21"
+  - first:
+      213: 1026682228824984841
+    second: "trouble de la personnalit\xE9_22"
+  - first:
+      213: -2821480519498253594
+    second: "trouble de la personnalit\xE9_23"
+  - first:
+      213: -5215019763492231199
+    second: "trouble de la personnalit\xE9_24"
+  - first:
+      213: -8705151181071509955
+    second: "trouble de la personnalit\xE9_25"
+  - first:
+      213: -2237215710781277621
+    second: "trouble de la personnalit\xE9_26"
+  - first:
+      213: -281665776812261612
+    second: "trouble de la personnalit\xE9_27"
+  - first:
+      213: 2906529031909079115
+    second: "trouble de la personnalit\xE9_28"
+  - first:
+      213: 483135905299858788
+    second: "trouble de la personnalit\xE9_29"
+  - first:
+      213: 2862804749642667450
+    second: "trouble de la personnalit\xE9_30"
+  - first:
+      213: 7527722966224140953
+    second: "trouble de la personnalit\xE9_31"
+  - first:
+      213: 7317173974768303408
+    second: "trouble de la personnalit\xE9_32"
+  - first:
+      213: 759710883765009837
+    second: "trouble de la personnalit\xE9_33"
+  - first:
+      213: 1846300972706718342
+    second: "trouble de la personnalit\xE9_34"
+  - first:
+      213: 4298037508551279392
+    second: "trouble de la personnalit\xE9_35"
+  - first:
+      213: -2790807460100772084
+    second: "trouble de la personnalit\xE9_36"
+  - first:
+      213: 2862482997253559406
+    second: "trouble de la personnalit\xE9_37"
+  - first:
+      213: -5662433573091095640
+    second: "trouble de la personnalit\xE9_38"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192d12d5be9dfc40800000000000000
+      internalID: 5547764819741714716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_1"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad747e22d7054b0800000000000000
+      internalID: -5453721559883064736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_2"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c647896c6b24310800000000000000
+      internalID: 1387872599261080685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_3"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc140c010f08dd80800000000000000
+      internalID: -8225808222221230883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_4"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16bdc90ee9cffc0800000000000000
+      internalID: -3459715726185897483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_5"
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638be36a703a5f80800000000000000
+      internalID: -8117122076161375377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_6"
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f097b7c3e2ad610800000000000000
+      internalID: 1646679451061784327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_7"
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6aff016cab3b6a0800000000000000
+      internalID: -6434594082730826032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_8"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08be60c8d5391990800000000000000
+      internalID: -7414836106431121393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_9"
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dcd79c07035410800000000000000
+      internalID: 1464522054494378287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_10"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0295be64f2a2b0800000000000000
+      internalID: -5574624632401424663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_11"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f4a813e26c7760800000000000000
+      internalID: 7456943810529260045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_12"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b353260a7e69c70800000000000000
+      internalID: 8977617583238101858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_13"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be9818cd28dd8bf0800000000000000
+      internalID: -320362307331252552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_14"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabaf67bbd5f0730800000000000000
+      internalID: 3967492856473107140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_15"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3d2e4177e5dc70800000000000000
+      internalID: 8995350304571342545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_16"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ddaa0797e05f130800000000000000
+      internalID: 3599799391896657211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_17"
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129946dbb899028e0800000000000000
+      internalID: -1720206232198538975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_18"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b55655639eabc70800000000000000
+      internalID: 8987752425941457779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_19"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd529290dd623150800000000000000
+      internalID: 5850859608487386558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_20"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4570e39403eca220800000000000000
+      internalID: 2498621502084117834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_21"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa13179869df6840800000000000000
+      internalID: 5219629536380132081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_22"
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dc15a2c028f3e00800000000000000
+      internalID: 1026682228824984841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_23"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea3f969a6618d8d0800000000000000
+      internalID: -2821480519498253594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_24"
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7676cc72780a7b0800000000000000
+      internalID: -5215019763492231199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_25"
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3619286f17113780800000000000000
+      internalID: -8705151181071509955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_26"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a75f01a20d3f0e0800000000000000
+      internalID: -2237215710781277621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_27"
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f78b3e772571cf0800000000000000
+      internalID: -281665776812261612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_28"
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fc4c41c0165820800000000000000
+      internalID: 2906529031909079115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_29"
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46582adcb8174b600800000000000000
+      internalID: 483135905299858788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_30"
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab590c380c9bab720800000000000000
+      internalID: 2862804749642667450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_31"
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af6597728d77860800000000000000
+      internalID: 7527722966224140953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_32"
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3cc546f2db8560800000000000000
+      internalID: 7317173974768303408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_33"
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadbfce06090b8a00800000000000000
+      internalID: 759710883765009837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_34"
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68264aad3f06f9910800000000000000
+      internalID: 1846300972706718342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_35"
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02301809752b5ab30800000000000000
+      internalID: 4298037508551279392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_36"
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fee20c66f0549d0800000000000000
+      internalID: -2790807460100772084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_37"
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d4e2be1599b720800000000000000
+      internalID: 2862482997253559406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trouble de la personnalit\xE9_38"
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc8a78aaefa61b0800000000000000
+      internalID: -5662433573091095640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "trouble de la personnalit\xE9_0": 5547764819741714716
+      "trouble de la personnalit\xE9_1": -5453721559883064736
+      "trouble de la personnalit\xE9_10": -5574624632401424663
+      "trouble de la personnalit\xE9_11": 7456943810529260045
+      "trouble de la personnalit\xE9_12": 8977617583238101858
+      "trouble de la personnalit\xE9_13": -320362307331252552
+      "trouble de la personnalit\xE9_14": 3967492856473107140
+      "trouble de la personnalit\xE9_15": 8995350304571342545
+      "trouble de la personnalit\xE9_16": 3599799391896657211
+      "trouble de la personnalit\xE9_17": -1720206232198538975
+      "trouble de la personnalit\xE9_18": 8987752425941457779
+      "trouble de la personnalit\xE9_19": 5850859608487386558
+      "trouble de la personnalit\xE9_2": 1387872599261080685
+      "trouble de la personnalit\xE9_20": 2498621502084117834
+      "trouble de la personnalit\xE9_21": 5219629536380132081
+      "trouble de la personnalit\xE9_22": 1026682228824984841
+      "trouble de la personnalit\xE9_23": -2821480519498253594
+      "trouble de la personnalit\xE9_24": -5215019763492231199
+      "trouble de la personnalit\xE9_25": -8705151181071509955
+      "trouble de la personnalit\xE9_26": -2237215710781277621
+      "trouble de la personnalit\xE9_27": -281665776812261612
+      "trouble de la personnalit\xE9_28": 2906529031909079115
+      "trouble de la personnalit\xE9_29": 483135905299858788
+      "trouble de la personnalit\xE9_3": -8225808222221230883
+      "trouble de la personnalit\xE9_30": 2862804749642667450
+      "trouble de la personnalit\xE9_31": 7527722966224140953
+      "trouble de la personnalit\xE9_32": 7317173974768303408
+      "trouble de la personnalit\xE9_33": 759710883765009837
+      "trouble de la personnalit\xE9_34": 1846300972706718342
+      "trouble de la personnalit\xE9_35": 4298037508551279392
+      "trouble de la personnalit\xE9_36": -2790807460100772084
+      "trouble de la personnalit\xE9_37": 2862482997253559406
+      "trouble de la personnalit\xE9_38": -5662433573091095640
+      "trouble de la personnalit\xE9_4": -3459715726185897483
+      "trouble de la personnalit\xE9_5": -8117122076161375377
+      "trouble de la personnalit\xE9_6": 1646679451061784327
+      "trouble de la personnalit\xE9_7": -6434594082730826032
+      "trouble de la personnalit\xE9_8": -7414836106431121393
+      "trouble de la personnalit\xE9_9": 1464522054494378287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

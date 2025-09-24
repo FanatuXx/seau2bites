@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 3039303c8290fc246bc5349d57c6975a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1017556592325383113
+    second: il relate une_0
+  - first:
+      213: -8002920520302599254
+    second: il relate une_1
+  - first:
+      213: -1781169992279536134
+    second: il relate une_2
+  - first:
+      213: 3860939923649887802
+    second: il relate une_3
+  - first:
+      213: -5486840506153343685
+    second: il relate une_4
+  - first:
+      213: 7107676324580629496
+    second: il relate une_5
+  - first:
+      213: 5319707320608593517
+    second: il relate une_6
+  - first:
+      213: 5191177749036054817
+    second: il relate une_7
+  - first:
+      213: -2703772280895782180
+    second: il relate une_8
+  - first:
+      213: 4088421509926974961
+    second: il relate une_9
+  - first:
+      213: 2691700483736002875
+    second: il relate une_10
+  - first:
+      213: -8105478506166375400
+    second: il relate une_11
+  - first:
+      213: 8239503370767451644
+    second: il relate une_12
+  - first:
+      213: 3988428625117978112
+    second: il relate une_13
+  - first:
+      213: 8805595386435709545
+    second: il relate une_14
+  - first:
+      213: 656492254717529457
+    second: il relate une_15
+  - first:
+      213: -248620087853469672
+    second: il relate une_16
+  - first:
+      213: -2260858731069753410
+    second: il relate une_17
+  - first:
+      213: 3203184801930744990
+    second: il relate une_18
+  - first:
+      213: -6589940425703306875
+    second: il relate une_19
+  - first:
+      213: 8873372381085730185
+    second: il relate une_20
+  - first:
+      213: -2667234620016182318
+    second: il relate une_21
+  - first:
+      213: -3903168797744520665
+    second: il relate une_22
+  - first:
+      213: 4827098111744228389
+    second: il relate une_23
+  - first:
+      213: -3999137052842212999
+    second: il relate une_24
+  - first:
+      213: -8312035418846303126
+    second: il relate une_25
+  - first:
+      213: -2717214696829404441
+    second: il relate une_26
+  - first:
+      213: -1862100772028522798
+    second: il relate une_27
+  - first:
+      213: -5074283110585177653
+    second: il relate une_28
+  - first:
+      213: -7360461918960527393
+    second: il relate une_29
+  - first:
+      213: -5653096481209987345
+    second: il relate une_30
+  - first:
+      213: -7548128011054929687
+    second: il relate une_31
+  - first:
+      213: 8383079028524181427
+    second: il relate une_32
+  - first:
+      213: -6521576268522411172
+    second: il relate une_33
+  - first:
+      213: -8369264337569201841
+    second: il relate une_34
+  - first:
+      213: 6342616570160644965
+    second: il relate une_35
+  - first:
+      213: 6651622188152448928
+    second: il relate une_36
+  - first:
+      213: -4864345704439739741
+    second: il relate une_37
+  - first:
+      213: 4191394887609546670
+    second: il relate une_38
+  - first:
+      213: 1110667415549422520
+    second: il relate une_39
+  - first:
+      213: 6941844630856380941
+    second: il relate une_40
+  - first:
+      213: 3095527415436797255
+    second: il relate une_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: il relate une_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca697aba9e0e1f0800000000000000
+      internalID: -1017556592325383113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3eda5203aefe090800000000000000
+      internalID: -8002920520302599254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc79d34530847e0800000000000000
+      internalID: -1781169992279536134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e76488760d49530800000000000000
+      internalID: 3860939923649887802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35618351a3dad3b0800000000000000
+      internalID: -5486840506153343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_5
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb151985f983a260800000000000000
+      internalID: 7107676324580629496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669be18f9563d940800000000000000
+      internalID: 5319707320608593517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129b431a8a4ca0840800000000000000
+      internalID: 5191177749036054817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_8
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2c8ab8f654a7ad0800000000000000
+      internalID: -2703772280895782180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_9
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5734fa3bdfcb830800000000000000
+      internalID: 4088421509926974961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_10
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e4d62457da5520800000000000000
+      internalID: 2691700483736002875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca3694e3e838f80800000000000000
+      internalID: -8105478506166375400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54a3439a8985270800000000000000
+      internalID: 8239503370767451644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e1824f3beb95730800000000000000
+      internalID: 3988428625117978112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa1549952c33a70800000000000000
+      internalID: 8805595386435709545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dcb383a345c1900800000000000000
+      internalID: 656492254717529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b77be859bc8cf0800000000000000
+      internalID: -248620087853469672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb73f3f66f0df90e0800000000000000
+      internalID: -2260858731069753410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94130d2b9ff37c20800000000000000
+      internalID: 3203184801930744990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589c7fa0914db84a0800000000000000
+      internalID: -6589940425703306875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_20
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985806eda2d842b70800000000000000
+      internalID: 8873372381085730185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_21
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbbf45ae341cfad0800000000000000
+      internalID: -2667234620016182318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_22
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ac0888a825d9c0800000000000000
+      internalID: -3903168797744520665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_23
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3976582c4df240800000000000000
+      internalID: 4827098111744228389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_24
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cc3de9063088c0800000000000000
+      internalID: -3999137052842212999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c633b53d7b5ac80800000000000000
+      internalID: -8312035418846303126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea330131a38a4ad0800000000000000
+      internalID: -2717214696829404441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_27
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de5243b63d7826e0800000000000000
+      internalID: -1862100772028522798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_28
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96ec745668499b0800000000000000
+      internalID: -5074283110585177653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_29
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75191d1e26ad990800000000000000
+      internalID: -7360461918960527393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_30
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feec774a3ba2c81b0800000000000000
+      internalID: -5653096481209987345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_31
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e825edc099af3790800000000000000
+      internalID: -7548128011054929687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_32
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e53306fda65470800000000000000
+      internalID: 8383079028524181427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_33
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5baa13cfe4be75a0800000000000000
+      internalID: -6521576268522411172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_34
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c7df5d666adb80800000000000000
+      internalID: -8369264337569201841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_35
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638eea7a20850850800000000000000
+      internalID: 6342616570160644965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_36
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7eee8632f4f4c50800000000000000
+      internalID: 6651622188152448928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_37
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa0c2eaa5f5e7cb0800000000000000
+      internalID: -4864345704439739741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_38
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7fa5d7173da2a30800000000000000
+      internalID: 4191394887609546670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_39
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbac6f3122e96f00800000000000000
+      internalID: 1110667415549422520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_40
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b52c89e2665060800000000000000
+      internalID: 6941844630856380941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il relate une_41
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e79598c585fa20800000000000000
+      internalID: 3095527415436797255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      il relate une_0: -1017556592325383113
+      il relate une_1: -8002920520302599254
+      il relate une_10: 2691700483736002875
+      il relate une_11: -8105478506166375400
+      il relate une_12: 8239503370767451644
+      il relate une_13: 3988428625117978112
+      il relate une_14: 8805595386435709545
+      il relate une_15: 656492254717529457
+      il relate une_16: -248620087853469672
+      il relate une_17: -2260858731069753410
+      il relate une_18: 3203184801930744990
+      il relate une_19: -6589940425703306875
+      il relate une_2: -1781169992279536134
+      il relate une_20: 8873372381085730185
+      il relate une_21: -2667234620016182318
+      il relate une_22: -3903168797744520665
+      il relate une_23: 4827098111744228389
+      il relate une_24: -3999137052842212999
+      il relate une_25: -8312035418846303126
+      il relate une_26: -2717214696829404441
+      il relate une_27: -1862100772028522798
+      il relate une_28: -5074283110585177653
+      il relate une_29: -7360461918960527393
+      il relate une_3: 3860939923649887802
+      il relate une_30: -5653096481209987345
+      il relate une_31: -7548128011054929687
+      il relate une_32: 8383079028524181427
+      il relate une_33: -6521576268522411172
+      il relate une_34: -8369264337569201841
+      il relate une_35: 6342616570160644965
+      il relate une_36: 6651622188152448928
+      il relate une_37: -4864345704439739741
+      il relate une_38: 4191394887609546670
+      il relate une_39: 1110667415549422520
+      il relate une_4: -5486840506153343685
+      il relate une_40: 6941844630856380941
+      il relate une_41: 3095527415436797255
+      il relate une_5: 7107676324580629496
+      il relate une_6: 5319707320608593517
+      il relate une_7: 5191177749036054817
+      il relate une_8: -2703772280895782180
+      il relate une_9: 4088421509926974961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

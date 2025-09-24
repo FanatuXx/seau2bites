@@ -19,7 +19,7 @@ public class Finish : MonoBehaviour
             
             StartCoroutine(NextLevel());
             //GetComponent<Rigidbody>().isKinematic = true;
-            //rb.bodyType = RigidbodyType2D.Kinematic;
+            rb.bodyType = RigidbodyType2D.Static;
             
 
         }
@@ -31,7 +31,7 @@ public class Finish : MonoBehaviour
     {
         //yield return new WaitForSeconds(1);
         //rb.constraints = RigidbodyConstraints2D.FreezePosition;
-        rb.isKinematic = true;
+        //rb.isKinematic = true;
         animator.SetBool("Finish", true);
         yield return new WaitForSeconds(3);
         //rb.bodyType = RigidbodyType2D.Dynamic;

@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 7424bcdd0c68bf44c84e05fe1c3117c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6577090432092471406
+    second: hospitalisation sous_0
+  - first:
+      213: 3327937885164689421
+    second: hospitalisation sous_1
+  - first:
+      213: 45789794834952525
+    second: hospitalisation sous_2
+  - first:
+      213: 1883750451771873268
+    second: hospitalisation sous_3
+  - first:
+      213: -3665521845585088677
+    second: hospitalisation sous_4
+  - first:
+      213: 525623178425108553
+    second: hospitalisation sous_5
+  - first:
+      213: 486750392435071827
+    second: hospitalisation sous_6
+  - first:
+      213: 8441754873492368847
+    second: hospitalisation sous_7
+  - first:
+      213: -6222991123942345230
+    second: hospitalisation sous_8
+  - first:
+      213: -3929052489737741626
+    second: hospitalisation sous_9
+  - first:
+      213: -8566778728345808122
+    second: hospitalisation sous_10
+  - first:
+      213: -6396275518305862195
+    second: hospitalisation sous_11
+  - first:
+      213: -2763933371181364592
+    second: hospitalisation sous_12
+  - first:
+      213: 3200853649524886955
+    second: hospitalisation sous_13
+  - first:
+      213: 8020033969528355625
+    second: hospitalisation sous_14
+  - first:
+      213: -1021376252478035685
+    second: hospitalisation sous_15
+  - first:
+      213: 8622750079794213622
+    second: hospitalisation sous_16
+  - first:
+      213: -9172042482034142383
+    second: hospitalisation sous_17
+  - first:
+      213: -4265296380753035042
+    second: hospitalisation sous_18
+  - first:
+      213: 1123982930514129899
+    second: hospitalisation sous_19
+  - first:
+      213: -2003795447051419459
+    second: hospitalisation sous_20
+  - first:
+      213: -2329001264282482342
+    second: hospitalisation sous_21
+  - first:
+      213: -5449872931946820389
+    second: hospitalisation sous_22
+  - first:
+      213: 2313830873851894569
+    second: hospitalisation sous_23
+  - first:
+      213: 4606097636377005427
+    second: hospitalisation sous_24
+  - first:
+      213: -5017884251564558035
+    second: hospitalisation sous_25
+  - first:
+      213: 6589505030269255700
+    second: hospitalisation sous_26
+  - first:
+      213: -2892683618933337347
+    second: hospitalisation sous_27
+  - first:
+      213: 1665094049440493568
+    second: hospitalisation sous_28
+  - first:
+      213: 7818205506796775077
+    second: hospitalisation sous_29
+  - first:
+      213: 8132624708936470485
+    second: hospitalisation sous_30
+  - first:
+      213: 2747731104220491253
+    second: hospitalisation sous_31
+  - first:
+      213: 631493797492869321
+    second: hospitalisation sous_32
+  - first:
+      213: -7377743170440137405
+    second: hospitalisation sous_33
+  - first:
+      213: -6805158592295477849
+    second: hospitalisation sous_34
+  - first:
+      213: -2470204887834011662
+    second: hospitalisation sous_35
+  - first:
+      213: 3561238335323669362
+    second: hospitalisation sous_36
+  - first:
+      213: 5309035822007328490
+    second: hospitalisation sous_37
+  - first:
+      213: -1336387581254685498
+    second: hospitalisation sous_38
+  - first:
+      213: -4084547383861359239
+    second: hospitalisation sous_39
+  - first:
+      213: -7728548186740582051
+    second: hospitalisation sous_40
+  - first:
+      213: 3344014195572507056
+    second: hospitalisation sous_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hospitalisation sous_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ff183591b79b4a0800000000000000
+      internalID: -6577090432092471406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d085ec7dfd53f2e20800000000000000
+      internalID: 3327937885164689421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b977639da2a000800000000000000
+      internalID: 45789794834952525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7185b2e0d642a10800000000000000
+      internalID: 1883750451771873268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f677d5d43712dc0800000000000000
+      internalID: -3665521845585088677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9488db3fe736b4700800000000000000
+      internalID: 525623178425108553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdf5b27e841c600800000000000000
+      internalID: 486750392435071827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_7
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6f63c453272570800000000000000
+      internalID: 8441754873492368847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_8
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f1092b8e73a9a0800000000000000
+      internalID: -6222991123942345230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_9
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca515dd3933979c0800000000000000
+      internalID: -3929052489737741626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_10
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035393a220bc1980800000000000000
+      internalID: -8566778728345808122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_11
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf9d51e4ddb37a0800000000000000
+      internalID: -6396275518305862195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_12
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a03eb2e3984a9d0800000000000000
+      internalID: -2763933371181364592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad81f57f67bb6c20800000000000000
+      internalID: 3200853649524886955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bbd404762ec4f60800000000000000
+      internalID: 8020033969528355625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e609b5b753d1f0800000000000000
+      internalID: -1021376252478035685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2fa1523892aa770800000000000000
+      internalID: 8622750079794213622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153109945fb56b080800000000000000
+      internalID: -9172042482034142383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c47b4a8f9ec4c0800000000000000
+      internalID: -4265296380753035042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b5ea2580399f00800000000000000
+      internalID: 1123982930514129899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db084ff48a61134e0800000000000000
+      internalID: -2003795447051419459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59c10190b9bdafd0800000000000000
+      internalID: -2329001264282482342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc0b4c61792e54b0800000000000000
+      internalID: -5449872931946820389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b164aabe06c1020800000000000000
+      internalID: 2313830873851894569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d840965652cef30800000000000000
+      internalID: 4606097636377005427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29b77debd4ec5ab0800000000000000
+      internalID: -5017884251564558035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_26
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41049de89ef927b50800000000000000
+      internalID: 6589505030269255700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df213ed139f1bd7d0800000000000000
+      internalID: -2892683618933337347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_28
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007486473a9b1710800000000000000
+      internalID: 1665094049440493568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_29
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ef9d5c78df7c60800000000000000
+      internalID: 7818205506796775077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_30
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df09b39513ecd070800000000000000
+      internalID: 8132624708936470485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_31
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdaa5591e6e12620800000000000000
+      internalID: 2747731104220491253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_32
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8cc65534483c800800000000000000
+      internalID: 631493797492869321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_33
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345f9d9ecadfc9990800000000000000
+      internalID: -7377743170440137405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_34
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7add70ac0583f81a0800000000000000
+      internalID: -6805158592295477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_35
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f758320eb118bdd0800000000000000
+      internalID: -2470204887834011662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_36
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738871d56f0c6130800000000000000
+      internalID: 3561238335323669362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_37
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee129e93fb7da940800000000000000
+      internalID: 5309035822007328490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_38
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc22194392347de0800000000000000
+      internalID: -1336387581254685498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_39
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d41b49bc5c057c0800000000000000
+      internalID: -4084547383861359239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_40
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5996db2f5eaeb490800000000000000
+      internalID: -7728548186740582051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalisation sous_41
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b186fa8133586e20800000000000000
+      internalID: 3344014195572507056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hospitalisation sous_0: -6577090432092471406
+      hospitalisation sous_1: 3327937885164689421
+      hospitalisation sous_10: -8566778728345808122
+      hospitalisation sous_11: -6396275518305862195
+      hospitalisation sous_12: -2763933371181364592
+      hospitalisation sous_13: 3200853649524886955
+      hospitalisation sous_14: 8020033969528355625
+      hospitalisation sous_15: -1021376252478035685
+      hospitalisation sous_16: 8622750079794213622
+      hospitalisation sous_17: -9172042482034142383
+      hospitalisation sous_18: -4265296380753035042
+      hospitalisation sous_19: 1123982930514129899
+      hospitalisation sous_2: 45789794834952525
+      hospitalisation sous_20: -2003795447051419459
+      hospitalisation sous_21: -2329001264282482342
+      hospitalisation sous_22: -5449872931946820389
+      hospitalisation sous_23: 2313830873851894569
+      hospitalisation sous_24: 4606097636377005427
+      hospitalisation sous_25: -5017884251564558035
+      hospitalisation sous_26: 6589505030269255700
+      hospitalisation sous_27: -2892683618933337347
+      hospitalisation sous_28: 1665094049440493568
+      hospitalisation sous_29: 7818205506796775077
+      hospitalisation sous_3: 1883750451771873268
+      hospitalisation sous_30: 8132624708936470485
+      hospitalisation sous_31: 2747731104220491253
+      hospitalisation sous_32: 631493797492869321
+      hospitalisation sous_33: -7377743170440137405
+      hospitalisation sous_34: -6805158592295477849
+      hospitalisation sous_35: -2470204887834011662
+      hospitalisation sous_36: 3561238335323669362
+      hospitalisation sous_37: 5309035822007328490
+      hospitalisation sous_38: -1336387581254685498
+      hospitalisation sous_39: -4084547383861359239
+      hospitalisation sous_4: -3665521845585088677
+      hospitalisation sous_40: -7728548186740582051
+      hospitalisation sous_41: 3344014195572507056
+      hospitalisation sous_5: 525623178425108553
+      hospitalisation sous_6: 486750392435071827
+      hospitalisation sous_7: 8441754873492368847
+      hospitalisation sous_8: -6222991123942345230
+      hospitalisation sous_9: -3929052489737741626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

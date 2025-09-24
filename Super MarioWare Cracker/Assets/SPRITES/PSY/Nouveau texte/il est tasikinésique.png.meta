@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 2f65c88eaeafec7488c490ce57f5b27c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6458550147217744483
+    second: "il est tasikin\xE9sique_0"
+  - first:
+      213: 5339372961725034444
+    second: "il est tasikin\xE9sique_1"
+  - first:
+      213: 7841667475279764108
+    second: "il est tasikin\xE9sique_2"
+  - first:
+      213: 8824734439371244529
+    second: "il est tasikin\xE9sique_3"
+  - first:
+      213: -6009113372474402069
+    second: "il est tasikin\xE9sique_4"
+  - first:
+      213: -2580986490353491638
+    second: "il est tasikin\xE9sique_5"
+  - first:
+      213: 2348131987407943257
+    second: "il est tasikin\xE9sique_6"
+  - first:
+      213: 2908887054745214726
+    second: "il est tasikin\xE9sique_7"
+  - first:
+      213: 8199587602344795501
+    second: "il est tasikin\xE9sique_8"
+  - first:
+      213: -2882739875842985163
+    second: "il est tasikin\xE9sique_9"
+  - first:
+      213: -7591840438586485175
+    second: "il est tasikin\xE9sique_10"
+  - first:
+      213: -1715105329008782219
+    second: "il est tasikin\xE9sique_11"
+  - first:
+      213: 7026375441437080598
+    second: "il est tasikin\xE9sique_12"
+  - first:
+      213: 2404532752083673867
+    second: "il est tasikin\xE9sique_13"
+  - first:
+      213: -2649077279452578587
+    second: "il est tasikin\xE9sique_14"
+  - first:
+      213: -573623092248127738
+    second: "il est tasikin\xE9sique_15"
+  - first:
+      213: 7352072557548836845
+    second: "il est tasikin\xE9sique_16"
+  - first:
+      213: -3948115421863408993
+    second: "il est tasikin\xE9sique_17"
+  - first:
+      213: -7066905846494174610
+    second: "il est tasikin\xE9sique_18"
+  - first:
+      213: -2148838082610250305
+    second: "il est tasikin\xE9sique_19"
+  - first:
+      213: -3613166366372385944
+    second: "il est tasikin\xE9sique_20"
+  - first:
+      213: -6295621046396089178
+    second: "il est tasikin\xE9sique_21"
+  - first:
+      213: 1053642894898508118
+    second: "il est tasikin\xE9sique_22"
+  - first:
+      213: 6122962658027477597
+    second: "il est tasikin\xE9sique_23"
+  - first:
+      213: 6142923993478940921
+    second: "il est tasikin\xE9sique_24"
+  - first:
+      213: 6581387571450112171
+    second: "il est tasikin\xE9sique_25"
+  - first:
+      213: -8969610276309881465
+    second: "il est tasikin\xE9sique_26"
+  - first:
+      213: -8905559211909962473
+    second: "il est tasikin\xE9sique_27"
+  - first:
+      213: -4684428795707228923
+    second: "il est tasikin\xE9sique_28"
+  - first:
+      213: 2045255024299066831
+    second: "il est tasikin\xE9sique_29"
+  - first:
+      213: -6390416549506087155
+    second: "il est tasikin\xE9sique_30"
+  - first:
+      213: 589636682644840397
+    second: "il est tasikin\xE9sique_31"
+  - first:
+      213: -3250777959635650076
+    second: "il est tasikin\xE9sique_32"
+  - first:
+      213: -8546646283082866058
+    second: "il est tasikin\xE9sique_33"
+  - first:
+      213: 6051457758544964768
+    second: "il est tasikin\xE9sique_34"
+  - first:
+      213: -2709966594047218415
+    second: "il est tasikin\xE9sique_35"
+  - first:
+      213: -2119927047848942869
+    second: "il est tasikin\xE9sique_36"
+  - first:
+      213: -56670585191261097
+    second: "il est tasikin\xE9sique_37"
+  - first:
+      213: 6924671591220583060
+    second: "il est tasikin\xE9sique_38"
+  - first:
+      213: 7170413622441204526
+    second: "il est tasikin\xE9sique_39"
+  - first:
+      213: -4993914607547946067
+    second: "il est tasikin\xE9sique_40"
+  - first:
+      213: 7715565261574344524
+    second: "il est tasikin\xE9sique_41"
+  - first:
+      213: 5353485620655599285
+    second: "il est tasikin\xE9sique_42"
+  - first:
+      213: 8252576323341075690
+    second: "il est tasikin\xE9sique_43"
+  - first:
+      213: 7250364303138686464
+    second: "il est tasikin\xE9sique_44"
+  - first:
+      213: -1264957406637581169
+    second: "il est tasikin\xE9sique_45"
+  - first:
+      213: -2747040063848549525
+    second: "il est tasikin\xE9sique_46"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e5f8d32161a950800000000000000
+      internalID: 6458550147217744483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_1"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf22f26b63491a40800000000000000
+      internalID: 5339372961725034444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_2"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad8c6950333dc60800000000000000
+      internalID: 7841667475279764108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_3"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f301e79731c77a70800000000000000
+      internalID: 8824734439371244529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_4"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea1d92b9375b9ca0800000000000000
+      internalID: -6009113372474402069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_5"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e560367e7e2cd0800000000000000
+      internalID: -2580986490353491638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_6"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956be230a9d369020800000000000000
+      internalID: 2348131987407943257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_7"
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f12d54d517e5820800000000000000
+      internalID: 2908887054745214726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_8"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d55762b79cac170800000000000000
+      internalID: 8199587602344795501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_9"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53376883b537ef7d0800000000000000
+      internalID: -2882739875842985163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_10"
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465b9a285d54a690800000000000000
+      internalID: -7591840438586485175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_11"
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745d005ac8b238e0800000000000000
+      internalID: -1715105329008782219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_12"
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb2659c33b28160800000000000000
+      internalID: 7026375441437080598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_13"
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036dba5ccd9e5120800000000000000
+      internalID: 2404532752083673867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_14"
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecbbafef369c3bd0800000000000000
+      internalID: -2649077279452578587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_15"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d69736d41a08f0800000000000000
+      internalID: -573623092248127738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_16"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79893c90fc70660800000000000000
+      internalID: 7352072557548836845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_17"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a079b11f97539c0800000000000000
+      internalID: -3948115421863408993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_18"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62659e139e4ded90800000000000000
+      internalID: -7066905846494174610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_19"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd3f2e162bcd22e0800000000000000
+      internalID: -2148838082610250305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_20"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2cf945547bddc0800000000000000
+      internalID: -3613166366372385944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_21"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8611930671a8a0800000000000000
+      internalID: -6295621046396089178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_22"
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513a8661aa4f9e00800000000000000
+      internalID: 1053642894898508118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_23"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a95bcb81229f450800000000000000
+      internalID: 6122962658027477597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_24"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8498153dc004550800000000000000
+      internalID: 6142923993478940921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_25"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba864756029c55b50800000000000000
+      internalID: 6581387571450112171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_26"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d2bda0afa858380800000000000000
+      internalID: -8969610276309881465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_27"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71526e79419196480800000000000000
+      internalID: -8905559211909962473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_28"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d724854d09dfeb0800000000000000
+      internalID: -4684428795707228923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_29"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5cd6ebb94326c10800000000000000
+      internalID: 2045255024299066831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_30"
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0789ef810ea057a0800000000000000
+      internalID: -6390416549506087155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_31"
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd597507fce2800800000000000000
+      internalID: 589636682644840397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_32"
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e97f384baae2e2d0800000000000000
+      internalID: -3250777959635650076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_33"
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672eee3dc76346980800000000000000
+      internalID: -8546646283082866058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_34"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acaa57f4c81bf350800000000000000
+      internalID: 6051457758544964768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_35"
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de3a0adb3446ad0800000000000000
+      internalID: -2709966594047218415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_36"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a833f4918492e0800000000000000
+      internalID: -2119927047848942869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_37"
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c167c276aa63ff0800000000000000
+      internalID: -56670585191261097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_38"
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a11fcaf10691060800000000000000
+      internalID: 6924671591220583060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_39"
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bda3af23d628360800000000000000
+      internalID: 7170413622441204526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_40"
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab68729f1d02bab0800000000000000
+      internalID: -4993914607547946067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_41"
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f8b710ab1331b60800000000000000
+      internalID: 7715565261574344524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_42"
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea659dec66b4a40800000000000000
+      internalID: 5353485620655599285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_43"
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44b8a217a078270800000000000000
+      internalID: 8252576323341075690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_44"
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00601cc6be77e9460800000000000000
+      internalID: 7250364303138686464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_45"
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c1e51d0f7f17ee0800000000000000
+      internalID: -1264957406637581169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il est tasikin\xE9sique_46"
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637a8acd9d80e9d0800000000000000
+      internalID: -2747040063848549525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "il est tasikin\xE9sique_0": 6458550147217744483
+      "il est tasikin\xE9sique_1": 5339372961725034444
+      "il est tasikin\xE9sique_10": -7591840438586485175
+      "il est tasikin\xE9sique_11": -1715105329008782219
+      "il est tasikin\xE9sique_12": 7026375441437080598
+      "il est tasikin\xE9sique_13": 2404532752083673867
+      "il est tasikin\xE9sique_14": -2649077279452578587
+      "il est tasikin\xE9sique_15": -573623092248127738
+      "il est tasikin\xE9sique_16": 7352072557548836845
+      "il est tasikin\xE9sique_17": -3948115421863408993
+      "il est tasikin\xE9sique_18": -7066905846494174610
+      "il est tasikin\xE9sique_19": -2148838082610250305
+      "il est tasikin\xE9sique_2": 7841667475279764108
+      "il est tasikin\xE9sique_20": -3613166366372385944
+      "il est tasikin\xE9sique_21": -6295621046396089178
+      "il est tasikin\xE9sique_22": 1053642894898508118
+      "il est tasikin\xE9sique_23": 6122962658027477597
+      "il est tasikin\xE9sique_24": 6142923993478940921
+      "il est tasikin\xE9sique_25": 6581387571450112171
+      "il est tasikin\xE9sique_26": -8969610276309881465
+      "il est tasikin\xE9sique_27": -8905559211909962473
+      "il est tasikin\xE9sique_28": -4684428795707228923
+      "il est tasikin\xE9sique_29": 2045255024299066831
+      "il est tasikin\xE9sique_3": 8824734439371244529
+      "il est tasikin\xE9sique_30": -6390416549506087155
+      "il est tasikin\xE9sique_31": 589636682644840397
+      "il est tasikin\xE9sique_32": -3250777959635650076
+      "il est tasikin\xE9sique_33": -8546646283082866058
+      "il est tasikin\xE9sique_34": 6051457758544964768
+      "il est tasikin\xE9sique_35": -2709966594047218415
+      "il est tasikin\xE9sique_36": -2119927047848942869
+      "il est tasikin\xE9sique_37": -56670585191261097
+      "il est tasikin\xE9sique_38": 6924671591220583060
+      "il est tasikin\xE9sique_39": 7170413622441204526
+      "il est tasikin\xE9sique_4": -6009113372474402069
+      "il est tasikin\xE9sique_40": -4993914607547946067
+      "il est tasikin\xE9sique_41": 7715565261574344524
+      "il est tasikin\xE9sique_42": 5353485620655599285
+      "il est tasikin\xE9sique_43": 8252576323341075690
+      "il est tasikin\xE9sique_44": 7250364303138686464
+      "il est tasikin\xE9sique_45": -1264957406637581169
+      "il est tasikin\xE9sique_46": -2747040063848549525
+      "il est tasikin\xE9sique_5": -2580986490353491638
+      "il est tasikin\xE9sique_6": 2348131987407943257
+      "il est tasikin\xE9sique_7": 2908887054745214726
+      "il est tasikin\xE9sique_8": 8199587602344795501
+      "il est tasikin\xE9sique_9": -2882739875842985163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

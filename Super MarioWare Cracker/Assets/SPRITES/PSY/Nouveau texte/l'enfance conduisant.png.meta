@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 7fc227fa89abee947a3ddffa3b24109d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6115126138905397660
+    second: l'enfance conduisant_0
+  - first:
+      213: -3068273164175239595
+    second: l'enfance conduisant_1
+  - first:
+      213: -1601636230266590893
+    second: l'enfance conduisant_2
+  - first:
+      213: 1776844427332138690
+    second: l'enfance conduisant_3
+  - first:
+      213: -2016524246193693309
+    second: l'enfance conduisant_4
+  - first:
+      213: -9110325604875541255
+    second: l'enfance conduisant_5
+  - first:
+      213: 2818947823378775393
+    second: l'enfance conduisant_6
+  - first:
+      213: -7945917957826842274
+    second: l'enfance conduisant_7
+  - first:
+      213: -3965239388339457421
+    second: l'enfance conduisant_8
+  - first:
+      213: -7863306256997498543
+    second: l'enfance conduisant_9
+  - first:
+      213: 3155141396314317775
+    second: l'enfance conduisant_10
+  - first:
+      213: -5902017953074056863
+    second: l'enfance conduisant_11
+  - first:
+      213: -5533425148533835640
+    second: l'enfance conduisant_12
+  - first:
+      213: 6905190203760533698
+    second: l'enfance conduisant_13
+  - first:
+      213: 2409429667639309297
+    second: l'enfance conduisant_14
+  - first:
+      213: 678682838978624491
+    second: l'enfance conduisant_15
+  - first:
+      213: 6935289766718627931
+    second: l'enfance conduisant_16
+  - first:
+      213: -270000794833413960
+    second: l'enfance conduisant_17
+  - first:
+      213: 7182787373954590076
+    second: l'enfance conduisant_18
+  - first:
+      213: 244312139378935356
+    second: l'enfance conduisant_19
+  - first:
+      213: -4318367364107490477
+    second: l'enfance conduisant_20
+  - first:
+      213: -6857617182579919564
+    second: l'enfance conduisant_21
+  - first:
+      213: 3044645886206725966
+    second: l'enfance conduisant_22
+  - first:
+      213: 4678004204304298203
+    second: l'enfance conduisant_23
+  - first:
+      213: -1735208893622300091
+    second: l'enfance conduisant_24
+  - first:
+      213: -272986090658191836
+    second: l'enfance conduisant_25
+  - first:
+      213: -342764466221585639
+    second: l'enfance conduisant_26
+  - first:
+      213: 5803043197963212466
+    second: l'enfance conduisant_27
+  - first:
+      213: -4761606073903690833
+    second: l'enfance conduisant_28
+  - first:
+      213: -4592183924850729433
+    second: l'enfance conduisant_29
+  - first:
+      213: -1544709870708288191
+    second: l'enfance conduisant_30
+  - first:
+      213: -5510984833215291427
+    second: l'enfance conduisant_31
+  - first:
+      213: -122289611212979403
+    second: l'enfance conduisant_32
+  - first:
+      213: 49974350285316347
+    second: l'enfance conduisant_33
+  - first:
+      213: 3195413878034802232
+    second: l'enfance conduisant_34
+  - first:
+      213: -7155206882963686589
+    second: l'enfance conduisant_35
+  - first:
+      213: -8655543596716365505
+    second: l'enfance conduisant_36
+  - first:
+      213: -2997748943329995262
+    second: l'enfance conduisant_37
+  - first:
+      213: -4155197820553731724
+    second: l'enfance conduisant_38
+  - first:
+      213: 2019855809212431082
+    second: l'enfance conduisant_39
+  - first:
+      213: -5481767071311728718
+    second: l'enfance conduisant_40
+  - first:
+      213: -8633035518459613070
+    second: l'enfance conduisant_41
+  - first:
+      213: 4934399893497122437
+    second: l'enfance conduisant_42
+  - first:
+      213: 6673759938667181244
+    second: l'enfance conduisant_43
+  - first:
+      213: -7173159114780066191
+    second: l'enfance conduisant_44
+  - first:
+      213: -4030498743376018309
+    second: l'enfance conduisant_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: l'enfance conduisant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c998922f2da4dd450800000000000000
+      internalID: 6115126138905397660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556987740dd4b65d0800000000000000
+      internalID: -3068273164175239595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359609b9558d5c9e0800000000000000
+      internalID: -1601636230266590893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b340b79e98a810800000000000000
+      internalID: 1776844427332138690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d99a0d1edd304e0800000000000000
+      internalID: -2016524246193693309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_5
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f46f35812f919180800000000000000
+      internalID: -9110325604875541255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d3ad42c1aee1720800000000000000
+      internalID: 2818947823378775393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_7
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51755577bd6ab190800000000000000
+      internalID: -7945917957826842274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b3a8f8c3a8f8c0800000000000000
+      internalID: -3965239388339457421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_9
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ce8fee9cefd290800000000000000
+      internalID: -7863306256997498543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_10
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e17f126059cb20800000000000000
+      internalID: 3155141396314317775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161fa0121f1d71ea0800000000000000
+      internalID: -5902017953074056863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_12
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8887d6e05235533b0800000000000000
+      internalID: -5533425148533835640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c067a1b7e924df50800000000000000
+      internalID: 6905190203760533698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3bdea5483007120800000000000000
+      internalID: 2409429667639309297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb797c327a2b6900800000000000000
+      internalID: 678682838978624491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b506aaf4c491f3060800000000000000
+      internalID: 6935289766718627931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b891e625b3c04cf0800000000000000
+      internalID: -270000794833413960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7569b18f036ea360800000000000000
+      internalID: 7182787373954590076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364ff9a898f36300800000000000000
+      internalID: 244312139378935356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35babb413c31214c0800000000000000
+      internalID: -4318367364107490477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43575b27189d4d0a0800000000000000
+      internalID: -6857617182579919564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc4326d41c04a20800000000000000
+      internalID: 3044645886206725966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07757e90c9be040800000000000000
+      internalID: 4678004204304298203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425b8c64bc4be7e0800000000000000
+      internalID: -1735208893622300091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42622bdc898263cf0800000000000000
+      internalID: -272986090658191836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6c35b8814e3bf0800000000000000
+      internalID: -342764466221585639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_27
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b618deea0d888050800000000000000
+      internalID: 5803043197963212466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_28
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc0acf0806bedb0800000000000000
+      internalID: -4761606073903690833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_29
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e53000d094540c0800000000000000
+      internalID: -4592183924850729433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_30
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145946b8e86109ae0800000000000000
+      internalID: -1544709870708288191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_31
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf13ad1e7c0583b0800000000000000
+      internalID: -5510984833215291427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_32
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5330eeb1f3a8d4ef0800000000000000
+      internalID: -122289611212979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_33
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf023a4286b81b000800000000000000
+      internalID: 49974350285316347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_34
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8362e96fdf3685c20800000000000000
+      internalID: 3195413878034802232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_35
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf486ff3993bc90800000000000000
+      internalID: -7155206882963686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_36
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3960d335f451e780800000000000000
+      internalID: -8655543596716365505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_37
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065303083bd566d0800000000000000
+      internalID: -2997748943329995262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_38
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ea6ee895c556c0800000000000000
+      internalID: -4155197820553731724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_39
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabd952828f70c10800000000000000
+      internalID: 2019855809212431082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_40
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe70d64e9dce3b0800000000000000
+      internalID: -5481767071311728718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_41
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27072ec8feb413880800000000000000
+      internalID: -8633035518459613070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_42
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0f9f3f828a7440800000000000000
+      internalID: 4934399893497122437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_43
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb47d7c1e45fd9c50800000000000000
+      internalID: 6673759938667181244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_44
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ebd264ac1d37c90800000000000000
+      internalID: -7173159114780066191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l'enfance conduisant_45
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740a655fbac018c0800000000000000
+      internalID: -4030498743376018309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      l'enfance conduisant_0: 6115126138905397660
+      l'enfance conduisant_1: -3068273164175239595
+      l'enfance conduisant_10: 3155141396314317775
+      l'enfance conduisant_11: -5902017953074056863
+      l'enfance conduisant_12: -5533425148533835640
+      l'enfance conduisant_13: 6905190203760533698
+      l'enfance conduisant_14: 2409429667639309297
+      l'enfance conduisant_15: 678682838978624491
+      l'enfance conduisant_16: 6935289766718627931
+      l'enfance conduisant_17: -270000794833413960
+      l'enfance conduisant_18: 7182787373954590076
+      l'enfance conduisant_19: 244312139378935356
+      l'enfance conduisant_2: -1601636230266590893
+      l'enfance conduisant_20: -4318367364107490477
+      l'enfance conduisant_21: -6857617182579919564
+      l'enfance conduisant_22: 3044645886206725966
+      l'enfance conduisant_23: 4678004204304298203
+      l'enfance conduisant_24: -1735208893622300091
+      l'enfance conduisant_25: -272986090658191836
+      l'enfance conduisant_26: -342764466221585639
+      l'enfance conduisant_27: 5803043197963212466
+      l'enfance conduisant_28: -4761606073903690833
+      l'enfance conduisant_29: -4592183924850729433
+      l'enfance conduisant_3: 1776844427332138690
+      l'enfance conduisant_30: -1544709870708288191
+      l'enfance conduisant_31: -5510984833215291427
+      l'enfance conduisant_32: -122289611212979403
+      l'enfance conduisant_33: 49974350285316347
+      l'enfance conduisant_34: 3195413878034802232
+      l'enfance conduisant_35: -7155206882963686589
+      l'enfance conduisant_36: -8655543596716365505
+      l'enfance conduisant_37: -2997748943329995262
+      l'enfance conduisant_38: -4155197820553731724
+      l'enfance conduisant_39: 2019855809212431082
+      l'enfance conduisant_4: -2016524246193693309
+      l'enfance conduisant_40: -5481767071311728718
+      l'enfance conduisant_41: -8633035518459613070
+      l'enfance conduisant_42: 4934399893497122437
+      l'enfance conduisant_43: 6673759938667181244
+      l'enfance conduisant_44: -7173159114780066191
+      l'enfance conduisant_45: -4030498743376018309
+      l'enfance conduisant_5: -9110325604875541255
+      l'enfance conduisant_6: 2818947823378775393
+      l'enfance conduisant_7: -7945917957826842274
+      l'enfance conduisant_8: -3965239388339457421
+      l'enfance conduisant_9: -7863306256997498543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

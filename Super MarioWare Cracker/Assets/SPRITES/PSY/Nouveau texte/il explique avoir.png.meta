@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 55a58ef55aab5cf408c6995433a76230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2244528914265354120
+    second: il explique avoir_0
+  - first:
+      213: -6341416919335107086
+    second: il explique avoir_1
+  - first:
+      213: -3030845002333103516
+    second: il explique avoir_2
+  - first:
+      213: -3350732777074148769
+    second: il explique avoir_3
+  - first:
+      213: 680506214085928365
+    second: il explique avoir_4
+  - first:
+      213: 4717773612509288433
+    second: il explique avoir_5
+  - first:
+      213: -4360268662412707338
+    second: il explique avoir_6
+  - first:
+      213: -630383590006325094
+    second: il explique avoir_7
+  - first:
+      213: 4268579068602057905
+    second: il explique avoir_8
+  - first:
+      213: 2498460529397400184
+    second: il explique avoir_9
+  - first:
+      213: -2948242455083472846
+    second: il explique avoir_10
+  - first:
+      213: 2572316342242152723
+    second: il explique avoir_11
+  - first:
+      213: -3677795026142268312
+    second: il explique avoir_12
+  - first:
+      213: -2809285487837806761
+    second: il explique avoir_13
+  - first:
+      213: 4892339844841592074
+    second: il explique avoir_14
+  - first:
+      213: 16166549240619301
+    second: il explique avoir_15
+  - first:
+      213: 7169745305339442798
+    second: il explique avoir_16
+  - first:
+      213: 5846299915288361061
+    second: il explique avoir_17
+  - first:
+      213: 8934976293755608174
+    second: il explique avoir_18
+  - first:
+      213: -1518262516198583986
+    second: il explique avoir_19
+  - first:
+      213: 2347393904519408947
+    second: il explique avoir_20
+  - first:
+      213: 1747229010189180548
+    second: il explique avoir_21
+  - first:
+      213: 3774212505481729120
+    second: il explique avoir_22
+  - first:
+      213: -4657741432747055533
+    second: il explique avoir_23
+  - first:
+      213: 1287334603486532696
+    second: il explique avoir_24
+  - first:
+      213: -291971788911371194
+    second: il explique avoir_25
+  - first:
+      213: 7369643035289570544
+    second: il explique avoir_26
+  - first:
+      213: 8077869312882555259
+    second: il explique avoir_27
+  - first:
+      213: -1088308898609712287
+    second: il explique avoir_28
+  - first:
+      213: 4736124363405619468
+    second: il explique avoir_29
+  - first:
+      213: -187797194088777132
+    second: il explique avoir_30
+  - first:
+      213: -5950332940739603261
+    second: il explique avoir_31
+  - first:
+      213: 907416749867058315
+    second: il explique avoir_32
+  - first:
+      213: 2940046129057459629
+    second: il explique avoir_33
+  - first:
+      213: -7911871030227936851
+    second: il explique avoir_34
+  - first:
+      213: 2966525992888220964
+    second: il explique avoir_35
+  - first:
+      213: -2398088394654296654
+    second: il explique avoir_36
+  - first:
+      213: -1131866688745145277
+    second: il explique avoir_37
+  - first:
+      213: 6133369932069669598
+    second: il explique avoir_38
+  - first:
+      213: -7421540142257445617
+    second: il explique avoir_39
+  - first:
+      213: 5783437757853486794
+    second: il explique avoir_40
+  - first:
+      213: 1712720715251467960
+    second: il explique avoir_41
+  - first:
+      213: -321243262459336517
+    second: il explique avoir_42
+  - first:
+      213: 4992207382906324604
+    second: il explique avoir_43
+  - first:
+      213: -5947922483003144210
+    second: il explique avoir_44
+  - first:
+      213: 2227448102333191527
+    second: il explique avoir_45
+  - first:
+      213: -4892097117455646239
+    second: il explique avoir_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: il explique avoir_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870de1138d4d9d0e0800000000000000
+      internalID: -2244528914265354120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5016ef8e2cef7a0800000000000000
+      internalID: -6341416919335107086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46adaaa478640f5d0800000000000000
+      internalID: -3030845002333103516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abc3dca4ecf71d0800000000000000
+      internalID: -3350732777074148769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a906dbc4a17900800000000000000
+      internalID: 680506214085928365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d350da16e87140800000000000000
+      internalID: 4717773612509288433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f97f93d0c63d73c0800000000000000
+      internalID: -4360268662412707338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90007df67d6047f0800000000000000
+      internalID: -630383590006325094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_8
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b481b70c0a0d3b30800000000000000
+      internalID: 4268579068602057905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_9
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87201143d905ca220800000000000000
+      internalID: 2498460529397400184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_10
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23826098b1db517d0800000000000000
+      internalID: -2948242455083472846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_11
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119645a514b2b320800000000000000
+      internalID: 2572316342242152723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_12
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647716d8e8d5fcc0800000000000000
+      internalID: -3677795026142268312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_13
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f74c8abb96309d0800000000000000
+      internalID: -2809285487837806761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_14
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05d54c0b2515e340800000000000000
+      internalID: 4892339844841592074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_15
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5212bb0146f693000800000000000000
+      internalID: 16166549240619301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_16
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6638c64e5d008360800000000000000
+      internalID: 7169745305339442798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_17
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568b8254cca322150800000000000000
+      internalID: 5846299915288361061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_18
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd6d189996ffb70800000000000000
+      internalID: 8934976293755608174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41513e194c0eeae0800000000000000
+      internalID: -1518262516198583986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33debc2b15e939020800000000000000
+      internalID: 2347393904519408947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e559d07876f3810800000000000000
+      internalID: 1747229010189180548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645310f642b06430800000000000000
+      internalID: 3774212505481729120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3562e7d38d06c5fb0800000000000000
+      internalID: -4657741432747055533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85412e350088dd110800000000000000
+      internalID: 1287334603486532696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c90857435b2fbf0800000000000000
+      internalID: -291971788911371194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fccdd76b4b364660800000000000000
+      internalID: 7369643035289570544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79b468775b5a1070800000000000000
+      internalID: 8077869312882555259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b874a2dc85e0f0800000000000000
+      internalID: -1088308898609712287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c017dd4f3081ab140800000000000000
+      internalID: 4736124363405619468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af58c627fc46df0800000000000000
+      internalID: -187797194088777132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_31
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c419e377bb2c6da0800000000000000
+      internalID: -5950332940739603261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84c01fe9bac79c00800000000000000
+      internalID: 907416749867058315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_33
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad6bb990642dc820800000000000000
+      internalID: 2940046129057459629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_34
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da95f868733633290800000000000000
+      internalID: -7911871030227936851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_35
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db0175ca73b2920800000000000000
+      internalID: 2966525992888220964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_36
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d4a88f4748bed0800000000000000
+      internalID: -2398088394654296654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_37
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7f345e3dca40f0800000000000000
+      internalID: -1131866688745145277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_38
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda031d057b1e1550800000000000000
+      internalID: 6133369932069669598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_39
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f056176cf84610990800000000000000
+      internalID: -7421540142257445617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_40
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace4071bff5e24050800000000000000
+      internalID: 5783437757853486794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_41
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b644088a6ec4c710800000000000000
+      internalID: 1712720715251467960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_42
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8af9e64f6ba8bf0800000000000000
+      internalID: -321243262459336517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_43
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c6373a22e74540800000000000000
+      internalID: 4992207382906324604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_44
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7c901e30cb47da0800000000000000
+      internalID: -5947922483003144210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_45
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765103f5f3c79ee10800000000000000
+      internalID: 2227448102333191527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: il explique avoir_46
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e108535797cb1cb0800000000000000
+      internalID: -4892097117455646239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      il explique avoir_0: -2244528914265354120
+      il explique avoir_1: -6341416919335107086
+      il explique avoir_10: -2948242455083472846
+      il explique avoir_11: 2572316342242152723
+      il explique avoir_12: -3677795026142268312
+      il explique avoir_13: -2809285487837806761
+      il explique avoir_14: 4892339844841592074
+      il explique avoir_15: 16166549240619301
+      il explique avoir_16: 7169745305339442798
+      il explique avoir_17: 5846299915288361061
+      il explique avoir_18: 8934976293755608174
+      il explique avoir_19: -1518262516198583986
+      il explique avoir_2: -3030845002333103516
+      il explique avoir_20: 2347393904519408947
+      il explique avoir_21: 1747229010189180548
+      il explique avoir_22: 3774212505481729120
+      il explique avoir_23: -4657741432747055533
+      il explique avoir_24: 1287334603486532696
+      il explique avoir_25: -291971788911371194
+      il explique avoir_26: 7369643035289570544
+      il explique avoir_27: 8077869312882555259
+      il explique avoir_28: -1088308898609712287
+      il explique avoir_29: 4736124363405619468
+      il explique avoir_3: -3350732777074148769
+      il explique avoir_30: -187797194088777132
+      il explique avoir_31: -5950332940739603261
+      il explique avoir_32: 907416749867058315
+      il explique avoir_33: 2940046129057459629
+      il explique avoir_34: -7911871030227936851
+      il explique avoir_35: 2966525992888220964
+      il explique avoir_36: -2398088394654296654
+      il explique avoir_37: -1131866688745145277
+      il explique avoir_38: 6133369932069669598
+      il explique avoir_39: -7421540142257445617
+      il explique avoir_4: 680506214085928365
+      il explique avoir_40: 5783437757853486794
+      il explique avoir_41: 1712720715251467960
+      il explique avoir_42: -321243262459336517
+      il explique avoir_43: 4992207382906324604
+      il explique avoir_44: -5947922483003144210
+      il explique avoir_45: 2227448102333191527
+      il explique avoir_46: -4892097117455646239
+      il explique avoir_5: 4717773612509288433
+      il explique avoir_6: -4360268662412707338
+      il explique avoir_7: -630383590006325094
+      il explique avoir_8: 4268579068602057905
+      il explique avoir_9: 2498460529397400184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

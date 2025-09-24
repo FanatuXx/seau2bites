@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: c1d16c823c1b5dd49a56b1876899e820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7869238692282928038
+    second: "m\xE9lancolique_0"
+  - first:
+      213: -5826453125186261345
+    second: "m\xE9lancolique_1"
+  - first:
+      213: -5017185111380889460
+    second: "m\xE9lancolique_2"
+  - first:
+      213: 8054986537490622564
+    second: "m\xE9lancolique_3"
+  - first:
+      213: 1831560743543311587
+    second: "m\xE9lancolique_4"
+  - first:
+      213: 6206180142934650325
+    second: "m\xE9lancolique_5"
+  - first:
+      213: 6153664708017644764
+    second: "m\xE9lancolique_6"
+  - first:
+      213: 5085650679754792127
+    second: "m\xE9lancolique_7"
+  - first:
+      213: -6176554182943828732
+    second: "m\xE9lancolique_8"
+  - first:
+      213: -8183807672391209157
+    second: "m\xE9lancolique_9"
+  - first:
+      213: 4902988127634872454
+    second: "m\xE9lancolique_10"
+  - first:
+      213: -6852070107325421402
+    second: "m\xE9lancolique_11"
+  - first:
+      213: -1836712882965638443
+    second: "m\xE9lancolique_12"
+  - first:
+      213: 178356008553268519
+    second: "m\xE9lancolique_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "m\xE9lancolique_0"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 51
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab884ac5e6253d60800000000000000
+      internalID: 7869238692282928038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_1"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eeec4a0c7442fa0800000000000000
+      internalID: -5826453125186261345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_2"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 13
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8073cf29b06f5ab0800000000000000
+      internalID: -5017185111380889460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_3"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468aea5249f09cf60800000000000000
+      internalID: 8054986537490622564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec037fcac20b6910800000000000000
+      internalID: 1831560743543311587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_5"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde3bf45f7c02650800000000000000
+      internalID: 6206180142934650325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_6"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ef3cc275366550800000000000000
+      internalID: 6153664708017644764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_7"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc128a295cd39640800000000000000
+      internalID: 5085650679754792127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_8"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051ea502b8784aa0800000000000000
+      internalID: -6176554182943828732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_9"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f610918464d6e80800000000000000
+      internalID: -8183807672391209157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_10"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68852a599b9ea0440800000000000000
+      internalID: 4902988127634872454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_11"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8abcc8a8e88e0a0800000000000000
+      internalID: -6852070107325421402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_12"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d213704d5fa286e0800000000000000
+      internalID: -1836712882965638443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "m\xE9lancolique_13"
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 13
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725cf5548d5a97200800000000000000
+      internalID: 178356008553268519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "m\xE9lancolique_0": 7869238692282928038
+      "m\xE9lancolique_1": -5826453125186261345
+      "m\xE9lancolique_10": 4902988127634872454
+      "m\xE9lancolique_11": -6852070107325421402
+      "m\xE9lancolique_12": -1836712882965638443
+      "m\xE9lancolique_13": 178356008553268519
+      "m\xE9lancolique_2": -5017185111380889460
+      "m\xE9lancolique_3": 8054986537490622564
+      "m\xE9lancolique_4": 1831560743543311587
+      "m\xE9lancolique_5": 6206180142934650325
+      "m\xE9lancolique_6": 6153664708017644764
+      "m\xE9lancolique_7": 5085650679754792127
+      "m\xE9lancolique_8": -6176554182943828732
+      "m\xE9lancolique_9": -8183807672391209157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

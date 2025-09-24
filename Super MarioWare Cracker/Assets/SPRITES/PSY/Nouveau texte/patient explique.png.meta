@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 624cf43f0a1bf644e8e5684a24e3a44c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1996245566251060557
+    second: patient explique_0
+  - first:
+      213: -138329570623248025
+    second: patient explique_1
+  - first:
+      213: -581851541558488216
+    second: patient explique_2
+  - first:
+      213: 3286408431659678952
+    second: patient explique_3
+  - first:
+      213: 4444252748842732932
+    second: patient explique_4
+  - first:
+      213: -8054458035154451876
+    second: patient explique_5
+  - first:
+      213: -8115864153586526176
+    second: patient explique_6
+  - first:
+      213: 4325735160305628185
+    second: patient explique_7
+  - first:
+      213: 5184415848828922962
+    second: patient explique_8
+  - first:
+      213: 6869489757752792738
+    second: patient explique_9
+  - first:
+      213: -5135488949392730834
+    second: patient explique_10
+  - first:
+      213: -2114254493765743559
+    second: patient explique_11
+  - first:
+      213: -8478147375920355245
+    second: patient explique_12
+  - first:
+      213: 7908761116569784604
+    second: patient explique_13
+  - first:
+      213: -1720789297563476808
+    second: patient explique_14
+  - first:
+      213: -2806099198918150962
+    second: patient explique_15
+  - first:
+      213: -4077821623441826072
+    second: patient explique_16
+  - first:
+      213: 5700835335674826231
+    second: patient explique_17
+  - first:
+      213: 7357777257846198390
+    second: patient explique_18
+  - first:
+      213: 7637461157693330727
+    second: patient explique_19
+  - first:
+      213: 8135328374812209563
+    second: patient explique_20
+  - first:
+      213: 4041403833155596521
+    second: patient explique_21
+  - first:
+      213: 399334849772370409
+    second: patient explique_22
+  - first:
+      213: -96779371047053016
+    second: patient explique_23
+  - first:
+      213: 6723635243785431139
+    second: patient explique_24
+  - first:
+      213: 488595076570357724
+    second: patient explique_25
+  - first:
+      213: 8934570372807193395
+    second: patient explique_26
+  - first:
+      213: 6125686156971255306
+    second: patient explique_27
+  - first:
+      213: 244509500665485564
+    second: patient explique_28
+  - first:
+      213: -8551258888385014396
+    second: patient explique_29
+  - first:
+      213: -8974189272165739294
+    second: patient explique_30
+  - first:
+      213: 8110215290360375740
+    second: patient explique_31
+  - first:
+      213: -277135419628623743
+    second: patient explique_32
+  - first:
+      213: -7390317749180896316
+    second: patient explique_33
+  - first:
+      213: 3153335485510738457
+    second: patient explique_34
+  - first:
+      213: 5059199865104015874
+    second: patient explique_35
+  - first:
+      213: 6723627095570377945
+    second: patient explique_36
+  - first:
+      213: 2746739335928675305
+    second: patient explique_37
+  - first:
+      213: -2784288942130406335
+    second: patient explique_38
+  - first:
+      213: -8531608509659083857
+    second: patient explique_39
+  - first:
+      213: 8370042893651183499
+    second: patient explique_40
+  - first:
+      213: 2492949557980652467
+    second: patient explique_41
+  - first:
+      213: 5776820819070872541
+    second: patient explique_42
+  - first:
+      213: 2282476709650893998
+    second: patient explique_43
+  - first:
+      213: -1155198877247242146
+    second: patient explique_44
+  - first:
+      213: 8363849952409696937
+    second: patient explique_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patient explique_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2382beb39eb44e0800000000000000
+      internalID: -1996245566251060557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769a1190dfd841ef0800000000000000
+      internalID: -138329570623248025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86394611b19dce7f0800000000000000
+      internalID: -581851541558488216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec7ce37e0bab9d20800000000000000
+      internalID: 3286408431659678952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d03d214582dad30800000000000000
+      internalID: 4444252748842732932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_5
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 50
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5204546711d83090800000000000000
+      internalID: -8054458035154451876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02816205d88ae5f80800000000000000
+      internalID: -8115864153586526176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143f66a539180c30800000000000000
+      internalID: 4325735160305628185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_8
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6a5d0fbeb2f740800000000000000
+      internalID: 5184415848828922962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61a0fd984555f50800000000000000
+      internalID: 6869489757752792738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_10
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25908f62041bb8b0800000000000000
+      internalID: -5135488949392730834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cc15e5db8a8a2e0800000000000000
+      internalID: -2114254493765743559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_12
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586bd871e1975a80800000000000000
+      internalID: -8478147375920355245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c115096455091cd60800000000000000
+      internalID: 7908761116569784604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5f6140478e18e0800000000000000
+      internalID: -1720789297563476808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b9fb55abbe09d0800000000000000
+      internalID: -2806099198918150962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eed755b6daa867c0800000000000000
+      internalID: -4077821623441826072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd84e1988f6d1f40800000000000000
+      internalID: 5700835335674826231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670de5ece631c1660800000000000000
+      internalID: 7357777257846198390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725972a3576bdf960800000000000000
+      internalID: 7637461157693330727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9176d7dd0e76e070800000000000000
+      internalID: 8135328374812209563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0342dbf53f51830800000000000000
+      internalID: 4041403833155596521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bd1b1ee8ba8500800000000000000
+      internalID: 399334849772370409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829972fbcab28aef0800000000000000
+      internalID: -96779371047053016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368a02181a62f4d50800000000000000
+      internalID: 6723635243785431139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf1bf922a6d7c600800000000000000
+      internalID: 488595076570357724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_26
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f6ebaa68fdfb70800000000000000
+      internalID: 8934570372807193395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_27
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06accfba1fc20550800000000000000
+      internalID: 6125686156971255306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_28
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8df5b681ca46300800000000000000
+      internalID: 244509500665485564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_29
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485d867f853d35980800000000000000
+      internalID: -8551258888385014396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_30
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4907d7766457380800000000000000
+      internalID: -8974189272165739294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_31
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92fd936d54d8070800000000000000
+      internalID: 8110215290360375740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_32
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1886b5eddca672cf0800000000000000
+      internalID: -277135419628623743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_33
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbeec6a921507990800000000000000
+      internalID: -7390317749180896316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_34
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912608fbae5e2cb20800000000000000
+      internalID: 3153335485510738457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_35
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202aa37f873e53640800000000000000
+      internalID: 5059199865104015874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_36
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dce9a9583f1f4d50800000000000000
+      internalID: 6723627095570377945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_37
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebfe988fd06e1620800000000000000
+      internalID: 2746739335928675305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_38
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd44c75f73c59d0800000000000000
+      internalID: -2784288942130406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_39
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab021b4343a99980800000000000000
+      internalID: -8531608509659083857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_40
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878cd65aad582470800000000000000
+      internalID: 8370042893651183499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_41
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3676e2a6cb89220800000000000000
+      internalID: 2492949557980652467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_42
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbecc39de36b2050800000000000000
+      internalID: 5776820819070872541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_43
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac08de697cfcaf10800000000000000
+      internalID: 2282476709650893998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_44
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e508fbcddb8e7ffe0800000000000000
+      internalID: -1155198877247242146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patient explique_45
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa3c08d73d521470800000000000000
+      internalID: 8363849952409696937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      patient explique_0: -1996245566251060557
+      patient explique_1: -138329570623248025
+      patient explique_10: -5135488949392730834
+      patient explique_11: -2114254493765743559
+      patient explique_12: -8478147375920355245
+      patient explique_13: 7908761116569784604
+      patient explique_14: -1720789297563476808
+      patient explique_15: -2806099198918150962
+      patient explique_16: -4077821623441826072
+      patient explique_17: 5700835335674826231
+      patient explique_18: 7357777257846198390
+      patient explique_19: 7637461157693330727
+      patient explique_2: -581851541558488216
+      patient explique_20: 8135328374812209563
+      patient explique_21: 4041403833155596521
+      patient explique_22: 399334849772370409
+      patient explique_23: -96779371047053016
+      patient explique_24: 6723635243785431139
+      patient explique_25: 488595076570357724
+      patient explique_26: 8934570372807193395
+      patient explique_27: 6125686156971255306
+      patient explique_28: 244509500665485564
+      patient explique_29: -8551258888385014396
+      patient explique_3: 3286408431659678952
+      patient explique_30: -8974189272165739294
+      patient explique_31: 8110215290360375740
+      patient explique_32: -277135419628623743
+      patient explique_33: -7390317749180896316
+      patient explique_34: 3153335485510738457
+      patient explique_35: 5059199865104015874
+      patient explique_36: 6723627095570377945
+      patient explique_37: 2746739335928675305
+      patient explique_38: -2784288942130406335
+      patient explique_39: -8531608509659083857
+      patient explique_4: 4444252748842732932
+      patient explique_40: 8370042893651183499
+      patient explique_41: 2492949557980652467
+      patient explique_42: 5776820819070872541
+      patient explique_43: 2282476709650893998
+      patient explique_44: -1155198877247242146
+      patient explique_45: 8363849952409696937
+      patient explique_5: -8054458035154451876
+      patient explique_6: -8115864153586526176
+      patient explique_7: 4325735160305628185
+      patient explique_8: 5184415848828922962
+      patient explique_9: 6869489757752792738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

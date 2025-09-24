@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 41b0a2ccfe887a84e9b62332e0bd4f4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1219606911396503814
+    second: lors des consultations_0
+  - first:
+      213: -5339597969208197364
+    second: lors des consultations_1
+  - first:
+      213: 8446790477015817447
+    second: lors des consultations_2
+  - first:
+      213: -4347752879330519438
+    second: lors des consultations_3
+  - first:
+      213: -6236883267282361446
+    second: lors des consultations_4
+  - first:
+      213: -8676733989374258866
+    second: lors des consultations_5
+  - first:
+      213: -7380110012960535129
+    second: lors des consultations_6
+  - first:
+      213: 8523764088066974999
+    second: lors des consultations_7
+  - first:
+      213: -3590690901230317993
+    second: lors des consultations_8
+  - first:
+      213: -9063165663041914378
+    second: lors des consultations_9
+  - first:
+      213: 1534184760953633408
+    second: lors des consultations_10
+  - first:
+      213: 3894035086739574055
+    second: lors des consultations_11
+  - first:
+      213: 8406380807398377473
+    second: lors des consultations_12
+  - first:
+      213: -7947495502527219026
+    second: lors des consultations_13
+  - first:
+      213: 5283808987477257216
+    second: lors des consultations_14
+  - first:
+      213: 1034799631059377634
+    second: lors des consultations_15
+  - first:
+      213: 2959125530641193451
+    second: lors des consultations_16
+  - first:
+      213: 151538994094083352
+    second: lors des consultations_17
+  - first:
+      213: -6929106572937959080
+    second: lors des consultations_18
+  - first:
+      213: -2180622590664062023
+    second: lors des consultations_19
+  - first:
+      213: 323251774298861623
+    second: lors des consultations_20
+  - first:
+      213: -4661516770039825142
+    second: lors des consultations_21
+  - first:
+      213: 4685502687907867869
+    second: lors des consultations_22
+  - first:
+      213: -5704073593571602805
+    second: lors des consultations_23
+  - first:
+      213: -5325688423276181825
+    second: lors des consultations_24
+  - first:
+      213: 7129731722822844554
+    second: lors des consultations_25
+  - first:
+      213: -48739592808034326
+    second: lors des consultations_26
+  - first:
+      213: 8366922757575713525
+    second: lors des consultations_27
+  - first:
+      213: 6485862573051951636
+    second: lors des consultations_28
+  - first:
+      213: -8867184974675021638
+    second: lors des consultations_29
+  - first:
+      213: 6098250997575495171
+    second: lors des consultations_30
+  - first:
+      213: -7153877147705994655
+    second: lors des consultations_31
+  - first:
+      213: -4231745782965557418
+    second: lors des consultations_32
+  - first:
+      213: -1156657434117314461
+    second: lors des consultations_33
+  - first:
+      213: 4437879789743302357
+    second: lors des consultations_34
+  - first:
+      213: 8083816270302296218
+    second: lors des consultations_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lors des consultations_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe9990d9f5131fe0800000000000000
+      internalID: -1219606911396503814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb2f9ffefe5e5b0800000000000000
+      internalID: -5339597969208197364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec1ea29f27093570800000000000000
+      internalID: 8446790477015817447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769258aacda9a3c0800000000000000
+      internalID: -4347752879330519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ae0c76b32279a0800000000000000
+      internalID: -6236883267282361446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411ac0786c069780800000000000000
+      internalID: -8676733989374258866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_6
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0f227b05949990800000000000000
+      internalID: -7380110012960535129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_7
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a67af64e7a4670800000000000000
+      internalID: 8523764088066974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e80fd46ad4b2ec0800000000000000
+      internalID: -3590690901230317993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f97ed129da293280800000000000000
+      internalID: -9063165663041914378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a757069e48a4510800000000000000
+      internalID: 1534184760953633408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0508a7446a0630800000000000000
+      internalID: 3894035086739574055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10844af2ec679a470800000000000000
+      internalID: 8406380807398377473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab9d5b2f2d4b190800000000000000
+      internalID: -7947495502527219026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c299f774cd35940800000000000000
+      internalID: 5283808987477257216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eddff628c85c5e00800000000000000
+      internalID: 1034799631059377634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be958a3fdfce01920800000000000000
+      internalID: 2959125530641193451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d099889ef5a1200800000000000000
+      internalID: 151538994094083352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859653da84ed6df90800000000000000
+      internalID: -6929106572937959080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_19
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc646ae4fdcb1e0800000000000000
+      internalID: -2180622590664062023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730391ca6cb6c7400800000000000000
+      internalID: 323251774298861623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_21
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dff370237fe4fb0800000000000000
+      internalID: -4661516770039825142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddce2eaaedf360140800000000000000
+      internalID: 4685502687907867869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_23
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e8a72c94f07d0b0800000000000000
+      internalID: -5704073593571602805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb68632889a5716b0800000000000000
+      internalID: -5325688423276181825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_25
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8080ba1a35e1f260800000000000000
+      internalID: 7129731722822844554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_26
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef0e2c3997d25ff0800000000000000
+      internalID: -48739592808034326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ae6c0be74d1470800000000000000
+      internalID: 8366922757575713525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_28
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a33c885a9620a50800000000000000
+      internalID: 6485862573051951636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_29
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab070d2fe3e61f480800000000000000
+      internalID: -8867184974675021638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_30
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 13
+        width: 83
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea8ade8f651a450800000000000000
+      internalID: 6098250997575495171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_31
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162133413a258bc90800000000000000
+      internalID: -7153877147705994655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_32
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a49291a1d545c0800000000000000
+      internalID: -4231745782965557418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_33
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686f90213ab2ffe0800000000000000
+      internalID: -1156657434117314461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_34
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e887e724869d30800000000000000
+      internalID: 4437879789743302357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lors des consultations_35
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9834e4611c7f2070800000000000000
+      internalID: 8083816270302296218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lors des consultations_0: -1219606911396503814
+      lors des consultations_1: -5339597969208197364
+      lors des consultations_10: 1534184760953633408
+      lors des consultations_11: 3894035086739574055
+      lors des consultations_12: 8406380807398377473
+      lors des consultations_13: -7947495502527219026
+      lors des consultations_14: 5283808987477257216
+      lors des consultations_15: 1034799631059377634
+      lors des consultations_16: 2959125530641193451
+      lors des consultations_17: 151538994094083352
+      lors des consultations_18: -6929106572937959080
+      lors des consultations_19: -2180622590664062023
+      lors des consultations_2: 8446790477015817447
+      lors des consultations_20: 323251774298861623
+      lors des consultations_21: -4661516770039825142
+      lors des consultations_22: 4685502687907867869
+      lors des consultations_23: -5704073593571602805
+      lors des consultations_24: -5325688423276181825
+      lors des consultations_25: 7129731722822844554
+      lors des consultations_26: -48739592808034326
+      lors des consultations_27: 8366922757575713525
+      lors des consultations_28: 6485862573051951636
+      lors des consultations_29: -8867184974675021638
+      lors des consultations_3: -4347752879330519438
+      lors des consultations_30: 6098250997575495171
+      lors des consultations_31: -7153877147705994655
+      lors des consultations_32: -4231745782965557418
+      lors des consultations_33: -1156657434117314461
+      lors des consultations_34: 4437879789743302357
+      lors des consultations_35: 8083816270302296218
+      lors des consultations_4: -6236883267282361446
+      lors des consultations_5: -8676733989374258866
+      lors des consultations_6: -7380110012960535129
+      lors des consultations_7: 8523764088066974999
+      lors des consultations_8: -3590690901230317993
+      lors des consultations_9: -9063165663041914378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

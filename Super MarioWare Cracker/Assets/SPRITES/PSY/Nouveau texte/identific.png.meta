@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 55dabf33cbe18f842bdfe69738dae390
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7821815520343706576
+    second: identific_0
+  - first:
+      213: -205934462238885486
+    second: identific_1
+  - first:
+      213: -3694154896213649591
+    second: identific_2
+  - first:
+      213: 610837295846481160
+    second: identific_3
+  - first:
+      213: -3195309934592156573
+    second: identific_4
+  - first:
+      213: 7229700244907940075
+    second: identific_5
+  - first:
+      213: -2586261314650925762
+    second: identific_6
+  - first:
+      213: 6395762716278014127
+    second: identific_7
+  - first:
+      213: -3897136901020518329
+    second: identific_8
+  - first:
+      213: 1605966740215288695
+    second: identific_9
+  - first:
+      213: -855955589964252230
+    second: identific_10
+  - first:
+      213: 4213437115827372114
+    second: identific_11
+  - first:
+      213: 3106286754910144189
+    second: identific_12
+  - first:
+      213: -3181145622584650622
+    second: identific_13
+  - first:
+      213: 8491919261088022509
+    second: identific_14
+  - first:
+      213: -5782687433366922438
+    second: identific_15
+  - first:
+      213: -4442252752909212798
+    second: identific_16
+  - first:
+      213: 5384939588735755484
+    second: identific_17
+  - first:
+      213: 7974479748533061169
+    second: identific_18
+  - first:
+      213: 3363409642845518737
+    second: identific_19
+  - first:
+      213: 2619022833937372997
+    second: identific_20
+  - first:
+      213: -4181780616677729021
+    second: identific_21
+  - first:
+      213: 5527388270509659581
+    second: identific_22
+  - first:
+      213: -7345647020389841016
+    second: identific_23
+  - first:
+      213: -1517708988772346577
+    second: identific_24
+  - first:
+      213: 2943695772951159933
+    second: identific_25
+  - first:
+      213: -8299954601617196177
+    second: identific_26
+  - first:
+      213: 1894944842452394618
+    second: identific_27
+  - first:
+      213: 5205599923589660302
+    second: identific_28
+  - first:
+      213: -1491983687914169617
+    second: identific_29
+  - first:
+      213: -8393399310550069169
+    second: identific_30
+  - first:
+      213: -2009899413820579219
+    second: identific_31
+  - first:
+      213: 1408170279959893989
+    second: identific_32
+  - first:
+      213: -7471286958622387035
+    second: identific_33
+  - first:
+      213: 5933842856550744852
+    second: identific_34
+  - first:
+      213: 8419051836600470895
+    second: identific_35
+  - first:
+      213: -1697280937919540789
+    second: identific_36
+  - first:
+      213: -1342547584113916601
+    second: identific_37
+  - first:
+      213: -2360172603314174658
+    second: identific_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: identific_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b64bd934537390800000000000000
+      internalID: -7821815520343706576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 13
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997d3b92bf542df0800000000000000
+      internalID: -205934462238885486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475ae1c1b9bbbcc0800000000000000
+      internalID: -3694154896213649591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d5d72c8412a7800800000000000000
+      internalID: 610837295846481160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c9b514b8af7a3d0800000000000000
+      internalID: -3195309934592156573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8da42711e055460800000000000000
+      internalID: 7229700244907940075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3595e37901cb1cd0800000000000000
+      internalID: -2586261314650925762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04073ed4052c850800000000000000
+      internalID: 6395762716278014127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 13
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748fa9de2a69ae9c0800000000000000
+      internalID: -3897136901020518329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773df9fcd3a894610800000000000000
+      internalID: 1605966740215288695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbbac0de80f14f0800000000000000
+      internalID: -855955589964252230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_11
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 13
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250465cabb2297a30800000000000000
+      internalID: 4213437115827372114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 13
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68be4885fbb1b20800000000000000
+      internalID: 3106286754910144189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_13
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849d0329ec4ad3d0800000000000000
+      internalID: -3181145622584650622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_14
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 13
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff27a639b59d570800000000000000
+      internalID: 8491919261088022509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9c07da64cfbfa0800000000000000
+      internalID: -5782687433366922438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283685448a2f952c0800000000000000
+      internalID: -4442252752909212798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4688b76062bba40800000000000000
+      internalID: 5384939588735755484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360cd7a41b0bae60800000000000000
+      internalID: 7974479748533061169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3ee3004b3dae20800000000000000
+      internalID: 3363409642845518737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547597b2463a85420800000000000000
+      internalID: 2619022833937372997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d5f466fa457f5c0800000000000000
+      internalID: -4181780616677729021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5936fb85a35bc40800000000000000
+      internalID: 5527388270509659581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c14034f40f0a90800000000000000
+      internalID: -7345647020389841016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f259ec347b300fae0800000000000000
+      internalID: -1517708988772346577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a29985bb1ad820800000000000000
+      internalID: 2943695772951159933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_26
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bfcbec343a0dc80800000000000000
+      internalID: -8299954601617196177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_27
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72655b5b423c4a10800000000000000
+      internalID: 1894944842452394618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_28
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ebc50dc810e3840800000000000000
+      internalID: 5205599923589660302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_29
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead23f9db86b4be0800000000000000
+      internalID: -1491983687914169617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_30
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 38
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4097a41cc7a48b80800000000000000
+      internalID: -8393399310550069169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_31
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6265fcc1276b14e0800000000000000
+      internalID: -2009899413820579219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_32
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e79548a863da8310800000000000000
+      internalID: 1408170279959893989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_33
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 13
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4dd408818a05890800000000000000
+      internalID: -7471286958622387035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_34
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41342b1a3ae395250800000000000000
+      internalID: 5933842856550744852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_35
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 32
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dcb221a0b76d470800000000000000
+      internalID: 8419051836600470895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_36
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 13
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19343cafb0278e0800000000000000
+      internalID: -1697280937919540789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_37
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 13
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745c4dad5105e5de0800000000000000
+      internalID: -1342547584113916601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: identific_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3589d2a58bfe3fd0800000000000000
+      internalID: -2360172603314174658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      identific_0: -7821815520343706576
+      identific_1: -205934462238885486
+      identific_10: -855955589964252230
+      identific_11: 4213437115827372114
+      identific_12: 3106286754910144189
+      identific_13: -3181145622584650622
+      identific_14: 8491919261088022509
+      identific_15: -5782687433366922438
+      identific_16: -4442252752909212798
+      identific_17: 5384939588735755484
+      identific_18: 7974479748533061169
+      identific_19: 3363409642845518737
+      identific_2: -3694154896213649591
+      identific_20: 2619022833937372997
+      identific_21: -4181780616677729021
+      identific_22: 5527388270509659581
+      identific_23: -7345647020389841016
+      identific_24: -1517708988772346577
+      identific_25: 2943695772951159933
+      identific_26: -8299954601617196177
+      identific_27: 1894944842452394618
+      identific_28: 5205599923589660302
+      identific_29: -1491983687914169617
+      identific_3: 610837295846481160
+      identific_30: -8393399310550069169
+      identific_31: -2009899413820579219
+      identific_32: 1408170279959893989
+      identific_33: -7471286958622387035
+      identific_34: 5933842856550744852
+      identific_35: 8419051836600470895
+      identific_36: -1697280937919540789
+      identific_37: -1342547584113916601
+      identific_38: -2360172603314174658
+      identific_4: -3195309934592156573
+      identific_5: 7229700244907940075
+      identific_6: -2586261314650925762
+      identific_7: 6395762716278014127
+      identific_8: -3897136901020518329
+      identific_9: 1605966740215288695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

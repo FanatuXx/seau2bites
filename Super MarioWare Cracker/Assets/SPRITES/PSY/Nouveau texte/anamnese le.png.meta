@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 4e20fa2b626544b4faf827302cbf65a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1672140157196709123
+    second: anamnese le_0
+  - first:
+      213: -6816121378316796872
+    second: anamnese le_1
+  - first:
+      213: 1142192431951663672
+    second: anamnese le_2
+  - first:
+      213: 6622480363647025508
+    second: anamnese le_3
+  - first:
+      213: 5010855802829947967
+    second: anamnese le_4
+  - first:
+      213: -2444188322726789817
+    second: anamnese le_5
+  - first:
+      213: -1405728205022397225
+    second: anamnese le_6
+  - first:
+      213: 1392786230355257953
+    second: anamnese le_7
+  - first:
+      213: 6937730571456393571
+    second: anamnese le_8
+  - first:
+      213: -3209041194790795906
+    second: anamnese le_9
+  - first:
+      213: -6349682948405797788
+    second: anamnese le_10
+  - first:
+      213: -1431141443102656856
+    second: anamnese le_11
+  - first:
+      213: 6241688717755174001
+    second: anamnese le_12
+  - first:
+      213: 665404391980538504
+    second: anamnese le_13
+  - first:
+      213: 2159200721843150755
+    second: anamnese le_14
+  - first:
+      213: 6411617677940531040
+    second: anamnese le_15
+  - first:
+      213: -1557179183280506405
+    second: anamnese le_16
+  - first:
+      213: -4676676539061673555
+    second: anamnese le_17
+  - first:
+      213: 4442954736473801520
+    second: anamnese le_18
+  - first:
+      213: 2603122700736713324
+    second: anamnese le_19
+  - first:
+      213: 6658417937223294069
+    second: anamnese le_20
+  - first:
+      213: 2711531097386385507
+    second: anamnese le_21
+  - first:
+      213: -4705669679937705842
+    second: anamnese le_22
+  - first:
+      213: 4184032374227951677
+    second: anamnese le_23
+  - first:
+      213: -6267924081851356024
+    second: anamnese le_24
+  - first:
+      213: 6941818400823180322
+    second: anamnese le_25
+  - first:
+      213: -2763258948450872361
+    second: anamnese le_26
+  - first:
+      213: 3707246416719817245
+    second: anamnese le_27
+  - first:
+      213: -2754321659578475387
+    second: anamnese le_28
+  - first:
+      213: -8489207173720437598
+    second: anamnese le_29
+  - first:
+      213: 5155784115718996453
+    second: anamnese le_30
+  - first:
+      213: -97579229853524763
+    second: anamnese le_31
+  - first:
+      213: -1089963033290669070
+    second: anamnese le_32
+  - first:
+      213: -8530096037700672074
+    second: anamnese le_33
+  - first:
+      213: -6387865993487147375
+    second: anamnese le_34
+  - first:
+      213: 4074274139525305068
+    second: anamnese le_35
+  - first:
+      213: 5486904696356672887
+    second: anamnese le_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anamnese le_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d20641d92a43710800000000000000
+      internalID: 1672140157196709123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3b7348b54861a0800000000000000
+      internalID: -6816121378316796872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8325e9b17f1e9df00800000000000000
+      internalID: 1142192431951663672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614e27adc6c7eb50800000000000000
+      internalID: 6622480363647025508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f344264ddc22a8540800000000000000
+      internalID: 5010855802829947967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d36bb9baf741ed0800000000000000
+      internalID: -2444188322726789817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc74e835a9dd7ce0800000000000000
+      internalID: -1405728205022397225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_7
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a616c72bb245310800000000000000
+      internalID: 1392786230355257953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_8
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b6037235c74060800000000000000
+      internalID: 6937730571456393571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7546ea19023773d0800000000000000
+      internalID: -3209041194790795906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_10
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cdaef100561e7a0800000000000000
+      internalID: -6349682948405797788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b684a070932ce0800000000000000
+      internalID: -1431141443102656856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c4c54a1deee9650800000000000000
+      internalID: 6241688717755174001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 11
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1cffd4cdfb3900800000000000000
+      internalID: 665404391980538504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af5a38dd9507fd10800000000000000
+      internalID: 2159200721843150755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f9241de44aaf850800000000000000
+      internalID: 6411617677940531040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bee878c9c36ae0800000000000000
+      internalID: -1557179183280506405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da163df377b191fb0800000000000000
+      internalID: -4676676539061673555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03309a40bcb88ad30800000000000000
+      internalID: 4442954736473801520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62da2ced46202420800000000000000
+      internalID: 2603122700736713324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c984a06d3776c50800000000000000
+      internalID: 6658417937223294069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3600421ba2b41a520800000000000000
+      internalID: 2711531097386385507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_22
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88acf89b5a12beb0800000000000000
+      internalID: -4705669679937705842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d306792c64ba01a30800000000000000
+      internalID: 4184032374227951677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c2226a14cd309a0800000000000000
+      internalID: -6267924081851356024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf5546e0b465060800000000000000
+      internalID: 6941818400823180322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d39a2370aee6a9d0800000000000000
+      internalID: -2763258948450872361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_27
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aac6369f8c27330800000000000000
+      internalID: 3707246416719817245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_28
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c19ab2b0fa6c9d0800000000000000
+      internalID: -2754321659578475387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_29
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac02b1ad07403a80800000000000000
+      internalID: -8489207173720437598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_30
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1480436560d8740800000000000000
+      internalID: 5155784115718996453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_31
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecdf1b153455aef0800000000000000
+      internalID: -97579229853524763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_32
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30766656cafd0f0800000000000000
+      internalID: -1089963033290669070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_33
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b562ec19d20f9980800000000000000
+      internalID: -8530096037700672074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_34
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e966929bdb957a0800000000000000
+      internalID: -6387865993487147375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_35
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce257f35ebaba8830800000000000000
+      internalID: 4074274139525305068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anamnese le_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 11
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77513ce10c6652c40800000000000000
+      internalID: 5486904696356672887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anamnese le_0: 1672140157196709123
+      anamnese le_1: -6816121378316796872
+      anamnese le_10: -6349682948405797788
+      anamnese le_11: -1431141443102656856
+      anamnese le_12: 6241688717755174001
+      anamnese le_13: 665404391980538504
+      anamnese le_14: 2159200721843150755
+      anamnese le_15: 6411617677940531040
+      anamnese le_16: -1557179183280506405
+      anamnese le_17: -4676676539061673555
+      anamnese le_18: 4442954736473801520
+      anamnese le_19: 2603122700736713324
+      anamnese le_2: 1142192431951663672
+      anamnese le_20: 6658417937223294069
+      anamnese le_21: 2711531097386385507
+      anamnese le_22: -4705669679937705842
+      anamnese le_23: 4184032374227951677
+      anamnese le_24: -6267924081851356024
+      anamnese le_25: 6941818400823180322
+      anamnese le_26: -2763258948450872361
+      anamnese le_27: 3707246416719817245
+      anamnese le_28: -2754321659578475387
+      anamnese le_29: -8489207173720437598
+      anamnese le_3: 6622480363647025508
+      anamnese le_30: 5155784115718996453
+      anamnese le_31: -97579229853524763
+      anamnese le_32: -1089963033290669070
+      anamnese le_33: -8530096037700672074
+      anamnese le_34: -6387865993487147375
+      anamnese le_35: 4074274139525305068
+      anamnese le_36: 5486904696356672887
+      anamnese le_4: 5010855802829947967
+      anamnese le_5: -2444188322726789817
+      anamnese le_6: -1405728205022397225
+      anamnese le_7: 1392786230355257953
+      anamnese le_8: 6937730571456393571
+      anamnese le_9: -3209041194790795906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

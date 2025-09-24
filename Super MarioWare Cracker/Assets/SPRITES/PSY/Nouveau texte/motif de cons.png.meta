@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: a5e13fac5af95e24fa6bf712200fc507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -545804184427781106
+    second: motif de cons_0
+  - first:
+      213: -6587902115377989530
+    second: motif de cons_1
+  - first:
+      213: 5209302430599876412
+    second: motif de cons_2
+  - first:
+      213: 1772152624683733949
+    second: motif de cons_3
+  - first:
+      213: -7767764577620384683
+    second: motif de cons_4
+  - first:
+      213: 1333258888404343844
+    second: motif de cons_5
+  - first:
+      213: 6053635589214020482
+    second: motif de cons_6
+  - first:
+      213: -4338382494351824614
+    second: motif de cons_7
+  - first:
+      213: -8339762960554291364
+    second: motif de cons_8
+  - first:
+      213: -3741297087428051086
+    second: motif de cons_9
+  - first:
+      213: -3084803111497341899
+    second: motif de cons_10
+  - first:
+      213: -5239084050347804237
+    second: motif de cons_11
+  - first:
+      213: -6653177019545386984
+    second: motif de cons_12
+  - first:
+      213: -8652246908220268265
+    second: motif de cons_13
+  - first:
+      213: 1646076557645805334
+    second: motif de cons_14
+  - first:
+      213: -5398744607829171376
+    second: motif de cons_15
+  - first:
+      213: -9118282064785286116
+    second: motif de cons_16
+  - first:
+      213: -5909366036337743805
+    second: motif de cons_17
+  - first:
+      213: -1616010817102094302
+    second: motif de cons_18
+  - first:
+      213: -5061577182841973751
+    second: motif de cons_19
+  - first:
+      213: 3911635313375371875
+    second: motif de cons_20
+  - first:
+      213: -4640956333396472062
+    second: motif de cons_21
+  - first:
+      213: 6980127757359398316
+    second: motif de cons_22
+  - first:
+      213: 2983695708747167274
+    second: motif de cons_23
+  - first:
+      213: 5691762767844163540
+    second: motif de cons_24
+  - first:
+      213: 3167519205966844606
+    second: motif de cons_25
+  - first:
+      213: 3888086241099657120
+    second: motif de cons_26
+  - first:
+      213: -6080860175337420592
+    second: motif de cons_27
+  - first:
+      213: -4827719970845586614
+    second: motif de cons_28
+  - first:
+      213: 1699514620541032081
+    second: motif de cons_29
+  - first:
+      213: -2080103262513406504
+    second: motif de cons_30
+  - first:
+      213: -8459183155445878193
+    second: motif de cons_31
+  - first:
+      213: -3011145617654675019
+    second: motif de cons_32
+  - first:
+      213: -7473790175926316822
+    second: motif de cons_33
+  - first:
+      213: -7765349149283852825
+    second: motif de cons_34
+  - first:
+      213: -2073053842391299629
+    second: motif de cons_35
+  - first:
+      213: -3619564317625621584
+    second: motif de cons_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motif de cons_0
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 52
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a24e6cf9ec68f0800000000000000
+      internalID: -545804184427781106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668b9d52ee11394a0800000000000000
+      internalID: -6587902115377989530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f0c77e5f82b4840800000000000000
+      internalID: 5209302430599876412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3dc024c63f79810800000000000000
+      internalID: 1772152624683733949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542314a54b533490800000000000000
+      internalID: -7767764577620384683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c19f425efa08210800000000000000
+      internalID: 1333258888404343844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283a3ceae75d20450800000000000000
+      internalID: 6053635589214020482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e26c6b18fac3c0800000000000000
+      internalID: -4338382494351824614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8339f5c5334c80800000000000000
+      internalID: -8339762960554291364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb5a80f1e341cc0800000000000000
+      internalID: -3741297087428051086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346e210ae39035d0800000000000000
+      internalID: -3084803111497341899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ba9660d80b47b0800000000000000
+      internalID: -5239084050347804237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_12
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810843230ca2ba3a0800000000000000
+      internalID: -6653177019545386984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7112f8e474b0de780800000000000000
+      internalID: -8652246908220268265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_14
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617739b68e908d610800000000000000
+      internalID: 1646076557645805334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0536949026ec315b0800000000000000
+      internalID: -5398744607829171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c58a6d5ca557180800000000000000
+      internalID: -9118282064785286116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a45c26e6bdfda0800000000000000
+      internalID: -5909366036337743805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e07d49b6c299e0800000000000000
+      internalID: -1616010817102094302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9045b7d9e5aa1c9b0800000000000000
+      internalID: -5061577182841973751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ec90c79be84630800000000000000
+      internalID: 3911635313375371875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fcdc9bdc2089fb0800000000000000
+      internalID: -4640956333396472062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad304886356ed060800000000000000
+      internalID: 6980127757359398316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267bb55077386920800000000000000
+      internalID: 2983695708747167274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df3523c4143dfe40800000000000000
+      internalID: 5691762767844163540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb291e28fe945fb20800000000000000
+      internalID: 3167519205966844606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_26
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af24d816d145f530800000000000000
+      internalID: 3888086241099657120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_27
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8813863e17c9ba0800000000000000
+      internalID: -6080860175337420592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_28
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b80bec34e700db0800000000000000
+      internalID: -4827719970845586614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_29
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965eeffa83e59710800000000000000
+      internalID: 1699514620541032081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_30
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd1c58a1df123e0800000000000000
+      internalID: -2080103262513406504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_31
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423ea12db1fa9a80800000000000000
+      internalID: -8459183155445878193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_32
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b908b4b3034636d0800000000000000
+      internalID: -3011145617654675019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_33
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09b1ece63c74890800000000000000
+      internalID: -7473790175926316822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_34
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eddd006710fb3490800000000000000
+      internalID: -7765349149283852825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_35
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9020c83880b33e0800000000000000
+      internalID: -2073053842391299629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de cons_36
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3ee3e2e69b4cdc0800000000000000
+      internalID: -3619564317625621584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motif de cons_0: -545804184427781106
+      motif de cons_1: -6587902115377989530
+      motif de cons_10: -3084803111497341899
+      motif de cons_11: -5239084050347804237
+      motif de cons_12: -6653177019545386984
+      motif de cons_13: -8652246908220268265
+      motif de cons_14: 1646076557645805334
+      motif de cons_15: -5398744607829171376
+      motif de cons_16: -9118282064785286116
+      motif de cons_17: -5909366036337743805
+      motif de cons_18: -1616010817102094302
+      motif de cons_19: -5061577182841973751
+      motif de cons_2: 5209302430599876412
+      motif de cons_20: 3911635313375371875
+      motif de cons_21: -4640956333396472062
+      motif de cons_22: 6980127757359398316
+      motif de cons_23: 2983695708747167274
+      motif de cons_24: 5691762767844163540
+      motif de cons_25: 3167519205966844606
+      motif de cons_26: 3888086241099657120
+      motif de cons_27: -6080860175337420592
+      motif de cons_28: -4827719970845586614
+      motif de cons_29: 1699514620541032081
+      motif de cons_3: 1772152624683733949
+      motif de cons_30: -2080103262513406504
+      motif de cons_31: -8459183155445878193
+      motif de cons_32: -3011145617654675019
+      motif de cons_33: -7473790175926316822
+      motif de cons_34: -7765349149283852825
+      motif de cons_35: -2073053842391299629
+      motif de cons_36: -3619564317625621584
+      motif de cons_4: -7767764577620384683
+      motif de cons_5: 1333258888404343844
+      motif de cons_6: 6053635589214020482
+      motif de cons_7: -4338382494351824614
+      motif de cons_8: -8339762960554291364
+      motif de cons_9: -3741297087428051086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: da5e24d41183a2b458ac165bf5d1661a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8097517594608287589
+    second: "et doit imp\xE9rativement_0"
+  - first:
+      213: 9114380280997058706
+    second: "et doit imp\xE9rativement_1"
+  - first:
+      213: -3854454758230414781
+    second: "et doit imp\xE9rativement_2"
+  - first:
+      213: -3540286957140720396
+    second: "et doit imp\xE9rativement_3"
+  - first:
+      213: 578881426171552715
+    second: "et doit imp\xE9rativement_4"
+  - first:
+      213: 5986873218354874346
+    second: "et doit imp\xE9rativement_5"
+  - first:
+      213: -7111995069424385518
+    second: "et doit imp\xE9rativement_6"
+  - first:
+      213: 6450843967870855264
+    second: "et doit imp\xE9rativement_7"
+  - first:
+      213: -6584382748923831389
+    second: "et doit imp\xE9rativement_8"
+  - first:
+      213: 2378330601227409600
+    second: "et doit imp\xE9rativement_9"
+  - first:
+      213: 5808718047124063710
+    second: "et doit imp\xE9rativement_10"
+  - first:
+      213: 2587473638130785620
+    second: "et doit imp\xE9rativement_11"
+  - first:
+      213: 5399956346591213711
+    second: "et doit imp\xE9rativement_12"
+  - first:
+      213: 7658859995215303557
+    second: "et doit imp\xE9rativement_13"
+  - first:
+      213: -6305780247766260619
+    second: "et doit imp\xE9rativement_14"
+  - first:
+      213: 3855937381328030292
+    second: "et doit imp\xE9rativement_15"
+  - first:
+      213: 3223304811076943054
+    second: "et doit imp\xE9rativement_16"
+  - first:
+      213: 2754640055737914696
+    second: "et doit imp\xE9rativement_17"
+  - first:
+      213: -4974112181952123335
+    second: "et doit imp\xE9rativement_18"
+  - first:
+      213: 774420982689874169
+    second: "et doit imp\xE9rativement_19"
+  - first:
+      213: -1161335291585439320
+    second: "et doit imp\xE9rativement_20"
+  - first:
+      213: 7202526040056160733
+    second: "et doit imp\xE9rativement_21"
+  - first:
+      213: -7386577281166795151
+    second: "et doit imp\xE9rativement_22"
+  - first:
+      213: 6076192444015521432
+    second: "et doit imp\xE9rativement_23"
+  - first:
+      213: -6912211364741035145
+    second: "et doit imp\xE9rativement_24"
+  - first:
+      213: -8129936008447222655
+    second: "et doit imp\xE9rativement_25"
+  - first:
+      213: -3017249777726379671
+    second: "et doit imp\xE9rativement_26"
+  - first:
+      213: -3335663999949722399
+    second: "et doit imp\xE9rativement_27"
+  - first:
+      213: -3973618903554472128
+    second: "et doit imp\xE9rativement_28"
+  - first:
+      213: -2966761842425566538
+    second: "et doit imp\xE9rativement_29"
+  - first:
+      213: 1280082986632520923
+    second: "et doit imp\xE9rativement_30"
+  - first:
+      213: 9098696317603044035
+    second: "et doit imp\xE9rativement_31"
+  - first:
+      213: -3239472348716645342
+    second: "et doit imp\xE9rativement_32"
+  - first:
+      213: -7542234640984196199
+    second: "et doit imp\xE9rativement_33"
+  - first:
+      213: -7612569174736530139
+    second: "et doit imp\xE9rativement_34"
+  - first:
+      213: -4467502285828338773
+    second: "et doit imp\xE9rativement_35"
+  - first:
+      213: -1097284463728684300
+    second: "et doit imp\xE9rativement_36"
+  - first:
+      213: -6839069995665059306
+    second: "et doit imp\xE9rativement_37"
+  - first:
+      213: -8309369643112693914
+    second: "et doit imp\xE9rativement_38"
+  - first:
+      213: -2200636132731189010
+    second: "et doit imp\xE9rativement_39"
+  - first:
+      213: 3310345438918257765
+    second: "et doit imp\xE9rativement_40"
+  - first:
+      213: 3416635587325911092
+    second: "et doit imp\xE9rativement_41"
+  - first:
+      213: 7529647836581426136
+    second: "et doit imp\xE9rativement_42"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_0"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f3a1d8959206070800000000000000
+      internalID: 8097517594608287589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_1"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29897a45398cc7e70800000000000000
+      internalID: 9114380280997058706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_2"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aacd4b1d9328ac0800000000000000
+      internalID: -3854454758230414781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_3"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4cdac05cf5edec0800000000000000
+      internalID: -3540286957140720396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_4"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e60e0799980800800000000000000
+      internalID: 578881426171552715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_5"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78757e875a51350800000000000000
+      internalID: 5986873218354874346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_6"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21241a25a2e1d4d90800000000000000
+      internalID: -7111995069424385518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_7"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e9662960068950800000000000000
+      internalID: 6450843967870855264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_8"
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab5f2186c29f94a0800000000000000
+      internalID: -6584382748923831389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_9"
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d994b417810120800000000000000
+      internalID: 2378330601227409600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_10"
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50b37b946bc9050800000000000000
+      internalID: 5808718047124063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_11"
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d197a909d88e320800000000000000
+      internalID: 2587473638130785620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_12"
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887f21efaf70fa40800000000000000
+      internalID: 5399956346591213711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_13"
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5831247569cb94a60800000000000000
+      internalID: 7658859995215303557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_14"
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a73c264e5d78a0800000000000000
+      internalID: -6305780247766260619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_15"
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a05326e9a038530800000000000000
+      internalID: 3855937381328030292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_16"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7c0bd5aa7bbc20800000000000000
+      internalID: 3223304811076943054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845125639827a3620800000000000000
+      internalID: 2754640055737914696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_18"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eecc1135768fab0800000000000000
+      internalID: -4974112181952123335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_19"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c6dbd7cb4fba00800000000000000
+      internalID: 774420982689874169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_20"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9dcef84bb12efe0800000000000000
+      internalID: -1161335291585439320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_21"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd16c07d54384f360800000000000000
+      internalID: 7202526040056160733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_22"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e151a391b9d7990800000000000000
+      internalID: -7386577281166795151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_23"
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e2574b5d8f25450800000000000000
+      internalID: 6076192444015521432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_24"
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4130e264e210a0800000000000000
+      internalID: -6912211364741035145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_25"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c98d9464aac2f80800000000000000
+      internalID: -8129936008447222655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_26"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9692eff20539026d0800000000000000
+      internalID: -3017249777726379671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_27"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec20f0e34755b1d0800000000000000
+      internalID: -3335663999949722399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_28"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047cbdc09aedad8c0800000000000000
+      internalID: -3973618903554472128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_29"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba6a09a2d1f3d6d0800000000000000
+      internalID: -2966761842425566538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_30"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a045b1b4c3c110800000000000000
+      internalID: 1280082986632520923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_31"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca52e90810154e70800000000000000
+      internalID: 9098696317603044035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_32"
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2244b03ff051b03d0800000000000000
+      internalID: -3239472348716645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_33"
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bbd73fd89945790800000000000000
+      internalID: -7542234640984196199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_34"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259dbf2ba8ba5690800000000000000
+      internalID: -7612569174736530139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_35"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babc4f3475e3002c0800000000000000
+      internalID: -4467502285828338773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_36"
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f295e90899a5c0f0800000000000000
+      internalID: -1097284463728684300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_37"
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121a5ae21eb611a0800000000000000
+      internalID: -6839069995665059306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_38"
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f7ad2a5503fac80800000000000000
+      internalID: -8309369643112693914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_39"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee80ba4c815c571e0800000000000000
+      internalID: -2200636132731189010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_40"
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cae8243a5b0fd20800000000000000
+      internalID: 3310345438918257765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_41"
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e48de6f35a6f20800000000000000
+      internalID: 3416635587325911092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "et doit imp\xE9rativement_42"
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3793740deae7860800000000000000
+      internalID: 7529647836581426136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "et doit imp\xE9rativement_0": 8097517594608287589
+      "et doit imp\xE9rativement_1": 9114380280997058706
+      "et doit imp\xE9rativement_10": 5808718047124063710
+      "et doit imp\xE9rativement_11": 2587473638130785620
+      "et doit imp\xE9rativement_12": 5399956346591213711
+      "et doit imp\xE9rativement_13": 7658859995215303557
+      "et doit imp\xE9rativement_14": -6305780247766260619
+      "et doit imp\xE9rativement_15": 3855937381328030292
+      "et doit imp\xE9rativement_16": 3223304811076943054
+      "et doit imp\xE9rativement_17": 2754640055737914696
+      "et doit imp\xE9rativement_18": -4974112181952123335
+      "et doit imp\xE9rativement_19": 774420982689874169
+      "et doit imp\xE9rativement_2": -3854454758230414781
+      "et doit imp\xE9rativement_20": -1161335291585439320
+      "et doit imp\xE9rativement_21": 7202526040056160733
+      "et doit imp\xE9rativement_22": -7386577281166795151
+      "et doit imp\xE9rativement_23": 6076192444015521432
+      "et doit imp\xE9rativement_24": -6912211364741035145
+      "et doit imp\xE9rativement_25": -8129936008447222655
+      "et doit imp\xE9rativement_26": -3017249777726379671
+      "et doit imp\xE9rativement_27": -3335663999949722399
+      "et doit imp\xE9rativement_28": -3973618903554472128
+      "et doit imp\xE9rativement_29": -2966761842425566538
+      "et doit imp\xE9rativement_3": -3540286957140720396
+      "et doit imp\xE9rativement_30": 1280082986632520923
+      "et doit imp\xE9rativement_31": 9098696317603044035
+      "et doit imp\xE9rativement_32": -3239472348716645342
+      "et doit imp\xE9rativement_33": -7542234640984196199
+      "et doit imp\xE9rativement_34": -7612569174736530139
+      "et doit imp\xE9rativement_35": -4467502285828338773
+      "et doit imp\xE9rativement_36": -1097284463728684300
+      "et doit imp\xE9rativement_37": -6839069995665059306
+      "et doit imp\xE9rativement_38": -8309369643112693914
+      "et doit imp\xE9rativement_39": -2200636132731189010
+      "et doit imp\xE9rativement_4": 578881426171552715
+      "et doit imp\xE9rativement_40": 3310345438918257765
+      "et doit imp\xE9rativement_41": 3416635587325911092
+      "et doit imp\xE9rativement_42": 7529647836581426136
+      "et doit imp\xE9rativement_5": 5986873218354874346
+      "et doit imp\xE9rativement_6": -7111995069424385518
+      "et doit imp\xE9rativement_7": 6450843967870855264
+      "et doit imp\xE9rativement_8": -6584382748923831389
+      "et doit imp\xE9rativement_9": 2378330601227409600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

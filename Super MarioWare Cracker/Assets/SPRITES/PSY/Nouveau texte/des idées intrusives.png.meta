@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 86884aba189aab14aaab3e54464a6385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7985566773234884343
+    second: "des id\xE9es intrusives_0"
+  - first:
+      213: -256174615888847799
+    second: "des id\xE9es intrusives_1"
+  - first:
+      213: 2066379472185393437
+    second: "des id\xE9es intrusives_2"
+  - first:
+      213: 1939533808399395154
+    second: "des id\xE9es intrusives_3"
+  - first:
+      213: -5272789834348932874
+    second: "des id\xE9es intrusives_4"
+  - first:
+      213: 6705029021059677902
+    second: "des id\xE9es intrusives_5"
+  - first:
+      213: 3425784116606414834
+    second: "des id\xE9es intrusives_6"
+  - first:
+      213: 9210473562352383433
+    second: "des id\xE9es intrusives_7"
+  - first:
+      213: -3136989890793278930
+    second: "des id\xE9es intrusives_8"
+  - first:
+      213: -5828780842840627262
+    second: "des id\xE9es intrusives_9"
+  - first:
+      213: 3729411846282621160
+    second: "des id\xE9es intrusives_10"
+  - first:
+      213: -1856326232409300263
+    second: "des id\xE9es intrusives_11"
+  - first:
+      213: 5789485706300061598
+    second: "des id\xE9es intrusives_12"
+  - first:
+      213: 767748004000268569
+    second: "des id\xE9es intrusives_13"
+  - first:
+      213: 653863891157702543
+    second: "des id\xE9es intrusives_14"
+  - first:
+      213: 240496205783181167
+    second: "des id\xE9es intrusives_15"
+  - first:
+      213: -4067245858587366508
+    second: "des id\xE9es intrusives_16"
+  - first:
+      213: 1843399472686219019
+    second: "des id\xE9es intrusives_17"
+  - first:
+      213: -2888344506599060899
+    second: "des id\xE9es intrusives_18"
+  - first:
+      213: -2230347089309214604
+    second: "des id\xE9es intrusives_19"
+  - first:
+      213: 8464730555691217426
+    second: "des id\xE9es intrusives_20"
+  - first:
+      213: 8556680219887077459
+    second: "des id\xE9es intrusives_21"
+  - first:
+      213: 1370273837925351000
+    second: "des id\xE9es intrusives_22"
+  - first:
+      213: -4118977178186165575
+    second: "des id\xE9es intrusives_23"
+  - first:
+      213: 4283460918143197492
+    second: "des id\xE9es intrusives_24"
+  - first:
+      213: 7342328636915081049
+    second: "des id\xE9es intrusives_25"
+  - first:
+      213: 3170445769716489075
+    second: "des id\xE9es intrusives_26"
+  - first:
+      213: 1566153069115689323
+    second: "des id\xE9es intrusives_27"
+  - first:
+      213: -1288514510608199062
+    second: "des id\xE9es intrusives_28"
+  - first:
+      213: -6214096227663008568
+    second: "des id\xE9es intrusives_29"
+  - first:
+      213: 7865273118980833711
+    second: "des id\xE9es intrusives_30"
+  - first:
+      213: 3600192111486430301
+    second: "des id\xE9es intrusives_31"
+  - first:
+      213: 5230764160128934690
+    second: "des id\xE9es intrusives_32"
+  - first:
+      213: -4899186053601538639
+    second: "des id\xE9es intrusives_33"
+  - first:
+      213: 6471371981122956470
+    second: "des id\xE9es intrusives_34"
+  - first:
+      213: -8450365591307222771
+    second: "des id\xE9es intrusives_35"
+  - first:
+      213: -7528511588529334671
+    second: "des id\xE9es intrusives_36"
+  - first:
+      213: 6454586538984888882
+    second: "des id\xE9es intrusives_37"
+  - first:
+      213: -5578847637763610863
+    second: "des id\xE9es intrusives_38"
+  - first:
+      213: 8014373886454634837
+    second: "des id\xE9es intrusives_39"
+  - first:
+      213: -2303057756439734483
+    second: "des id\xE9es intrusives_40"
+  - first:
+      213: -6136964123320000944
+    second: "des id\xE9es intrusives_41"
+  - first:
+      213: -6587636246602075808
+    second: "des id\xE9es intrusives_42"
+  - first:
+      213: -592995888524438488
+    second: "des id\xE9es intrusives_43"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed3d0cbae62de60800000000000000
+      internalID: 7985566773234884343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_1"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c197b4b82e17cf0800000000000000
+      internalID: -256174615888847799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_2"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1105ca8e214dac10800000000000000
+      internalID: 2066379472185393437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_3"
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a18ff8bb9aea10800000000000000
+      internalID: 1939533808399395154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_4"
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f05754059943d6b0800000000000000
+      internalID: -5272789834348932874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_5"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece72f0be5c0d0d50800000000000000
+      internalID: 6705029021059677902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_6"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff2083e084da8f20800000000000000
+      internalID: 3425784116606414834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_7"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f321e7ec22df70800000000000000
+      internalID: 9210473562352383433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_8"
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e227647905c2774d0800000000000000
+      internalID: -3136989890793278930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_9"
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7e1e4a4b20c1fa0800000000000000
+      internalID: -5828780842840627262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_10"
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03fce905881c330800000000000000
+      internalID: 3729411846282621160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_11"
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2210a70210d36e0800000000000000
+      internalID: -1856326232409300263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_12"
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97773c6392685050800000000000000
+      internalID: 5789485706300061598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_13"
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911837fedb697aa00800000000000000
+      internalID: 767748004000268569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_14"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87d8e3aebdf21900800000000000000
+      internalID: 653863891157702543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_15"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f672983660a665300800000000000000
+      internalID: 240496205783181167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_16"
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba8b8d07d3e87c0800000000000000
+      internalID: -4067245858587366508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_17"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fba9cbd02159910800000000000000
+      internalID: 1843399472686219019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_18"
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a463f69f98ae7d0800000000000000
+      internalID: -2888344506599060899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_19"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478d5ef93273c01e0800000000000000
+      internalID: -2230347089309214604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_20"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212be53a793c87570800000000000000
+      internalID: 8464730555691217426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_21"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580bf2235f6fb670800000000000000
+      internalID: 8556680219887077459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_22"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e3d8aabc0340310800000000000000
+      internalID: 1370273837925351000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_23"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d548641476d6c0800000000000000
+      internalID: -4118977178186165575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_24"
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a133a209e17b30800000000000000
+      internalID: 4283460918143197492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_25"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f50837ef035e560800000000000000
+      internalID: 7342328636915081049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_26"
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b579b31afaffb20800000000000000
+      internalID: 3170445769716489075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_27"
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6947842be71cb510800000000000000
+      internalID: 1566153069115689323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_28"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62134321e64e1ee0800000000000000
+      internalID: -1288514510608199062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_29"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc2d06976813c9a0800000000000000
+      internalID: -6214096227663008568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_30"
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1084eca30172d60800000000000000
+      internalID: 7865273118980833711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_31"
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cef4896a376f130800000000000000
+      internalID: 3600192111486430301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_32"
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22364543a48679840800000000000000
+      internalID: 5230764160128934690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_33"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd4882cd38920cb0800000000000000
+      internalID: -4899186053601538639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_34"
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcef30b78eeec950800000000000000
+      internalID: 6471371981122956470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_35"
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0103f344454aba80800000000000000
+      internalID: -8450365591307222771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_36"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761c46199a558790800000000000000
+      internalID: -7528511588529334671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_37"
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a5634624c439950800000000000000
+      internalID: 6454586538984888882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_38"
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a217a1a3f392b0800000000000000
+      internalID: -5578847637763610863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_39"
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599b477696c83f60800000000000000
+      internalID: 8014373886454634837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_40"
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2793323c25e900e0800000000000000
+      internalID: -2303057756439734483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_41"
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ed13615af15daa0800000000000000
+      internalID: -6136964123320000944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_42"
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061bbcb8cb30494a0800000000000000
+      internalID: -6587636246602075808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "des id\xE9es intrusives_43"
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824db37916145c7f0800000000000000
+      internalID: -592995888524438488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "des id\xE9es intrusives_0": 7985566773234884343
+      "des id\xE9es intrusives_1": -256174615888847799
+      "des id\xE9es intrusives_10": 3729411846282621160
+      "des id\xE9es intrusives_11": -1856326232409300263
+      "des id\xE9es intrusives_12": 5789485706300061598
+      "des id\xE9es intrusives_13": 767748004000268569
+      "des id\xE9es intrusives_14": 653863891157702543
+      "des id\xE9es intrusives_15": 240496205783181167
+      "des id\xE9es intrusives_16": -4067245858587366508
+      "des id\xE9es intrusives_17": 1843399472686219019
+      "des id\xE9es intrusives_18": -2888344506599060899
+      "des id\xE9es intrusives_19": -2230347089309214604
+      "des id\xE9es intrusives_2": 2066379472185393437
+      "des id\xE9es intrusives_20": 8464730555691217426
+      "des id\xE9es intrusives_21": 8556680219887077459
+      "des id\xE9es intrusives_22": 1370273837925351000
+      "des id\xE9es intrusives_23": -4118977178186165575
+      "des id\xE9es intrusives_24": 4283460918143197492
+      "des id\xE9es intrusives_25": 7342328636915081049
+      "des id\xE9es intrusives_26": 3170445769716489075
+      "des id\xE9es intrusives_27": 1566153069115689323
+      "des id\xE9es intrusives_28": -1288514510608199062
+      "des id\xE9es intrusives_29": -6214096227663008568
+      "des id\xE9es intrusives_3": 1939533808399395154
+      "des id\xE9es intrusives_30": 7865273118980833711
+      "des id\xE9es intrusives_31": 3600192111486430301
+      "des id\xE9es intrusives_32": 5230764160128934690
+      "des id\xE9es intrusives_33": -4899186053601538639
+      "des id\xE9es intrusives_34": 6471371981122956470
+      "des id\xE9es intrusives_35": -8450365591307222771
+      "des id\xE9es intrusives_36": -7528511588529334671
+      "des id\xE9es intrusives_37": 6454586538984888882
+      "des id\xE9es intrusives_38": -5578847637763610863
+      "des id\xE9es intrusives_39": 8014373886454634837
+      "des id\xE9es intrusives_4": -5272789834348932874
+      "des id\xE9es intrusives_40": -2303057756439734483
+      "des id\xE9es intrusives_41": -6136964123320000944
+      "des id\xE9es intrusives_42": -6587636246602075808
+      "des id\xE9es intrusives_43": -592995888524438488
+      "des id\xE9es intrusives_5": 6705029021059677902
+      "des id\xE9es intrusives_6": 3425784116606414834
+      "des id\xE9es intrusives_7": 9210473562352383433
+      "des id\xE9es intrusives_8": -3136989890793278930
+      "des id\xE9es intrusives_9": -5828780842840627262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

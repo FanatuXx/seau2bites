@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: c7b6534d2181095469bc9698143e4f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5734508461319822027
+    second: au niveau somatique_0
+  - first:
+      213: -3738142559381638661
+    second: au niveau somatique_1
+  - first:
+      213: 8659888178228138368
+    second: au niveau somatique_2
+  - first:
+      213: -4504117778484436148
+    second: au niveau somatique_3
+  - first:
+      213: 6574862704027585370
+    second: au niveau somatique_4
+  - first:
+      213: -186696659376168008
+    second: au niveau somatique_5
+  - first:
+      213: 6112363358926851224
+    second: au niveau somatique_6
+  - first:
+      213: 1792707309744325090
+    second: au niveau somatique_7
+  - first:
+      213: -4083183079365630711
+    second: au niveau somatique_8
+  - first:
+      213: 8712368979918185007
+    second: au niveau somatique_9
+  - first:
+      213: -7081833747268526831
+    second: au niveau somatique_10
+  - first:
+      213: -3332678081872105159
+    second: au niveau somatique_11
+  - first:
+      213: -5649347907868607191
+    second: au niveau somatique_12
+  - first:
+      213: -2054810478750882698
+    second: au niveau somatique_13
+  - first:
+      213: -3707889131873358509
+    second: au niveau somatique_14
+  - first:
+      213: -3457587201656328157
+    second: au niveau somatique_15
+  - first:
+      213: -6773664473040573104
+    second: au niveau somatique_16
+  - first:
+      213: 2252975383741528577
+    second: au niveau somatique_17
+  - first:
+      213: 4404696199189847910
+    second: au niveau somatique_18
+  - first:
+      213: -1832060726207817772
+    second: au niveau somatique_19
+  - first:
+      213: 2753766906929682821
+    second: au niveau somatique_20
+  - first:
+      213: 7694455383577455776
+    second: au niveau somatique_21
+  - first:
+      213: -5813675134365924009
+    second: au niveau somatique_22
+  - first:
+      213: -5721010288161415233
+    second: au niveau somatique_23
+  - first:
+      213: 6805113112650096104
+    second: au niveau somatique_24
+  - first:
+      213: 2033154112455232567
+    second: au niveau somatique_25
+  - first:
+      213: -7961112838322917196
+    second: au niveau somatique_26
+  - first:
+      213: -8118848533773665066
+    second: au niveau somatique_27
+  - first:
+      213: 1533676031135531275
+    second: au niveau somatique_28
+  - first:
+      213: 8865238427713852495
+    second: au niveau somatique_29
+  - first:
+      213: -2746597720060083707
+    second: au niveau somatique_30
+  - first:
+      213: 4573719216750424102
+    second: au niveau somatique_31
+  - first:
+      213: 8346255956885289225
+    second: au niveau somatique_32
+  - first:
+      213: 7258917240574092988
+    second: au niveau somatique_33
+  - first:
+      213: 1657598085922585753
+    second: au niveau somatique_34
+  - first:
+      213: -5718224841197734489
+    second: au niveau somatique_35
+  - first:
+      213: 222403828301802120
+    second: au niveau somatique_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: au niveau somatique_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356f89efeeea60b0800000000000000
+      internalID: -5734508461319822027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1b944d5237f1cc0800000000000000
+      internalID: -3738142559381638661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08194e18a6a1e2870800000000000000
+      internalID: 8659888178228138368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e9ea8eb82e71c0800000000000000
+      internalID: -4504117778484436148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b47805bca9e3b50800000000000000
+      internalID: 6574862704027585370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_5
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3a121a068b86df0800000000000000
+      internalID: -186696659376168008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_6
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc2fa171a73d450800000000000000
+      internalID: 6112363358926851224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_7
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18e8fccc9f0e810800000000000000
+      internalID: 1792707309744325090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_8
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905a6897f9e9557c0800000000000000
+      internalID: -4083183079365630711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_9
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e7285d6d88e870800000000000000
+      internalID: 8712368979918185007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_10
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 41
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9faf5ab548bd90800000000000000
+      internalID: -7081833747268526831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931784b11f2ffb1d0800000000000000
+      internalID: -3332678081872105159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d35e2620c7991b0800000000000000
+      internalID: -5649347907868607191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674ad45a1c8db73e0800000000000000
+      internalID: -2054810478750882698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2824da7eea8cc0800000000000000
+      internalID: -3707889131873358509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320765952ce2400d0800000000000000
+      internalID: -3457587201656328157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dabb8dc0c1ff1a0800000000000000
+      internalID: -6773664473040573104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10afc9bbc2d244f10800000000000000
+      internalID: 2252975383741528577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f59382bdf902d30800000000000000
+      internalID: 4404696199189847910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d75077e9763396e0800000000000000
+      internalID: -1832060726207817772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58915c96968573620800000000000000
+      internalID: 2753766906929682821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ace936876238ca60800000000000000
+      internalID: 7694455383577455776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550998744da15fa0800000000000000
+      internalID: -5813675134365924009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf98c14473ea90b0800000000000000
+      internalID: -5721010288161415233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9cd7225e907e50800000000000000
+      internalID: 6805113112650096104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc486a4e6373c10800000000000000
+      internalID: 2033154112455232567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_26
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0f5f6ad02748190800000000000000
+      internalID: -7961112838322917196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_27
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3837264e045f80800000000000000
+      internalID: -8118848533773665066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_28
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b014d5c7936b84510800000000000000
+      internalID: 1533676031135531275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_29
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44d6054167a70b70800000000000000
+      internalID: 8865238427713852495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_30
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502cbeafcef12e9d0800000000000000
+      internalID: -2746597720060083707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_31
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62079c0256d197f30800000000000000
+      internalID: 4573719216750424102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_32
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b2aa829bd3d370800000000000000
+      internalID: 8346255956885289225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_33
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a06a55cadcb460800000000000000
+      internalID: 7258917240574092988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_34
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c78c34da8f00710800000000000000
+      internalID: 1657598085922585753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_35
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5389aadc8c4a0b0800000000000000
+      internalID: -5718224841197734489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: au niveau somatique_36
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aad9e7a13261300800000000000000
+      internalID: 222403828301802120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      au niveau somatique_0: -5734508461319822027
+      au niveau somatique_1: -3738142559381638661
+      au niveau somatique_10: -7081833747268526831
+      au niveau somatique_11: -3332678081872105159
+      au niveau somatique_12: -5649347907868607191
+      au niveau somatique_13: -2054810478750882698
+      au niveau somatique_14: -3707889131873358509
+      au niveau somatique_15: -3457587201656328157
+      au niveau somatique_16: -6773664473040573104
+      au niveau somatique_17: 2252975383741528577
+      au niveau somatique_18: 4404696199189847910
+      au niveau somatique_19: -1832060726207817772
+      au niveau somatique_2: 8659888178228138368
+      au niveau somatique_20: 2753766906929682821
+      au niveau somatique_21: 7694455383577455776
+      au niveau somatique_22: -5813675134365924009
+      au niveau somatique_23: -5721010288161415233
+      au niveau somatique_24: 6805113112650096104
+      au niveau somatique_25: 2033154112455232567
+      au niveau somatique_26: -7961112838322917196
+      au niveau somatique_27: -8118848533773665066
+      au niveau somatique_28: 1533676031135531275
+      au niveau somatique_29: 8865238427713852495
+      au niveau somatique_3: -4504117778484436148
+      au niveau somatique_30: -2746597720060083707
+      au niveau somatique_31: 4573719216750424102
+      au niveau somatique_32: 8346255956885289225
+      au niveau somatique_33: 7258917240574092988
+      au niveau somatique_34: 1657598085922585753
+      au niveau somatique_35: -5718224841197734489
+      au niveau somatique_36: 222403828301802120
+      au niveau somatique_4: 6574862704027585370
+      au niveau somatique_5: -186696659376168008
+      au niveau somatique_6: 6112363358926851224
+      au niveau somatique_7: 1792707309744325090
+      au niveau somatique_8: -4083183079365630711
+      au niveau somatique_9: 8712368979918185007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

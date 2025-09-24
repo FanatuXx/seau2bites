@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 058949250f32f3348b72816a34938dd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 237539182705432254
+    second: si ce n'est l'absence_0
+  - first:
+      213: 4448547819084676017
+    second: si ce n'est l'absence_1
+  - first:
+      213: 1055244813646141308
+    second: si ce n'est l'absence_2
+  - first:
+      213: 7761979614457473341
+    second: si ce n'est l'absence_3
+  - first:
+      213: 8437720043978811623
+    second: si ce n'est l'absence_4
+  - first:
+      213: 5136642321508874152
+    second: si ce n'est l'absence_5
+  - first:
+      213: 5495493593813823393
+    second: si ce n'est l'absence_6
+  - first:
+      213: -8583160438411631096
+    second: si ce n'est l'absence_7
+  - first:
+      213: 1928478624390561934
+    second: si ce n'est l'absence_8
+  - first:
+      213: -672472244311055769
+    second: si ce n'est l'absence_9
+  - first:
+      213: -854161942834149302
+    second: si ce n'est l'absence_10
+  - first:
+      213: -329728461567407163
+    second: si ce n'est l'absence_11
+  - first:
+      213: -4285900892962163181
+    second: si ce n'est l'absence_12
+  - first:
+      213: 1012519002475476830
+    second: si ce n'est l'absence_13
+  - first:
+      213: -2002337823222011137
+    second: si ce n'est l'absence_14
+  - first:
+      213: 8675415450548544711
+    second: si ce n'est l'absence_15
+  - first:
+      213: -637190582277138978
+    second: si ce n'est l'absence_16
+  - first:
+      213: 5216784820929807572
+    second: si ce n'est l'absence_17
+  - first:
+      213: 4486346284157423308
+    second: si ce n'est l'absence_18
+  - first:
+      213: 3474871181635711087
+    second: si ce n'est l'absence_19
+  - first:
+      213: 1366384050077608067
+    second: si ce n'est l'absence_20
+  - first:
+      213: -2437348186929271608
+    second: si ce n'est l'absence_21
+  - first:
+      213: -7496748678200289044
+    second: si ce n'est l'absence_22
+  - first:
+      213: 3953897547012811849
+    second: si ce n'est l'absence_23
+  - first:
+      213: 1705307128694117256
+    second: si ce n'est l'absence_24
+  - first:
+      213: 7177180236614936114
+    second: si ce n'est l'absence_25
+  - first:
+      213: 101595532416623564
+    second: si ce n'est l'absence_26
+  - first:
+      213: -5569359614381306480
+    second: si ce n'est l'absence_27
+  - first:
+      213: -428426432012257052
+    second: si ce n'est l'absence_28
+  - first:
+      213: -7261622521229146132
+    second: si ce n'est l'absence_29
+  - first:
+      213: -6471855652472539645
+    second: si ce n'est l'absence_30
+  - first:
+      213: -4496855975069058571
+    second: si ce n'est l'absence_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: si ce n'est l'absence_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d46dc0a8eb4300800000000000000
+      internalID: 237539182705432254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 32
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb71ea0caa6cbd30800000000000000
+      internalID: 4448547819084676017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77937c219bf4ae00800000000000000
+      internalID: 1055244813646141308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 4
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39af89a55718bb60800000000000000
+      internalID: 7761979614457473341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 32
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ec8fccadc81570800000000000000
+      internalID: 8437720043978811623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a736cfe9f4094740800000000000000
+      internalID: 5136642321508874152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af25b4ae4ae34c40800000000000000
+      internalID: 5495493593813823393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806e94a8e0d72e880800000000000000
+      internalID: -8583160438411631096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_8
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 4
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80cbb3671553ca10800000000000000
+      internalID: 1928478624390561934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_9
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 4
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762a7848e06eaa6f0800000000000000
+      internalID: -672472244311055769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_10
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 4
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4886b01d386524f0800000000000000
+      internalID: -854161942834149302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb40ff06b19c6bf0800000000000000
+      internalID: -329728461567407163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316f57478db6584c0800000000000000
+      internalID: -4285900892962163181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5732ee0ba03d0e00800000000000000
+      internalID: 1012519002475476830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffae58ecb544634e0800000000000000
+      internalID: -2002337823222011137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a1e05364456870800000000000000
+      internalID: 8675415450548544711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed595299a8e3827f0800000000000000
+      internalID: -637190582277138978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4cb29a72eb56840800000000000000
+      internalID: 5216784820929807572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec89efc24b24e30800000000000000
+      internalID: 4486346284157423308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6073a5dde8393030800000000000000
+      internalID: 3474871181635711087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a2abdd0f56f210800000000000000
+      internalID: 1366384050077608067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6324dcbccc2ed0800000000000000
+      internalID: -2437348186929271608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_22
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce81e71fbc236f790800000000000000
+      internalID: -7496748678200289044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cacffced01fd630800000000000000
+      internalID: 3953897547012811849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_24
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88311c66cc77aa710800000000000000
+      internalID: 1705307128694117256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_25
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236236c16677a9360800000000000000
+      internalID: 7177180236614936114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_26
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a5743990f86100800000000000000
+      internalID: 101595532416623564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_27
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d456e30f8a5b2b0800000000000000
+      internalID: -5569359614381306480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_28
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e875831e6ced0af0800000000000000
+      internalID: -428426432012257052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_29
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce709296ac8893b90800000000000000
+      internalID: -7261622521229146132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_30
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 4
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30635ccc2995f26a0800000000000000
+      internalID: -6471855652472539645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: si ce n'est l'absence_31
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 4
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97ae7e055f791c0800000000000000
+      internalID: -4496855975069058571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      si ce n'est l'absence_0: 237539182705432254
+      si ce n'est l'absence_1: 4448547819084676017
+      si ce n'est l'absence_10: -854161942834149302
+      si ce n'est l'absence_11: -329728461567407163
+      si ce n'est l'absence_12: -4285900892962163181
+      si ce n'est l'absence_13: 1012519002475476830
+      si ce n'est l'absence_14: -2002337823222011137
+      si ce n'est l'absence_15: 8675415450548544711
+      si ce n'est l'absence_16: -637190582277138978
+      si ce n'est l'absence_17: 5216784820929807572
+      si ce n'est l'absence_18: 4486346284157423308
+      si ce n'est l'absence_19: 3474871181635711087
+      si ce n'est l'absence_2: 1055244813646141308
+      si ce n'est l'absence_20: 1366384050077608067
+      si ce n'est l'absence_21: -2437348186929271608
+      si ce n'est l'absence_22: -7496748678200289044
+      si ce n'est l'absence_23: 3953897547012811849
+      si ce n'est l'absence_24: 1705307128694117256
+      si ce n'est l'absence_25: 7177180236614936114
+      si ce n'est l'absence_26: 101595532416623564
+      si ce n'est l'absence_27: -5569359614381306480
+      si ce n'est l'absence_28: -428426432012257052
+      si ce n'est l'absence_29: -7261622521229146132
+      si ce n'est l'absence_3: 7761979614457473341
+      si ce n'est l'absence_30: -6471855652472539645
+      si ce n'est l'absence_31: -4496855975069058571
+      si ce n'est l'absence_4: 8437720043978811623
+      si ce n'est l'absence_5: 5136642321508874152
+      si ce n'est l'absence_6: 5495493593813823393
+      si ce n'est l'absence_7: -8583160438411631096
+      si ce n'est l'absence_8: 1928478624390561934
+      si ce n'est l'absence_9: -672472244311055769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

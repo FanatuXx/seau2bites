@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 07b10a979a8a32d47865ddb2630b223d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -200940872220400780
+    second: concernant les_0
+  - first:
+      213: 1037847064917175864
+    second: concernant les_1
+  - first:
+      213: -493038792842105201
+    second: concernant les_2
+  - first:
+      213: 7209858929771860595
+    second: concernant les_3
+  - first:
+      213: 4577734438610668225
+    second: concernant les_4
+  - first:
+      213: 7571908634825810168
+    second: concernant les_5
+  - first:
+      213: 3257855447051640722
+    second: concernant les_6
+  - first:
+      213: -8083712353660532729
+    second: concernant les_7
+  - first:
+      213: -7423429399749175214
+    second: concernant les_8
+  - first:
+      213: -1621641072093185167
+    second: concernant les_9
+  - first:
+      213: -1263894956121057427
+    second: concernant les_10
+  - first:
+      213: 4205543478708349173
+    second: concernant les_11
+  - first:
+      213: -8873323910680580949
+    second: concernant les_12
+  - first:
+      213: -754776929234917766
+    second: concernant les_13
+  - first:
+      213: -5609169787709810040
+    second: concernant les_14
+  - first:
+      213: 1828250099802547831
+    second: concernant les_15
+  - first:
+      213: -1077376797236455918
+    second: concernant les_16
+  - first:
+      213: 7697914678769261211
+    second: concernant les_17
+  - first:
+      213: 4134874646578182778
+    second: concernant les_18
+  - first:
+      213: 5929548088706556705
+    second: concernant les_19
+  - first:
+      213: 451206883873684760
+    second: concernant les_20
+  - first:
+      213: 3260693722241302512
+    second: concernant les_21
+  - first:
+      213: -3182144449723733250
+    second: concernant les_22
+  - first:
+      213: 3506602652755135996
+    second: concernant les_23
+  - first:
+      213: -211320821298453924
+    second: concernant les_24
+  - first:
+      213: -556184879738142008
+    second: concernant les_25
+  - first:
+      213: -7464341985777536346
+    second: concernant les_26
+  - first:
+      213: 1010745705588612195
+    second: concernant les_27
+  - first:
+      213: -6989497112302675097
+    second: concernant les_28
+  - first:
+      213: 6992135040344069631
+    second: concernant les_29
+  - first:
+      213: 1863021191859880223
+    second: concernant les_30
+  - first:
+      213: -8025259830948708868
+    second: concernant les_31
+  - first:
+      213: -5593724343000663186
+    second: concernant les_32
+  - first:
+      213: 7066459075777524608
+    second: concernant les_33
+  - first:
+      213: 395652219573273893
+    second: concernant les_34
+  - first:
+      213: 5221031403120404398
+    second: concernant les_35
+  - first:
+      213: 3565719223050172596
+    second: concernant les_36
+  - first:
+      213: -230390583568172868
+    second: concernant les_37
+  - first:
+      213: -6519920268025694598
+    second: concernant les_38
+  - first:
+      213: 2194688381107631833
+    second: concernant les_39
+  - first:
+      213: 7397716968162446616
+    second: concernant les_40
+  - first:
+      213: 7440161051546877313
+    second: concernant les_41
+  - first:
+      213: -2643393328093580333
+    second: concernant les_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: concernant les_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4732272675d163df0800000000000000
+      internalID: -200940872220400780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee193286c276e00800000000000000
+      internalID: 1037847064917175864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea82484df5829f0800000000000000
+      internalID: -493038792842105201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_3
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372dab54f709e0460800000000000000
+      internalID: 7209858929771860595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_4
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0671d731678f30800000000000000
+      internalID: 4577734438610668225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_5
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0618229c2d41960800000000000000
+      internalID: 7571908634825810168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_6
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f951ba44a363d20800000000000000
+      internalID: 3257855447051640722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_7
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70880a59172e0df80800000000000000
+      internalID: -8083712353660532729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_8
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25852ccba4eaaf890800000000000000
+      internalID: -7423429399749175214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_9
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb3b86906ce79e0800000000000000
+      internalID: -1621641072093185167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_10
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d671ffadb3eb57ee0800000000000000
+      internalID: -1263894956121057427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_11
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f82fdf03871d5a30800000000000000
+      internalID: 4205543478708349173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac67e68aee9bd480800000000000000
+      internalID: -8873323910680580949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ea40c16e7685f0800000000000000
+      internalID: -754776929234917766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a14b6fbc93822b0800000000000000
+      internalID: -5609169787709810040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ad4f77cf3f5910800000000000000
+      internalID: 1828250099802547831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2161977d2836c01f0800000000000000
+      internalID: -1077376797236455918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9e437d9c74da60800000000000000
+      internalID: 7697914678769261211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abf046596026930800000000000000
+      internalID: 4134874646578182778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12363f1129cf94250800000000000000
+      internalID: 5929548088706556705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d70813542034600800000000000000
+      internalID: 451206883873684760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_21
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff98b1aaf404d20800000000000000
+      internalID: 3260693722241302512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6c329b70c6d3d0800000000000000
+      internalID: -3182144449723733250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd89eda884f9a030800000000000000
+      internalID: 3506602652755135996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_24
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52acd825dc311df0800000000000000
+      internalID: -211320821298453924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_25
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2c3c57cc80848f0800000000000000
+      internalID: -556184879738142008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_26
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a232bff284596890800000000000000
+      internalID: -7464341985777536346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_27
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5cd33dd3e60e00800000000000000
+      internalID: 1010745705588612195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_28
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b94968861500f90800000000000000
+      internalID: -6989497112302675097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_29
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff51545f5cd090160800000000000000
+      internalID: 6992135040344069631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_30
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1145dd37e7cad910800000000000000
+      internalID: 1863021191859880223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_31
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd371214bc80a090800000000000000
+      internalID: -8025259830948708868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_32
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b7dfbc8591f52b0800000000000000
+      internalID: -5593724343000663186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_33
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083fd87f61b111260800000000000000
+      internalID: 7066459075777524608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_34
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258242f893ad7500800000000000000
+      internalID: 395652219573273893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_35
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a6202664d47840800000000000000
+      internalID: 5221031403120404398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_36
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8ffaacdbafb7130800000000000000
+      internalID: 3565719223050172596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_37
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f2d22cfc7dccf0800000000000000
+      internalID: -230390583568172868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_38
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76757c6f079485a0800000000000000
+      internalID: -6519920268025694598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_39
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f8946479157e10800000000000000
+      internalID: 2194688381107631833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_40
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc3344368f9a660800000000000000
+      internalID: 7397716968162446616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_41
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df5258e03c04760800000000000000
+      internalID: 7440161051546877313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: concernant les_42
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3385df5c7c05bd0800000000000000
+      internalID: -2643393328093580333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      concernant les_0: -200940872220400780
+      concernant les_1: 1037847064917175864
+      concernant les_10: -1263894956121057427
+      concernant les_11: 4205543478708349173
+      concernant les_12: -8873323910680580949
+      concernant les_13: -754776929234917766
+      concernant les_14: -5609169787709810040
+      concernant les_15: 1828250099802547831
+      concernant les_16: -1077376797236455918
+      concernant les_17: 7697914678769261211
+      concernant les_18: 4134874646578182778
+      concernant les_19: 5929548088706556705
+      concernant les_2: -493038792842105201
+      concernant les_20: 451206883873684760
+      concernant les_21: 3260693722241302512
+      concernant les_22: -3182144449723733250
+      concernant les_23: 3506602652755135996
+      concernant les_24: -211320821298453924
+      concernant les_25: -556184879738142008
+      concernant les_26: -7464341985777536346
+      concernant les_27: 1010745705588612195
+      concernant les_28: -6989497112302675097
+      concernant les_29: 6992135040344069631
+      concernant les_3: 7209858929771860595
+      concernant les_30: 1863021191859880223
+      concernant les_31: -8025259830948708868
+      concernant les_32: -5593724343000663186
+      concernant les_33: 7066459075777524608
+      concernant les_34: 395652219573273893
+      concernant les_35: 5221031403120404398
+      concernant les_36: 3565719223050172596
+      concernant les_37: -230390583568172868
+      concernant les_38: -6519920268025694598
+      concernant les_39: 2194688381107631833
+      concernant les_4: 4577734438610668225
+      concernant les_40: 7397716968162446616
+      concernant les_41: 7440161051546877313
+      concernant les_42: -2643393328093580333
+      concernant les_5: 7571908634825810168
+      concernant les_6: 3257855447051640722
+      concernant les_7: -8083712353660532729
+      concernant les_8: -7423429399749175214
+      concernant les_9: -1621641072093185167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

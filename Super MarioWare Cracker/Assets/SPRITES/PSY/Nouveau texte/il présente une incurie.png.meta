@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: fea1add823536274b8aa237d959e5ec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8492453854023754809
+    second: "il pr\xE9sente une incurie_0"
+  - first:
+      213: -6018383361591680938
+    second: "il pr\xE9sente une incurie_1"
+  - first:
+      213: 5329932029031260091
+    second: "il pr\xE9sente une incurie_2"
+  - first:
+      213: 7428432424330436643
+    second: "il pr\xE9sente une incurie_3"
+  - first:
+      213: 1532696697280561561
+    second: "il pr\xE9sente une incurie_4"
+  - first:
+      213: -2156657684330323828
+    second: "il pr\xE9sente une incurie_5"
+  - first:
+      213: -5793513121008071787
+    second: "il pr\xE9sente une incurie_6"
+  - first:
+      213: -1822981538000364941
+    second: "il pr\xE9sente une incurie_7"
+  - first:
+      213: -5880320343120436354
+    second: "il pr\xE9sente une incurie_8"
+  - first:
+      213: 2904991244316143889
+    second: "il pr\xE9sente une incurie_9"
+  - first:
+      213: 7712330973351052632
+    second: "il pr\xE9sente une incurie_10"
+  - first:
+      213: 3362760974947718198
+    second: "il pr\xE9sente une incurie_11"
+  - first:
+      213: -4596442757319628669
+    second: "il pr\xE9sente une incurie_12"
+  - first:
+      213: -8745425413754662720
+    second: "il pr\xE9sente une incurie_13"
+  - first:
+      213: 231569656471685425
+    second: "il pr\xE9sente une incurie_14"
+  - first:
+      213: -5140178088024546202
+    second: "il pr\xE9sente une incurie_15"
+  - first:
+      213: 7647603677994320060
+    second: "il pr\xE9sente une incurie_16"
+  - first:
+      213: 7203095175419065977
+    second: "il pr\xE9sente une incurie_17"
+  - first:
+      213: 3249150094388488436
+    second: "il pr\xE9sente une incurie_18"
+  - first:
+      213: 4525797496555204293
+    second: "il pr\xE9sente une incurie_19"
+  - first:
+      213: -1513359299733115629
+    second: "il pr\xE9sente une incurie_20"
+  - first:
+      213: -3403562091604347950
+    second: "il pr\xE9sente une incurie_21"
+  - first:
+      213: 1609967393969286305
+    second: "il pr\xE9sente une incurie_22"
+  - first:
+      213: -7439181649509938437
+    second: "il pr\xE9sente une incurie_23"
+  - first:
+      213: -2776618295948395669
+    second: "il pr\xE9sente une incurie_24"
+  - first:
+      213: -1782316819602437651
+    second: "il pr\xE9sente une incurie_25"
+  - first:
+      213: 3196173642310229764
+    second: "il pr\xE9sente une incurie_26"
+  - first:
+      213: -2981427372312187633
+    second: "il pr\xE9sente une incurie_27"
+  - first:
+      213: -16348869774608649
+    second: "il pr\xE9sente une incurie_28"
+  - first:
+      213: 1150602259544256567
+    second: "il pr\xE9sente une incurie_29"
+  - first:
+      213: 3498741945740400819
+    second: "il pr\xE9sente une incurie_30"
+  - first:
+      213: -2941210002815395622
+    second: "il pr\xE9sente une incurie_31"
+  - first:
+      213: 7413609362729108972
+    second: "il pr\xE9sente une incurie_32"
+  - first:
+      213: 8690467043831236312
+    second: "il pr\xE9sente une incurie_33"
+  - first:
+      213: 3681096555083726358
+    second: "il pr\xE9sente une incurie_34"
+  - first:
+      213: 5921418603168665444
+    second: "il pr\xE9sente une incurie_35"
+  - first:
+      213: 6295723172447703300
+    second: "il pr\xE9sente une incurie_36"
+  - first:
+      213: 8414984821283391940
+    second: "il pr\xE9sente une incurie_37"
+  - first:
+      213: -1738258921399170550
+    second: "il pr\xE9sente une incurie_38"
+  - first:
+      213: 2939541664947974246
+    second: "il pr\xE9sente une incurie_39"
+  - first:
+      213: -4480589967370565909
+    second: "il pr\xE9sente une incurie_40"
+  - first:
+      213: 19244611704199253
+    second: "il pr\xE9sente une incurie_41"
+  - first:
+      213: 5586944780197847064
+    second: "il pr\xE9sente une incurie_42"
+  - first:
+      213: 1640624173223477606
+    second: "il pr\xE9sente une incurie_43"
+  - first:
+      213: 5814492476039484324
+    second: "il pr\xE9sente une incurie_44"
+  - first:
+      213: -2798623783627187582
+    second: "il pr\xE9sente une incurie_45"
+  - first:
+      213: 7343484613874550878
+    second: "il pr\xE9sente une incurie_46"
+  - first:
+      213: -2170542081147821800
+    second: "il pr\xE9sente une incurie_47"
+  - first:
+      213: -3849167990098305707
+    second: "il pr\xE9sente une incurie_48"
+  - first:
+      213: 4416302607958504937
+    second: "il pr\xE9sente une incurie_49"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5487f63eb42a80800000000000000
+      internalID: -8492453854023754809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_1"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e43a28386a7ca0800000000000000
+      internalID: -6018383361591680938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_2"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9263f0f8b7f940800000000000000
+      internalID: 5329932029031260091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_3"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a532bee7171760800000000000000
+      internalID: 7428432424330436643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_4"
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99182dd868b354510800000000000000
+      internalID: 1532696697280561561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_5"
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ef5733430212e0800000000000000
+      internalID: -2156657684330323828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_6"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bcfb4038e499fa0800000000000000
+      internalID: -5793513121008071787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_7"
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a946323f773b6e0800000000000000
+      internalID: -1822981538000364941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_8"
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73adce9dc7e46ea0800000000000000
+      internalID: -5880320343120436354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_9"
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117519352a905820800000000000000
+      internalID: 2904991244316143889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_10"
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85505d89824b70b60800000000000000
+      internalID: 7712330973351052632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_11"
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6341e404a4deaae20800000000000000
+      internalID: 3362760974947718198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_12"
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388eb8b4aa72630c0800000000000000
+      internalID: -4596442757319628669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_13"
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0da73ebe102a680800000000000000
+      internalID: -8745425413754662720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_14"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 13
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13901ca2063b63300800000000000000
+      internalID: 231569656471685425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_15"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ec05434b6aa8b0800000000000000
+      internalID: -5140178088024546202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_16"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb082d1c60fb12a60800000000000000
+      internalID: 7647603677994320060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_17"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976fe2ef5e886f360800000000000000
+      internalID: 7203095175419065977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_18"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e3fdcbcc471d20800000000000000
+      internalID: 3249150094388488436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_19"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce668b28dcdece30800000000000000
+      internalID: 4525797496555204293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_20"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dafd92cb77ffae0800000000000000
+      internalID: -1513359299733115629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_21"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3ffee7f4e14c0d0800000000000000
+      internalID: -3403562091604347950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_22"
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac208990d0c75610800000000000000
+      internalID: 1609967393969286305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_23"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa0b5944b7b2c890800000000000000
+      internalID: -7439181649509938437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_24"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3529fe587779d0800000000000000
+      internalID: -2776618295948395669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_25"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de98462bb40f347e0800000000000000
+      internalID: -1782316819602437651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_26"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f1e5e5ef61b5c20800000000000000
+      internalID: 3196173642310229764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_27"
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da4b5e997df96d0800000000000000
+      internalID: -2981427372312187633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_28"
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6fa902acae5cff0800000000000000
+      internalID: -16348869774608649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_29"
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b5eda8a2c7ff00800000000000000
+      internalID: 1150602259544256567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_30"
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89d9433470e8030800000000000000
+      internalID: 3498741945740400819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_31"
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8dc5ce519be27d0800000000000000
+      internalID: -2941210002815395622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_32"
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58af8bf6e62e660800000000000000
+      internalID: 7413609362729108972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_33"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ccc77bbdba9870800000000000000
+      internalID: 8690467043831236312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_34"
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efda540d1e51330800000000000000
+      internalID: 3681096555083726358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_35"
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0248b8da1d2250800000000000000
+      internalID: 5921418603168665444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_36"
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d0f18ed6ee5750800000000000000
+      internalID: 6295723172447703300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_37"
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c986e64c1808c470800000000000000
+      internalID: 8414984821283391940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_38"
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a495e78b670e7e0800000000000000
+      internalID: -1738258921399170550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_39"
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603fa5e1995bc820800000000000000
+      internalID: 2939541664947974246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_40"
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c2b2f92fb1d1c0800000000000000
+      internalID: -4480589967370565909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_41"
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55818745fde544000800000000000000
+      internalID: 19244611704199253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_42"
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106a6b3da0d88d40800000000000000
+      internalID: 5586944780197847064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_43"
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66187ee3efaa4c610800000000000000
+      internalID: 1640624173223477606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_44"
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3d387b91a31b050800000000000000
+      internalID: 5814492476039484324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_45"
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a11fc1f7a4929d0800000000000000
+      internalID: -2798623783627187582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_46"
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580a8f495c49e560800000000000000
+      internalID: 7343484613874550878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_47"
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811a52b2a7fa0e1e0800000000000000
+      internalID: -2170542081147821800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_48"
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd2655b12059ac0800000000000000
+      internalID: -3849167990098305707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "il pr\xE9sente une incurie_49"
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 8
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57ff7c2dbd94d30800000000000000
+      internalID: 4416302607958504937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "il pr\xE9sente une incurie_0": -8492453854023754809
+      "il pr\xE9sente une incurie_1": -6018383361591680938
+      "il pr\xE9sente une incurie_10": 7712330973351052632
+      "il pr\xE9sente une incurie_11": 3362760974947718198
+      "il pr\xE9sente une incurie_12": -4596442757319628669
+      "il pr\xE9sente une incurie_13": -8745425413754662720
+      "il pr\xE9sente une incurie_14": 231569656471685425
+      "il pr\xE9sente une incurie_15": -5140178088024546202
+      "il pr\xE9sente une incurie_16": 7647603677994320060
+      "il pr\xE9sente une incurie_17": 7203095175419065977
+      "il pr\xE9sente une incurie_18": 3249150094388488436
+      "il pr\xE9sente une incurie_19": 4525797496555204293
+      "il pr\xE9sente une incurie_2": 5329932029031260091
+      "il pr\xE9sente une incurie_20": -1513359299733115629
+      "il pr\xE9sente une incurie_21": -3403562091604347950
+      "il pr\xE9sente une incurie_22": 1609967393969286305
+      "il pr\xE9sente une incurie_23": -7439181649509938437
+      "il pr\xE9sente une incurie_24": -2776618295948395669
+      "il pr\xE9sente une incurie_25": -1782316819602437651
+      "il pr\xE9sente une incurie_26": 3196173642310229764
+      "il pr\xE9sente une incurie_27": -2981427372312187633
+      "il pr\xE9sente une incurie_28": -16348869774608649
+      "il pr\xE9sente une incurie_29": 1150602259544256567
+      "il pr\xE9sente une incurie_3": 7428432424330436643
+      "il pr\xE9sente une incurie_30": 3498741945740400819
+      "il pr\xE9sente une incurie_31": -2941210002815395622
+      "il pr\xE9sente une incurie_32": 7413609362729108972
+      "il pr\xE9sente une incurie_33": 8690467043831236312
+      "il pr\xE9sente une incurie_34": 3681096555083726358
+      "il pr\xE9sente une incurie_35": 5921418603168665444
+      "il pr\xE9sente une incurie_36": 6295723172447703300
+      "il pr\xE9sente une incurie_37": 8414984821283391940
+      "il pr\xE9sente une incurie_38": -1738258921399170550
+      "il pr\xE9sente une incurie_39": 2939541664947974246
+      "il pr\xE9sente une incurie_4": 1532696697280561561
+      "il pr\xE9sente une incurie_40": -4480589967370565909
+      "il pr\xE9sente une incurie_41": 19244611704199253
+      "il pr\xE9sente une incurie_42": 5586944780197847064
+      "il pr\xE9sente une incurie_43": 1640624173223477606
+      "il pr\xE9sente une incurie_44": 5814492476039484324
+      "il pr\xE9sente une incurie_45": -2798623783627187582
+      "il pr\xE9sente une incurie_46": 7343484613874550878
+      "il pr\xE9sente une incurie_47": -2170542081147821800
+      "il pr\xE9sente une incurie_48": -3849167990098305707
+      "il pr\xE9sente une incurie_49": 4416302607958504937
+      "il pr\xE9sente une incurie_5": -2156657684330323828
+      "il pr\xE9sente une incurie_6": -5793513121008071787
+      "il pr\xE9sente une incurie_7": -1822981538000364941
+      "il pr\xE9sente une incurie_8": -5880320343120436354
+      "il pr\xE9sente une incurie_9": 2904991244316143889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

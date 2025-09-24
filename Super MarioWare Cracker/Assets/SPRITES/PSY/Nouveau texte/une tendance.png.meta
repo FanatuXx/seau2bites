@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: e8c337c56b38a02488ebab701c3e1af1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2225813688533066022
+    second: une tendance_0
+  - first:
+      213: 5371807474184311577
+    second: une tendance_1
+  - first:
+      213: 8493945683563951894
+    second: une tendance_2
+  - first:
+      213: -1333466328874904376
+    second: une tendance_3
+  - first:
+      213: 2488223293064211714
+    second: une tendance_4
+  - first:
+      213: 4827565876897693262
+    second: une tendance_5
+  - first:
+      213: 8886153111120007444
+    second: une tendance_6
+  - first:
+      213: 6153351420115256954
+    second: une tendance_7
+  - first:
+      213: -7635569899830304632
+    second: une tendance_8
+  - first:
+      213: 5290759478787836119
+    second: une tendance_9
+  - first:
+      213: 4439542065793998928
+    second: une tendance_10
+  - first:
+      213: -8392032381959922749
+    second: une tendance_11
+  - first:
+      213: -1153974403830247980
+    second: une tendance_12
+  - first:
+      213: -6380758970146527344
+    second: une tendance_13
+  - first:
+      213: -5566863464003326738
+    second: une tendance_14
+  - first:
+      213: 7749475702216840816
+    second: une tendance_15
+  - first:
+      213: 2360615352729116665
+    second: une tendance_16
+  - first:
+      213: 2545795424352968159
+    second: une tendance_17
+  - first:
+      213: 6255923440213241746
+    second: une tendance_18
+  - first:
+      213: -4071679147636663957
+    second: une tendance_19
+  - first:
+      213: 5732340772591749619
+    second: une tendance_20
+  - first:
+      213: 8029351702229606154
+    second: une tendance_21
+  - first:
+      213: -4856629443388008109
+    second: une tendance_22
+  - first:
+      213: -3368629249681304572
+    second: une tendance_23
+  - first:
+      213: -7468882402861225551
+    second: une tendance_24
+  - first:
+      213: 4505193428384423514
+    second: une tendance_25
+  - first:
+      213: -3906154115045626006
+    second: une tendance_26
+  - first:
+      213: -3524295295212053833
+    second: une tendance_27
+  - first:
+      213: -4897704904209131572
+    second: une tendance_28
+  - first:
+      213: 7167201421651187685
+    second: une tendance_29
+  - first:
+      213: 1268686069908962241
+    second: une tendance_30
+  - first:
+      213: -151214654448562887
+    second: une tendance_31
+  - first:
+      213: 8330522770789581556
+    second: une tendance_32
+  - first:
+      213: -7434597020349265980
+    second: une tendance_33
+  - first:
+      213: -1121316064548120437
+    second: une tendance_34
+  - first:
+      213: -4116689711604921904
+    second: une tendance_35
+  - first:
+      213: -412341408128550015
+    second: une tendance_36
+  - first:
+      213: -5159035705450327449
+    second: une tendance_37
+  - first:
+      213: 1862024512326560157
+    second: une tendance_38
+  - first:
+      213: 197571057326549936
+    second: une tendance_39
+  - first:
+      213: 6525195754239143172
+    second: une tendance_40
+  - first:
+      213: -9080599144957322422
+    second: une tendance_41
+  - first:
+      213: -2582606843315555657
+    second: une tendance_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: une tendance_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded8ce3e325c11e0800000000000000
+      internalID: -2225813688533066022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9135b8ccf6e7c8a40800000000000000
+      internalID: 5371807474184311577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ba4aa89e80e570800000000000000
+      internalID: 8493945683563951894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4977b50739e7de0800000000000000
+      internalID: -1333466328874904376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 45
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de1f0e6e1f78220800000000000000
+      internalID: 2488223293064211714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb8466695fef240800000000000000
+      internalID: 4827565876897693262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_6
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115a087c25f15b70800000000000000
+      internalID: 8886153111120007444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_7
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768d16c388156550800000000000000
+      internalID: 6153351420115256954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_8
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88023fe81a1090690800000000000000
+      internalID: -7635569899830304632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_9
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d80e2dd6bd8c6940800000000000000
+      internalID: 5290759478787836119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_10
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502e05bcfb6c9d30800000000000000
+      internalID: 4439542065793998928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_11
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 45
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb14b1f203898b80800000000000000
+      internalID: -8392032381959922749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_12
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd0ecbc4624cffe0800000000000000
+      internalID: -1153974403830247980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_13
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097670bf58df277a0800000000000000
+      internalID: -6380758970146527344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_14
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec2bfa8c278eb2b0800000000000000
+      internalID: -5566863464003326738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_15
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 50
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d72ab71bab8b60800000000000000
+      internalID: 7749475702216840816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff90cef72792c020800000000000000
+      internalID: 2360615352729116665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9f53437b745320800000000000000
+      internalID: 2545795424352968159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f23fb393181d650800000000000000
+      internalID: 6255923440213241746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6950cd436d7e77c0800000000000000
+      internalID: -4071679147636663957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c1d9bf8d5d8f40800000000000000
+      internalID: 5732340772591749619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd214f4dcfd6f60800000000000000
+      internalID: 8029351702229606154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3599725b049c99cb0800000000000000
+      internalID: -4856629443388008109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40451c09b893041d0800000000000000
+      internalID: -3368629249681304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b96a44c603395890800000000000000
+      internalID: -7468882402861225551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1747bd89a58e30800000000000000
+      internalID: 4505193428384423514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f66ce278d8ac9c0800000000000000
+      internalID: -3906154115045626006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1e4df910371fc0800000000000000
+      internalID: -3524295295212053833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc71de9b65bd70cb0800000000000000
+      internalID: -4897704904209131572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7913338b3077360800000000000000
+      internalID: 7167201421651187685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_30
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf86042474b9110800000000000000
+      internalID: 1268686069908962241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_31
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d82cca217c6edf0800000000000000
+      internalID: -151214654448562887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_32
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24732b256fb9370800000000000000
+      internalID: 8330522770789581556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c787e1766103d890800000000000000
+      internalID: -7434597020349265980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_34
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b889ba3faf84070f0800000000000000
+      internalID: -1121316064548120437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_35
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d98849b4849ed6c0800000000000000
+      internalID: -4116689711604921904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_36
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b305a8ca1174af0800000000000000
+      internalID: -412341408128550015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_37
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76293111c5c6768b0800000000000000
+      internalID: -5159035705450327449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_38
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996b44bd6d37d910800000000000000
+      internalID: 1862024512326560157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_39
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbe8d174d9edb200800000000000000
+      internalID: 197571057326549936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_40
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40daf4d67f62e8a50800000000000000
+      internalID: 6525195754239143172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_41
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b5a11503b3bf180800000000000000
+      internalID: -9080599144957322422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: une tendance_42
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2fead52ccb82cd0800000000000000
+      internalID: -2582606843315555657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      une tendance_0: -2225813688533066022
+      une tendance_1: 5371807474184311577
+      une tendance_10: 4439542065793998928
+      une tendance_11: -8392032381959922749
+      une tendance_12: -1153974403830247980
+      une tendance_13: -6380758970146527344
+      une tendance_14: -5566863464003326738
+      une tendance_15: 7749475702216840816
+      une tendance_16: 2360615352729116665
+      une tendance_17: 2545795424352968159
+      une tendance_18: 6255923440213241746
+      une tendance_19: -4071679147636663957
+      une tendance_2: 8493945683563951894
+      une tendance_20: 5732340772591749619
+      une tendance_21: 8029351702229606154
+      une tendance_22: -4856629443388008109
+      une tendance_23: -3368629249681304572
+      une tendance_24: -7468882402861225551
+      une tendance_25: 4505193428384423514
+      une tendance_26: -3906154115045626006
+      une tendance_27: -3524295295212053833
+      une tendance_28: -4897704904209131572
+      une tendance_29: 7167201421651187685
+      une tendance_3: -1333466328874904376
+      une tendance_30: 1268686069908962241
+      une tendance_31: -151214654448562887
+      une tendance_32: 8330522770789581556
+      une tendance_33: -7434597020349265980
+      une tendance_34: -1121316064548120437
+      une tendance_35: -4116689711604921904
+      une tendance_36: -412341408128550015
+      une tendance_37: -5159035705450327449
+      une tendance_38: 1862024512326560157
+      une tendance_39: 197571057326549936
+      une tendance_4: 2488223293064211714
+      une tendance_40: 6525195754239143172
+      une tendance_41: -9080599144957322422
+      une tendance_42: -2582606843315555657
+      une tendance_5: 4827565876897693262
+      une tendance_6: 8886153111120007444
+      une tendance_7: 6153351420115256954
+      une tendance_8: -7635569899830304632
+      une tendance_9: 5290759478787836119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

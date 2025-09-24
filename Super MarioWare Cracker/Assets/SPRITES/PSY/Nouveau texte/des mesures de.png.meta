@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: c24afb435fa5cc5498c88d4e1be9e2b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 132484329962630749
+    second: des mesures de_0
+  - first:
+      213: -5651760205967330640
+    second: des mesures de_1
+  - first:
+      213: -1806869922920013999
+    second: des mesures de_2
+  - first:
+      213: 8179698062822758088
+    second: des mesures de_3
+  - first:
+      213: -8195413920594586416
+    second: des mesures de_4
+  - first:
+      213: -7510003849166751828
+    second: des mesures de_5
+  - first:
+      213: -113542189149564050
+    second: des mesures de_6
+  - first:
+      213: -2090522583395829950
+    second: des mesures de_7
+  - first:
+      213: 2622841921129213776
+    second: des mesures de_8
+  - first:
+      213: -5555902084117024536
+    second: des mesures de_9
+  - first:
+      213: -4442218571996244614
+    second: des mesures de_10
+  - first:
+      213: 1043252517952957751
+    second: des mesures de_11
+  - first:
+      213: -3366971131655810618
+    second: des mesures de_12
+  - first:
+      213: 703379600352446632
+    second: des mesures de_13
+  - first:
+      213: 3850777926798480795
+    second: des mesures de_14
+  - first:
+      213: 9003389265323576372
+    second: des mesures de_15
+  - first:
+      213: 4603899199740194289
+    second: des mesures de_16
+  - first:
+      213: 7310832024012329067
+    second: des mesures de_17
+  - first:
+      213: -5985057133431911005
+    second: des mesures de_18
+  - first:
+      213: 6622637025436611072
+    second: des mesures de_19
+  - first:
+      213: 565408964712415025
+    second: des mesures de_20
+  - first:
+      213: 8542777403596535319
+    second: des mesures de_21
+  - first:
+      213: 1071794362073830479
+    second: des mesures de_22
+  - first:
+      213: 5531435229197872321
+    second: des mesures de_23
+  - first:
+      213: 8348500696059660290
+    second: des mesures de_24
+  - first:
+      213: 4368509395730585459
+    second: des mesures de_25
+  - first:
+      213: 1039722452375711116
+    second: des mesures de_26
+  - first:
+      213: -6588766575564807103
+    second: des mesures de_27
+  - first:
+      213: -506304168085657641
+    second: des mesures de_28
+  - first:
+      213: 3837803967585185495
+    second: des mesures de_29
+  - first:
+      213: 5970158283919546818
+    second: des mesures de_30
+  - first:
+      213: 7795408498249451025
+    second: des mesures de_31
+  - first:
+      213: -489028094722272278
+    second: des mesures de_32
+  - first:
+      213: -2174173040527806294
+    second: des mesures de_33
+  - first:
+      213: -5017019292164978675
+    second: des mesures de_34
+  - first:
+      213: -3052986314663567476
+    second: des mesures de_35
+  - first:
+      213: -2976204913761361425
+    second: des mesures de_36
+  - first:
+      213: -7693613453131740850
+    second: des mesures de_37
+  - first:
+      213: -5521224968925183512
+    second: des mesures de_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: des mesures de_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6ab1dbcda6d100800000000000000
+      internalID: 132484329962630749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f0a7790ae091b0800000000000000
+      internalID: -5651760205967330640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd309d065bce6e0800000000000000
+      internalID: -1806869922920013999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6508cdc00248170800000000000000
+      internalID: 8179698062822758088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41babd57a044e80800000000000000
+      internalID: -8195413920594586416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_5
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77994f94b17c790800000000000000
+      internalID: -7510003849166751828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_6
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6358b40bfd9c6ef0800000000000000
+      internalID: -113542189149564050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_7
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24772c559c8fcf2e0800000000000000
+      internalID: -2090522583395829950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_8
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 13
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fe8e2b4d4366420800000000000000
+      internalID: 2622841921129213776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03a5dad7875e2b0800000000000000
+      internalID: -5555902084117024536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a755581aeb11a52c0800000000000000
+      internalID: -4442218571996244614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2e9f33a06a7e00800000000000000
+      internalID: 1043252517952957751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c119a0489d1641d0800000000000000
+      internalID: -3366971131655810618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a883451508e2c900800000000000000
+      internalID: 703379600352446632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951db34f16b07530800000000000000
+      internalID: 3850777926798480795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4d26b5d672fc70800000000000000
+      internalID: 9003389265323576372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd283efde554ef30800000000000000
+      internalID: 4603899199740194289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601ecbcdfa457560800000000000000
+      internalID: 7310832024012329067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8f515f3ec0fca0800000000000000
+      internalID: -5985057133431911005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002bf71594558eb50800000000000000
+      internalID: 6622637025436611072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f318e257cb8d700800000000000000
+      internalID: 565408964712415025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_21
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716fa9879ca0e8670800000000000000
+      internalID: 8542777403596535319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_22
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f445daf2b47cfde00800000000000000
+      internalID: 1071794362073830479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_23
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccab6eb80b93cc40800000000000000
+      internalID: 5531435229197872321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_24
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208ccbb9625dbd370800000000000000
+      internalID: 8348500696059660290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_25
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775a7a662010ac30800000000000000
+      internalID: 4368509395730585459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_26
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2adecf06dd6e00800000000000000
+      internalID: 1039722452375711116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_27
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442e7355bfff84a0800000000000000
+      internalID: -6588766575564807103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_28
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d764f8aa0f39f8f0800000000000000
+      internalID: -506304168085657641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_29
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deef7dff5e924530800000000000000
+      internalID: 3837803967585185495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_30
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c951e5f3534ad250800000000000000
+      internalID: 5970158283919546818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_31
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11648313abade2c60800000000000000
+      internalID: 7795408498249451025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_32
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae394e0f98f9639f0800000000000000
+      internalID: -489028094722272278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_33
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0fb1f8329c3d1e0800000000000000
+      internalID: -2174173040527806294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_34
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08893bf887ff5ab0800000000000000
+      internalID: -5017019292164978675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_35
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f595a4f1d91a5d0800000000000000
+      internalID: -3052986314663567476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_36
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16b78466562b6d0800000000000000
+      internalID: -2976204913761361425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_37
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498aeea35bca3590800000000000000
+      internalID: -7693613453131740850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: des mesures de_38
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1823ab42ba063b0800000000000000
+      internalID: -5521224968925183512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      des mesures de_0: 132484329962630749
+      des mesures de_1: -5651760205967330640
+      des mesures de_10: -4442218571996244614
+      des mesures de_11: 1043252517952957751
+      des mesures de_12: -3366971131655810618
+      des mesures de_13: 703379600352446632
+      des mesures de_14: 3850777926798480795
+      des mesures de_15: 9003389265323576372
+      des mesures de_16: 4603899199740194289
+      des mesures de_17: 7310832024012329067
+      des mesures de_18: -5985057133431911005
+      des mesures de_19: 6622637025436611072
+      des mesures de_2: -1806869922920013999
+      des mesures de_20: 565408964712415025
+      des mesures de_21: 8542777403596535319
+      des mesures de_22: 1071794362073830479
+      des mesures de_23: 5531435229197872321
+      des mesures de_24: 8348500696059660290
+      des mesures de_25: 4368509395730585459
+      des mesures de_26: 1039722452375711116
+      des mesures de_27: -6588766575564807103
+      des mesures de_28: -506304168085657641
+      des mesures de_29: 3837803967585185495
+      des mesures de_3: 8179698062822758088
+      des mesures de_30: 5970158283919546818
+      des mesures de_31: 7795408498249451025
+      des mesures de_32: -489028094722272278
+      des mesures de_33: -2174173040527806294
+      des mesures de_34: -5017019292164978675
+      des mesures de_35: -3052986314663567476
+      des mesures de_36: -2976204913761361425
+      des mesures de_37: -7693613453131740850
+      des mesures de_38: -5521224968925183512
+      des mesures de_4: -8195413920594586416
+      des mesures de_5: -7510003849166751828
+      des mesures de_6: -113542189149564050
+      des mesures de_7: -2090522583395829950
+      des mesures de_8: 2622841921129213776
+      des mesures de_9: -5555902084117024536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

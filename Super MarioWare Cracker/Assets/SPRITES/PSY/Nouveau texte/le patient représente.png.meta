@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: c3bbdd7b08b5eb84fbacca7c01e8eb85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1853789244907338550
+    second: "le patient repr\xE9sente_0"
+  - first:
+      213: -7453938871958075231
+    second: "le patient repr\xE9sente_1"
+  - first:
+      213: 2644775824120568291
+    second: "le patient repr\xE9sente_2"
+  - first:
+      213: -8173489796453679728
+    second: "le patient repr\xE9sente_3"
+  - first:
+      213: -7369673786106819646
+    second: "le patient repr\xE9sente_4"
+  - first:
+      213: 4047556577598104158
+    second: "le patient repr\xE9sente_5"
+  - first:
+      213: -8644337601360811820
+    second: "le patient repr\xE9sente_6"
+  - first:
+      213: -2437691198423131432
+    second: "le patient repr\xE9sente_7"
+  - first:
+      213: -3028625199192820590
+    second: "le patient repr\xE9sente_8"
+  - first:
+      213: 8750237915267403917
+    second: "le patient repr\xE9sente_9"
+  - first:
+      213: 6884865652088196142
+    second: "le patient repr\xE9sente_10"
+  - first:
+      213: -843842529528094467
+    second: "le patient repr\xE9sente_11"
+  - first:
+      213: 3972270593951656306
+    second: "le patient repr\xE9sente_12"
+  - first:
+      213: 4779068711082907516
+    second: "le patient repr\xE9sente_13"
+  - first:
+      213: -1389329714737936593
+    second: "le patient repr\xE9sente_14"
+  - first:
+      213: 2366126962187620406
+    second: "le patient repr\xE9sente_15"
+  - first:
+      213: 2098283094080218026
+    second: "le patient repr\xE9sente_16"
+  - first:
+      213: 6059863191963875626
+    second: "le patient repr\xE9sente_17"
+  - first:
+      213: 8165112439051477461
+    second: "le patient repr\xE9sente_18"
+  - first:
+      213: -3456321184776390504
+    second: "le patient repr\xE9sente_19"
+  - first:
+      213: 1586948126778145262
+    second: "le patient repr\xE9sente_20"
+  - first:
+      213: 6280383703360311838
+    second: "le patient repr\xE9sente_21"
+  - first:
+      213: 1540766984192849676
+    second: "le patient repr\xE9sente_22"
+  - first:
+      213: -2653894072773410280
+    second: "le patient repr\xE9sente_23"
+  - first:
+      213: 3969101917937992397
+    second: "le patient repr\xE9sente_24"
+  - first:
+      213: -2117081512071881822
+    second: "le patient repr\xE9sente_25"
+  - first:
+      213: -9216453858130357777
+    second: "le patient repr\xE9sente_26"
+  - first:
+      213: 6091358580486299323
+    second: "le patient repr\xE9sente_27"
+  - first:
+      213: -8983168338452782484
+    second: "le patient repr\xE9sente_28"
+  - first:
+      213: -4780571455419030902
+    second: "le patient repr\xE9sente_29"
+  - first:
+      213: -8284883280241990475
+    second: "le patient repr\xE9sente_30"
+  - first:
+      213: -1836920594056998146
+    second: "le patient repr\xE9sente_31"
+  - first:
+      213: 2063780373176995614
+    second: "le patient repr\xE9sente_32"
+  - first:
+      213: 1660125916918115026
+    second: "le patient repr\xE9sente_33"
+  - first:
+      213: -2641869658511287755
+    second: "le patient repr\xE9sente_34"
+  - first:
+      213: 2525996867215558149
+    second: "le patient repr\xE9sente_35"
+  - first:
+      213: 3308499636788588898
+    second: "le patient repr\xE9sente_36"
+  - first:
+      213: -4488719893893927444
+    second: "le patient repr\xE9sente_37"
+  - first:
+      213: -8298998027424003819
+    second: "le patient repr\xE9sente_38"
+  - first:
+      213: 4270205646221380863
+    second: "le patient repr\xE9sente_39"
+  - first:
+      213: 399426600532987782
+    second: "le patient repr\xE9sente_40"
+  - first:
+      213: 3655894209114493598
+    second: "le patient repr\xE9sente_41"
+  - first:
+      213: -535393954669001725
+    second: "le patient repr\xE9sente_42"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b34271f7bf9b910800000000000000
+      internalID: 1853789244907338550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_1"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8867fa61a4e8890800000000000000
+      internalID: -7453938871958075231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_2"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95f33799124b420800000000000000
+      internalID: 2644775824120568291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_3"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d391bc55ee19e80800000000000000
+      internalID: -8173489796453679728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_4"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb489cdcb8a9b990800000000000000
+      internalID: -7369673786106819646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_5"
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e700334fcb2830800000000000000
+      internalID: 4047556577598104158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_6"
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8265050c4290880800000000000000
+      internalID: -8644337601360811820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_7"
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da94ed35c49b2ed0800000000000000
+      internalID: -2437691198423131432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_8"
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 50
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294b05c7d6928f5d0800000000000000
+      internalID: -3028625199192820590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_9"
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801bafe5071f6970800000000000000
+      internalID: 8750237915267403917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_10"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c410f35d4fb8f50800000000000000
+      internalID: 6884865652088196142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_11"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df06c15b0b11a44f0800000000000000
+      internalID: -843842529528094467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_12"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e7382f07502730800000000000000
+      internalID: 3972270593951656306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_13"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77d7411ca9a25240800000000000000
+      internalID: 4779068711082907516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_14"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2786254cfb18bce0800000000000000
+      internalID: -1389329714737936593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_15"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630daa29feb26d020800000000000000
+      internalID: 2366126962187620406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_16"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ebdc5b599e1d10800000000000000
+      internalID: 2098283094080218026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_17"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b8707775f81450800000000000000
+      internalID: 6059863191963875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_18"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d169c0b08e405170800000000000000
+      internalID: 8165112439051477461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_19"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898febfd13ea800d0800000000000000
+      internalID: -3456321184776390504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_20"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9359dc9e8f50610800000000000000
+      internalID: 1586948126778145262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_21"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1291fb04b7682750800000000000000
+      internalID: 6280383703360311838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_22"
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f676a867e16510800000000000000
+      internalID: 1540766984192849676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_23"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81283d8d6697b2bd0800000000000000
+      internalID: -2653894072773410280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_24"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc204084a25151730800000000000000
+      internalID: 3969101917937992397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_25"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9860e49d9e92e0800000000000000
+      internalID: -2117081512071881822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_26"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe19c510c04981080800000000000000
+      internalID: -9216453858130357777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_27"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed9650b5ad88450800000000000000
+      internalID: 6091358580486299323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_28"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626cf4bdff555380800000000000000
+      internalID: -8983168338452782484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_29"
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826060079ff7adb0800000000000000
+      internalID: -4780571455419030902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_30"
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46a934d8e260d80800000000000000
+      internalID: -8284883280241990475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_31"
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef212aeb372f186e0800000000000000
+      internalID: -1836920594056998146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_32"
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f43a5a05504ac10800000000000000
+      internalID: 2063780373176995614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_33"
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 31
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae258c9b3f90710800000000000000
+      internalID: 1660125916918115026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_34"
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5d85fa81365bd0800000000000000
+      internalID: -2641869658511287755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_35"
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506022674c42e0320800000000000000
+      internalID: 2525996867215558149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_36"
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 13
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261fa46f3e62aed20800000000000000
+      internalID: 3308499636788588898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_37"
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced293ce90dd4b1c0800000000000000
+      internalID: -4488719893893927444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_38"
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51989b7934904dc80800000000000000
+      internalID: -8298998027424003819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_39"
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc84e42961d24b30800000000000000
+      internalID: 4270205646221380863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_40"
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f4c9e706c0b8500800000000000000
+      internalID: 399426600532987782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_41"
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e925da6d9685cb230800000000000000
+      internalID: 3655894209114493598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "le patient repr\xE9sente_42"
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 13
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304001de806e198f0800000000000000
+      internalID: -535393954669001725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "le patient repr\xE9sente_0": 1853789244907338550
+      "le patient repr\xE9sente_1": -7453938871958075231
+      "le patient repr\xE9sente_10": 6884865652088196142
+      "le patient repr\xE9sente_11": -843842529528094467
+      "le patient repr\xE9sente_12": 3972270593951656306
+      "le patient repr\xE9sente_13": 4779068711082907516
+      "le patient repr\xE9sente_14": -1389329714737936593
+      "le patient repr\xE9sente_15": 2366126962187620406
+      "le patient repr\xE9sente_16": 2098283094080218026
+      "le patient repr\xE9sente_17": 6059863191963875626
+      "le patient repr\xE9sente_18": 8165112439051477461
+      "le patient repr\xE9sente_19": -3456321184776390504
+      "le patient repr\xE9sente_2": 2644775824120568291
+      "le patient repr\xE9sente_20": 1586948126778145262
+      "le patient repr\xE9sente_21": 6280383703360311838
+      "le patient repr\xE9sente_22": 1540766984192849676
+      "le patient repr\xE9sente_23": -2653894072773410280
+      "le patient repr\xE9sente_24": 3969101917937992397
+      "le patient repr\xE9sente_25": -2117081512071881822
+      "le patient repr\xE9sente_26": -9216453858130357777
+      "le patient repr\xE9sente_27": 6091358580486299323
+      "le patient repr\xE9sente_28": -8983168338452782484
+      "le patient repr\xE9sente_29": -4780571455419030902
+      "le patient repr\xE9sente_3": -8173489796453679728
+      "le patient repr\xE9sente_30": -8284883280241990475
+      "le patient repr\xE9sente_31": -1836920594056998146
+      "le patient repr\xE9sente_32": 2063780373176995614
+      "le patient repr\xE9sente_33": 1660125916918115026
+      "le patient repr\xE9sente_34": -2641869658511287755
+      "le patient repr\xE9sente_35": 2525996867215558149
+      "le patient repr\xE9sente_36": 3308499636788588898
+      "le patient repr\xE9sente_37": -4488719893893927444
+      "le patient repr\xE9sente_38": -8298998027424003819
+      "le patient repr\xE9sente_39": 4270205646221380863
+      "le patient repr\xE9sente_4": -7369673786106819646
+      "le patient repr\xE9sente_40": 399426600532987782
+      "le patient repr\xE9sente_41": 3655894209114493598
+      "le patient repr\xE9sente_42": -535393954669001725
+      "le patient repr\xE9sente_5": 4047556577598104158
+      "le patient repr\xE9sente_6": -8644337601360811820
+      "le patient repr\xE9sente_7": -2437691198423131432
+      "le patient repr\xE9sente_8": -3028625199192820590
+      "le patient repr\xE9sente_9": 8750237915267403917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

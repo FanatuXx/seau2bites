@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 2ca50164ed82e7c44a6d410667b3da5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2319051733432653894
+    second: motif de la consulta_0
+  - first:
+      213: 4758814876038625253
+    second: motif de la consulta_1
+  - first:
+      213: -8416260066393695080
+    second: motif de la consulta_2
+  - first:
+      213: -3871149440108394911
+    second: motif de la consulta_3
+  - first:
+      213: 7400257724706062185
+    second: motif de la consulta_4
+  - first:
+      213: 6468341076434843067
+    second: motif de la consulta_5
+  - first:
+      213: -8484493073433640687
+    second: motif de la consulta_6
+  - first:
+      213: 681953708511255659
+    second: motif de la consulta_7
+  - first:
+      213: -200740771758925829
+    second: motif de la consulta_8
+  - first:
+      213: -433730170839396568
+    second: motif de la consulta_9
+  - first:
+      213: 6721245311693466537
+    second: motif de la consulta_10
+  - first:
+      213: -4759805407366856978
+    second: motif de la consulta_11
+  - first:
+      213: 8584798251417199159
+    second: motif de la consulta_12
+  - first:
+      213: -4184974100098949216
+    second: motif de la consulta_13
+  - first:
+      213: -700796464398894466
+    second: motif de la consulta_14
+  - first:
+      213: 1977828059129522077
+    second: motif de la consulta_15
+  - first:
+      213: -3205152099923396178
+    second: motif de la consulta_16
+  - first:
+      213: 3402654168428212875
+    second: motif de la consulta_17
+  - first:
+      213: -1574430996521932652
+    second: motif de la consulta_18
+  - first:
+      213: -872677178361088400
+    second: motif de la consulta_19
+  - first:
+      213: 6607964934437992684
+    second: motif de la consulta_20
+  - first:
+      213: -7415589329390087651
+    second: motif de la consulta_21
+  - first:
+      213: 8305208733461629108
+    second: motif de la consulta_22
+  - first:
+      213: -3085328939084822322
+    second: motif de la consulta_23
+  - first:
+      213: -1130359145270958987
+    second: motif de la consulta_24
+  - first:
+      213: 924753945617647400
+    second: motif de la consulta_25
+  - first:
+      213: -3455950033060437709
+    second: motif de la consulta_26
+  - first:
+      213: 999308225361072118
+    second: motif de la consulta_27
+  - first:
+      213: -7632784860752682529
+    second: motif de la consulta_28
+  - first:
+      213: -7861029747014443249
+    second: motif de la consulta_29
+  - first:
+      213: -7622463378853395732
+    second: motif de la consulta_30
+  - first:
+      213: -5178660621075634780
+    second: motif de la consulta_31
+  - first:
+      213: -2635334106847837980
+    second: motif de la consulta_32
+  - first:
+      213: -338377164573355206
+    second: motif de la consulta_33
+  - first:
+      213: -1642357020411669153
+    second: motif de la consulta_34
+  - first:
+      213: -2884240332304637523
+    second: motif de la consulta_35
+  - first:
+      213: 2117045126900692769
+    second: motif de la consulta_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motif de la consulta_0
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 52
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab72efc3cb211dfd0800000000000000
+      internalID: -2319051733432653894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7702e9ae4ba0240800000000000000
+      internalID: 4758814876038625253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c5c459f00733b80800000000000000
+      internalID: -8416260066393695080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16603ed281ae64ac0800000000000000
+      internalID: -3871149440108394911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ff17f313ff2b660800000000000000
+      internalID: 7400257724706062185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb577f230f924c950800000000000000
+      internalID: 6468341076434843067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111c9b2a086014a80800000000000000
+      internalID: -8484493073433640687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd215e849c67900800000000000000
+      internalID: 681953708511255659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71f57e453d63df0800000000000000
+      internalID: -200740771758925829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f8fb625b41bf9f0800000000000000
+      internalID: -433730170839396568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abafb31009a64d50800000000000000
+      internalID: 6721245311693466537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee3ae55336c1fdb0800000000000000
+      internalID: -4759805407366856978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_12
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ed148684532770800000000000000
+      internalID: 8584798251417199159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af54699a3cfbe5c0800000000000000
+      internalID: -4184974100098949216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_14
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a77af14554646f0800000000000000
+      internalID: -700796464398894466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97273b0428a27b10800000000000000
+      internalID: 1977828059129522077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9f7f095230583d0800000000000000
+      internalID: -3205152099923396178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b827aaa20f7a83f20800000000000000
+      internalID: 3402654168428212875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49822f0b95f762ae0800000000000000
+      internalID: -1574430996521932652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076723cdab0a3e3f0800000000000000
+      internalID: -872677178361088400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f96de81534bb50800000000000000
+      internalID: 6607964934437992684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d68d5bc8861990800000000000000
+      internalID: -7415589329390087651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c3771757024370800000000000000
+      internalID: 8305208733461629108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cd9a3da5be25d0800000000000000
+      internalID: -3085328939084822322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a285a8582050f0800000000000000
+      internalID: -1130359145270958987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274e2160d265dc00800000000000000
+      internalID: 924753945617647400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_26
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331eeed51cff900d0800000000000000
+      internalID: -3455950033060437709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_27
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc5c159814edd00800000000000000
+      internalID: 999308225361072118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_28
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd16bdffb96e21690800000000000000
+      internalID: -7632784860752682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_29
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fdc68381308e290800000000000000
+      internalID: -7861029747014443249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_30
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2050641f1973690800000000000000
+      internalID: -7622463378853395732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_31
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5ab745a93b128b0800000000000000
+      internalID: -5178660621075634780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_32
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e00dd8a7996d6bd0800000000000000
+      internalID: -2635334106847837980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_33
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335089f2c7dd4bf0800000000000000
+      internalID: -338377164573355206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_34
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555ef3ddfc2539e0800000000000000
+      internalID: -1642357020411669153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_35
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1a02af2be19f7d0800000000000000
+      internalID: -2884240332304637523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motif de la consulta_36
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127336a8351416d10800000000000000
+      internalID: 2117045126900692769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motif de la consulta_0: -2319051733432653894
+      motif de la consulta_1: 4758814876038625253
+      motif de la consulta_10: 6721245311693466537
+      motif de la consulta_11: -4759805407366856978
+      motif de la consulta_12: 8584798251417199159
+      motif de la consulta_13: -4184974100098949216
+      motif de la consulta_14: -700796464398894466
+      motif de la consulta_15: 1977828059129522077
+      motif de la consulta_16: -3205152099923396178
+      motif de la consulta_17: 3402654168428212875
+      motif de la consulta_18: -1574430996521932652
+      motif de la consulta_19: -872677178361088400
+      motif de la consulta_2: -8416260066393695080
+      motif de la consulta_20: 6607964934437992684
+      motif de la consulta_21: -7415589329390087651
+      motif de la consulta_22: 8305208733461629108
+      motif de la consulta_23: -3085328939084822322
+      motif de la consulta_24: -1130359145270958987
+      motif de la consulta_25: 924753945617647400
+      motif de la consulta_26: -3455950033060437709
+      motif de la consulta_27: 999308225361072118
+      motif de la consulta_28: -7632784860752682529
+      motif de la consulta_29: -7861029747014443249
+      motif de la consulta_3: -3871149440108394911
+      motif de la consulta_30: -7622463378853395732
+      motif de la consulta_31: -5178660621075634780
+      motif de la consulta_32: -2635334106847837980
+      motif de la consulta_33: -338377164573355206
+      motif de la consulta_34: -1642357020411669153
+      motif de la consulta_35: -2884240332304637523
+      motif de la consulta_36: 2117045126900692769
+      motif de la consulta_4: 7400257724706062185
+      motif de la consulta_5: 6468341076434843067
+      motif de la consulta_6: -8484493073433640687
+      motif de la consulta_7: 681953708511255659
+      motif de la consulta_8: -200740771758925829
+      motif de la consulta_9: -433730170839396568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

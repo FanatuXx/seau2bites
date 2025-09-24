@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 15c0ffdcaec440d4f81163945576a3d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1967449824578003409
+    second: "pers\xE9cutoire aigu_0"
+  - first:
+      213: 4738316372487918755
+    second: "pers\xE9cutoire aigu_1"
+  - first:
+      213: 5991452933035461785
+    second: "pers\xE9cutoire aigu_2"
+  - first:
+      213: 956275177718879305
+    second: "pers\xE9cutoire aigu_3"
+  - first:
+      213: 7248977036703146832
+    second: "pers\xE9cutoire aigu_4"
+  - first:
+      213: -950461331088569321
+    second: "pers\xE9cutoire aigu_5"
+  - first:
+      213: 6219132679442045868
+    second: "pers\xE9cutoire aigu_6"
+  - first:
+      213: 8410092974916540312
+    second: "pers\xE9cutoire aigu_7"
+  - first:
+      213: 5787360925074371409
+    second: "pers\xE9cutoire aigu_8"
+  - first:
+      213: -7346994574695930002
+    second: "pers\xE9cutoire aigu_9"
+  - first:
+      213: 2004617251333622725
+    second: "pers\xE9cutoire aigu_10"
+  - first:
+      213: -3727444115731832835
+    second: "pers\xE9cutoire aigu_11"
+  - first:
+      213: 6915590927334024165
+    second: "pers\xE9cutoire aigu_12"
+  - first:
+      213: 4749306270841123902
+    second: "pers\xE9cutoire aigu_13"
+  - first:
+      213: -1082712750346029759
+    second: "pers\xE9cutoire aigu_14"
+  - first:
+      213: 7267484529291859260
+    second: "pers\xE9cutoire aigu_15"
+  - first:
+      213: 6671172576241204736
+    second: "pers\xE9cutoire aigu_16"
+  - first:
+      213: 7630156356247663079
+    second: "pers\xE9cutoire aigu_17"
+  - first:
+      213: -7640885227108711681
+    second: "pers\xE9cutoire aigu_18"
+  - first:
+      213: -4640627103006491924
+    second: "pers\xE9cutoire aigu_19"
+  - first:
+      213: 6379805023356353475
+    second: "pers\xE9cutoire aigu_20"
+  - first:
+      213: -3185692157515766779
+    second: "pers\xE9cutoire aigu_21"
+  - first:
+      213: 7823887190864531162
+    second: "pers\xE9cutoire aigu_22"
+  - first:
+      213: 7709902627784705641
+    second: "pers\xE9cutoire aigu_23"
+  - first:
+      213: 8761377320526873239
+    second: "pers\xE9cutoire aigu_24"
+  - first:
+      213: 1806123906205704290
+    second: "pers\xE9cutoire aigu_25"
+  - first:
+      213: -5412343771875611126
+    second: "pers\xE9cutoire aigu_26"
+  - first:
+      213: -4888092353279954812
+    second: "pers\xE9cutoire aigu_27"
+  - first:
+      213: 6098664715591664087
+    second: "pers\xE9cutoire aigu_28"
+  - first:
+      213: -7228358177985615320
+    second: "pers\xE9cutoire aigu_29"
+  - first:
+      213: 4050719621017816427
+    second: "pers\xE9cutoire aigu_30"
+  - first:
+      213: 591200858958211890
+    second: "pers\xE9cutoire aigu_31"
+  - first:
+      213: 6419711194080456586
+    second: "pers\xE9cutoire aigu_32"
+  - first:
+      213: -4461995301708731123
+    second: "pers\xE9cutoire aigu_33"
+  - first:
+      213: -255781258696116948
+    second: "pers\xE9cutoire aigu_34"
+  - first:
+      213: -6402423704827324099
+    second: "pers\xE9cutoire aigu_35"
+  - first:
+      213: -8987500185094903548
+    second: "pers\xE9cutoire aigu_36"
+  - first:
+      213: 3696946040104336763
+    second: "pers\xE9cutoire aigu_37"
+  - first:
+      213: 7343676895637431949
+    second: "pers\xE9cutoire aigu_38"
+  - first:
+      213: 2652300446780286304
+    second: "pers\xE9cutoire aigu_39"
+  - first:
+      213: -7106721027216571685
+    second: "pers\xE9cutoire aigu_40"
+  - first:
+      213: 8074684659163384286
+    second: "pers\xE9cutoire aigu_41"
+  - first:
+      213: 3407442559585795195
+    second: "pers\xE9cutoire aigu_42"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_0"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d160630139cd4b10800000000000000
+      internalID: 1967449824578003409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_1"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a45f87d2a1e1c140800000000000000
+      internalID: 4738316372487918755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_2"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0d02d2bae52350800000000000000
+      internalID: 5991452933035461785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_3"
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441573253f554d00800000000000000
+      internalID: 956275177718879305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_4"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a7a9453a899460800000000000000
+      internalID: 7248977036703146832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_5"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c88b384784fc2f0800000000000000
+      internalID: -950461331088569321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_6"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 13
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab9a29b83cce4650800000000000000
+      internalID: 6219132679442045868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_7"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89798e98007a6b470800000000000000
+      internalID: 8410092974916540312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_8"
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 55
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b80e3916d05050800000000000000
+      internalID: 5787360925074371409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_9"
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e6804c5b3a0a90800000000000000
+      internalID: -7346994574695930002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_10"
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 13
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4c58e4c4d1db10800000000000000
+      internalID: 2004617251333622725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_11"
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 41
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1fa95355754cc0800000000000000
+      internalID: -3727444115731832835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_12"
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 50
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a8abde4d19ff50800000000000000
+      internalID: 6915590927334024165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_13"
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 13
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343503f3ece8e140800000000000000
+      internalID: 4749306270841123902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b6d17d7e69f0f0800000000000000
+      internalID: -1082712750346029759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_15"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c359613bcaa4bd460800000000000000
+      internalID: 7267484529291859260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_16"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3f2adc14c49c50800000000000000
+      internalID: 6671172576241204736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_17"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b4da97c2c3e960800000000000000
+      internalID: 7630156356247663079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_18"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c7ac7e5f16f590800000000000000
+      internalID: -7640885227108711681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_19"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea7f36ac3e299fb0800000000000000
+      internalID: -4640627103006491924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_20"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb7869fdde998850800000000000000
+      internalID: 6379805023356353475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_21"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504668b7cd52ac3d0800000000000000
+      internalID: -3185692157515766779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_22"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade853682f7049c60800000000000000
+      internalID: 7823887190864531162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_23"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96645f557931ffa60800000000000000
+      internalID: 7709902627784705641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_24"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920b25d04aa69970800000000000000
+      internalID: 8761377320526873239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_25"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2606bb99f14a01910800000000000000
+      internalID: 1806123906205704290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_26"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6e0be30e73e4b0800000000000000
+      internalID: -5412343771875611126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_27"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f17527e10a2cb0800000000000000
+      internalID: -4888092353279954812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_28"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1cc092f3fc2a450800000000000000
+      internalID: 6098664715591664087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_29"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa0ebd886bfab90800000000000000
+      internalID: -7228358177985615320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_30"
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc87f980c073830800000000000000
+      internalID: 4050719621017816427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_31"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2c158c0e543800800000000000000
+      internalID: 591200858958211890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_32"
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa3c36155671950800000000000000
+      internalID: 6419711194080456586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_33"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d603ce9eec312c0800000000000000
+      internalID: -4461995301708731123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_34"
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c253737ec48437cf0800000000000000
+      internalID: -255781258696116948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_35"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d391a3cdf850627a0800000000000000
+      internalID: -6402423704827324099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_36"
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40929a0133cf54380800000000000000
+      internalID: -8987500185094903548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_37"
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7db43216d03e4330800000000000000
+      internalID: 3696946040104336763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_38"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8666b56a3bf9e560800000000000000
+      internalID: 7343676895637431949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_39"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 13
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065e2ff243ddec420800000000000000
+      internalID: 2652300446780286304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_40"
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd205f6f0eadf5d90800000000000000
+      internalID: -7106721027216571685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_41"
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 13
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9cabe7aea0f0070800000000000000
+      internalID: 8074684659163384286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pers\xE9cutoire aigu_42"
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb8ac54faa94f20800000000000000
+      internalID: 3407442559585795195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "pers\xE9cutoire aigu_0": 1967449824578003409
+      "pers\xE9cutoire aigu_1": 4738316372487918755
+      "pers\xE9cutoire aigu_10": 2004617251333622725
+      "pers\xE9cutoire aigu_11": -3727444115731832835
+      "pers\xE9cutoire aigu_12": 6915590927334024165
+      "pers\xE9cutoire aigu_13": 4749306270841123902
+      "pers\xE9cutoire aigu_14": -1082712750346029759
+      "pers\xE9cutoire aigu_15": 7267484529291859260
+      "pers\xE9cutoire aigu_16": 6671172576241204736
+      "pers\xE9cutoire aigu_17": 7630156356247663079
+      "pers\xE9cutoire aigu_18": -7640885227108711681
+      "pers\xE9cutoire aigu_19": -4640627103006491924
+      "pers\xE9cutoire aigu_2": 5991452933035461785
+      "pers\xE9cutoire aigu_20": 6379805023356353475
+      "pers\xE9cutoire aigu_21": -3185692157515766779
+      "pers\xE9cutoire aigu_22": 7823887190864531162
+      "pers\xE9cutoire aigu_23": 7709902627784705641
+      "pers\xE9cutoire aigu_24": 8761377320526873239
+      "pers\xE9cutoire aigu_25": 1806123906205704290
+      "pers\xE9cutoire aigu_26": -5412343771875611126
+      "pers\xE9cutoire aigu_27": -4888092353279954812
+      "pers\xE9cutoire aigu_28": 6098664715591664087
+      "pers\xE9cutoire aigu_29": -7228358177985615320
+      "pers\xE9cutoire aigu_3": 956275177718879305
+      "pers\xE9cutoire aigu_30": 4050719621017816427
+      "pers\xE9cutoire aigu_31": 591200858958211890
+      "pers\xE9cutoire aigu_32": 6419711194080456586
+      "pers\xE9cutoire aigu_33": -4461995301708731123
+      "pers\xE9cutoire aigu_34": -255781258696116948
+      "pers\xE9cutoire aigu_35": -6402423704827324099
+      "pers\xE9cutoire aigu_36": -8987500185094903548
+      "pers\xE9cutoire aigu_37": 3696946040104336763
+      "pers\xE9cutoire aigu_38": 7343676895637431949
+      "pers\xE9cutoire aigu_39": 2652300446780286304
+      "pers\xE9cutoire aigu_4": 7248977036703146832
+      "pers\xE9cutoire aigu_40": -7106721027216571685
+      "pers\xE9cutoire aigu_41": 8074684659163384286
+      "pers\xE9cutoire aigu_42": 3407442559585795195
+      "pers\xE9cutoire aigu_5": -950461331088569321
+      "pers\xE9cutoire aigu_6": 6219132679442045868
+      "pers\xE9cutoire aigu_7": 8410092974916540312
+      "pers\xE9cutoire aigu_8": 5787360925074371409
+      "pers\xE9cutoire aigu_9": -7346994574695930002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
