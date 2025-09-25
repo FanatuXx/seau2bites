@@ -13,7 +13,7 @@ public class CameraMovement : MonoBehaviour
         startPosition = transform.position;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (Input.anyKeyDown)
         {
