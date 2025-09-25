@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ef5efc17eff66c44fbbba3cb01b924da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7689091220691045197
+    second: DALL1_0
+  - first:
+      213: -4994860527467452466
+    second: DALL1_1
+  - first:
+      213: 1361621776064519174
+    second: DALL1_2
+  - first:
+      213: 1877354097231419539
+    second: DALL1_3
+  - first:
+      213: -7788122274011662100
+    second: DALL1_4
+  - first:
+      213: -7740017077688201314
+    second: DALL1_5
+  - first:
+      213: 6525597014342072235
+    second: DALL1_6
+  - first:
+      213: -101603714846490230
+    second: DALL1_7
+  - first:
+      213: 2015631357525474602
+    second: DALL1_8
+  - first:
+      213: 3567867544050853564
+    second: DALL1_9
+  - first:
+      213: 2661184657833446421
+    second: DALL1_10
+  - first:
+      213: 2189218319572635731
+    second: DALL1_11
+  - first:
+      213: 3419203297564126852
+    second: DALL1_12
+  - first:
+      213: -8476581042806927986
+    second: DALL1_13
+  - first:
+      213: -6483402656023807374
+    second: DALL1_14
+  - first:
+      213: -8396355664639262158
+    second: DALL1_15
+  - first:
+      213: 3162762379121647972
+    second: DALL1_16
+  - first:
+      213: 5173434475402977585
+    second: DALL1_17
+  - first:
+      213: 2981174845416420115
+    second: DALL1_18
+  - first:
+      213: -7080817276465611531
+    second: DALL1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DALL1_0
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 717
+        width: 353
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b229f54cda4590800000000000000
+      internalID: -7689091220691045197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_1
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 679
+        width: 382
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7aead60d0beaab0800000000000000
+      internalID: -4994860527467452466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_2
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 737
+        width: 368
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c13c88ac375e210800000000000000
+      internalID: 1361621776064519174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_3
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 705
+        width: 646
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3985a13da93bd0a10800000000000000
+      internalID: 1877354097231419539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 425
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce83a361e080be390800000000000000
+      internalID: -7788122274011662100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 646
+        width: 379
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f00f8e97fe59490800000000000000
+      internalID: -7740017077688201314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 501
+        width: 426
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7753319e39f8a50800000000000000
+      internalID: 6525597014342072235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 555
+        width: 439
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8107bca5f7079ef0800000000000000
+      internalID: -101603714846490230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_8
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 369
+        width: 835
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db1775a06f8fb10800000000000000
+      internalID: 2015631357525474602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 489
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ebc0c0ac938130800000000000000
+      internalID: 3567867544050853564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 323
+        width: 491
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc1e3c85d6ee420800000000000000
+      internalID: 2661184657833446421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_11
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 339
+        width: 533
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35097e1767aa16e10800000000000000
+      internalID: 2189218319572635731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 457
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e672e8843737f20800000000000000
+      internalID: 3419203297564126852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 228
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dcea1d3722d5a80800000000000000
+      internalID: -8476581042806927986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_14
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 113
+        width: 576
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a70e782a35606a0800000000000000
+      internalID: -6483402656023807374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_15
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 108
+        width: 694
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232865142072a7b80800000000000000
+      internalID: -8396355664639262158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_16
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 168
+        width: 257
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e38470a364eb20800000000000000
+      internalID: 3162762379121647972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 576
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131672fce3bbbc740800000000000000
+      internalID: 5173434475402977585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_18
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 642
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313306a1ab24f5920800000000000000
+      internalID: 2981174845416420115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL1_19
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 0
+        width: 617
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc71dce332ebbd90800000000000000
+      internalID: -7080817276465611531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DALL1_0: -7689091220691045197
+      DALL1_1: -4994860527467452466
+      DALL1_10: 2661184657833446421
+      DALL1_11: 2189218319572635731
+      DALL1_12: 3419203297564126852
+      DALL1_13: -8476581042806927986
+      DALL1_14: -6483402656023807374
+      DALL1_15: -8396355664639262158
+      DALL1_16: 3162762379121647972
+      DALL1_17: 5173434475402977585
+      DALL1_18: 2981174845416420115
+      DALL1_19: -7080817276465611531
+      DALL1_2: 1361621776064519174
+      DALL1_3: 1877354097231419539
+      DALL1_4: -7788122274011662100
+      DALL1_5: -7740017077688201314
+      DALL1_6: 6525597014342072235
+      DALL1_7: -101603714846490230
+      DALL1_8: 2015631357525474602
+      DALL1_9: 3567867544050853564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

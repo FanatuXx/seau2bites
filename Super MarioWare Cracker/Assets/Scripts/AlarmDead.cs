@@ -17,14 +17,12 @@ public class AlarmDead : MonoBehaviour
     CharacterController _cc;
     public VideoPlayer videoPlayer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Awake()
-    {
-        var videoPlayer = GetComponent<VideoPlayer>();
-    }
     private void Start()
     {
-        //var videoPlayer = GetComponent<VideoPlayer>();
+        var videoPlayer = GetComponent<VideoPlayer>();
+        videoPlayer.enabled = true;
     }
+   
     // Update is called once per frame
     void Update()
     {
@@ -33,17 +31,32 @@ public class AlarmDead : MonoBehaviour
             _cc = GameObject.FindWithTag("Player").GetComponent<CharacterController>();
             if (!_cc.isHidden)
             {
-                
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-                
+
                 videoPlayer.Play();
+                //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                StartCoroutine(ResetGame());
             }
+
         }
+
+        IEnumerator ResetGame()
+        {
+
+          //videoPlayer.Play();
+          yield return new WaitForSeconds(10f);
+          SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
+
+        }
+
+
+        
     }
     public void Launch()
     {
         StartCoroutine(AnimKill());
     }
+    
 
     IEnumerator AnimKill()
     {
@@ -52,7 +65,7 @@ public class AlarmDead : MonoBehaviour
         
         yield return new WaitForSeconds(1f);
         _checking = false;
-        yield return new WaitForSeconds(1f);
-        Destroy(gameObject);
+        yield return new WaitForSeconds(20f);
+        //Destroy(gameObject);
     }
 }
