@@ -17,6 +17,10 @@ public class CharacterController : MonoBehaviour
     private bool isJumping = false;
     public Volume chromaticab;
     public Volume bloom;
+    public Volume hue;
+    public Volume hue2;
+    public Volume hue3;
+
 
     public bool isGrounded;
     public Transform feetPos;
@@ -48,7 +52,9 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         chromaticab.enabled = false;
-        //hue.enabled = false;
+        hue.enabled = false;
+        hue2.enabled = false;
+        hue3.enabled = false;
         //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
 
     }
@@ -168,16 +174,74 @@ public class CharacterController : MonoBehaviour
             Vector3 currentScale = gameObject.transform.localScale;
             currentScale.y *= -1;
             gameObject.transform.localScale = currentScale;
-            chromaticab.enabled = true;
+            //chromaticab.enabled = true;
             //chromaticab.active = true;
             other.gameObject.SetActive(false);
-            
-            //hue.enabled = true;
-            //hueShift.value = -180f + Mathf.PingPong(Time.time * timeScale, 360f);
+            hue.enabled = true;
+            StartCoroutine(hueshift());
+           
+        }
 
-            //colorAdjustments.hueShift.SetValue(hueShift); 
-            
-            //hue.hueshift.value = Random.Range(hueShiftMin, hueShiftMax);
+        IEnumerator hueshift()
+        {
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+
+
+
+
         }
         if (other.gameObject.CompareTag("Reversecommands"))
         {
