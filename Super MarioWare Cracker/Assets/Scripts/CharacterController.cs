@@ -31,6 +31,10 @@ public class CharacterController : MonoBehaviour
     public EnemyMovement enemymovement;
     public EnemyMovement enemymovement2;
 
+    //public Volume hue;
+    //private float hueShiftMin = -180f;
+    //private float hueShiftMax = 180f;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -44,6 +48,8 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         chromaticab.enabled = false;
+        //hue.enabled = false;
+        //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
 
     }
 
@@ -165,6 +171,13 @@ public class CharacterController : MonoBehaviour
             chromaticab.enabled = true;
             //chromaticab.active = true;
             other.gameObject.SetActive(false);
+            
+            //hue.enabled = true;
+            //hueShift.value = -180f + Mathf.PingPong(Time.time * timeScale, 360f);
+
+            //colorAdjustments.hueShift.SetValue(hueShift); 
+            
+            //hue.hueshift.value = Random.Range(hueShiftMin, hueShiftMax);
         }
         if (other.gameObject.CompareTag("Reversecommands"))
         {
