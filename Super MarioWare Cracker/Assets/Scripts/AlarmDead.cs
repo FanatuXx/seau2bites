@@ -65,7 +65,7 @@ public class AlarmDead : MonoBehaviour
         
         yield return new WaitForSeconds(1f);
         _checking = false;
-        yield return new WaitForSeconds(20f);
-        //Destroy(gameObject);
+        yield return new WaitForSeconds(1f);
+        Destroy(gameObject);
     }
 }
