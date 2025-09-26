@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 222d9c05d1f35ab4b8475cc86f48a383
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2974661226061546297
+    second: animation tete0115_0
+  - first:
+      213: -271581578912130604
+    second: animation tete0115_1
+  - first:
+      213: -6018802590556150056
+    second: animation tete0115_2
+  - first:
+      213: 9059942463738221939
+    second: animation tete0115_3
+  - first:
+      213: 6067890373896948248
+    second: animation tete0115_4
+  - first:
+      213: 2503082069820077219
+    second: animation tete0115_5
+  - first:
+      213: -6815031399574387537
+    second: animation tete0115_6
+  - first:
+      213: 2541730800210029844
+    second: animation tete0115_7
+  - first:
+      213: 1838515824796021781
+    second: animation tete0115_8
+  - first:
+      213: -4316270795416797693
+    second: animation tete0115_9
+  - first:
+      213: 2663798875953838765
+    second: animation tete0115_10
+  - first:
+      213: -2254241875757031242
+    second: animation tete0115_11
+  - first:
+      213: 6572841729910179426
+    second: animation tete0115_12
+  - first:
+      213: -672270168150034989
+    second: animation tete0115_13
+  - first:
+      213: 8031653942546803492
+    second: animation tete0115_14
+  - first:
+      213: 1794673103417571828
+    second: animation tete0115_15
+  - first:
+      213: 5669462995199006193
+    second: animation tete0115_16
+  - first:
+      213: -6003448455168698214
+    second: animation tete0115_17
+  - first:
+      213: -8011327915568931954
+    second: animation tete0115_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation tete0115_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 563
+        width: 121
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933c68aef9e184920800000000000000
+      internalID: 2974661226061546297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 651
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9176d2ef52b3cf0800000000000000
+      internalID: -271581578912130604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 597
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d623b0deeae87ca0800000000000000
+      internalID: -6018802590556150056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 656
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375189c4ba16bbd70800000000000000
+      internalID: 9059942463738221939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 579
+        width: 62
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac320652a753450800000000000000
+      internalID: 6067890373896948248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 647
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4764f61ebbcb220800000000000000
+      internalID: 2503082069820077219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 340
+        width: 169
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44c37bc052c61a0800000000000000
+      internalID: -6815031399574387537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 559
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d203532ba064320800000000000000
+      internalID: 2541730800210029844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 556
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b6ead668b38910800000000000000
+      internalID: 1838515824796021781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 588
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef9c484968914c0800000000000000
+      internalID: -4316270795416797693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 339
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa305ad6f6b7f420800000000000000
+      internalID: 2663798875953838765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 507
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b021bd15f257b0e0800000000000000
+      internalID: -2254241875757031242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 486
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266092c9abc673b50800000000000000
+      internalID: 6572841729910179426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 531
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5335a08dd9ba6f0800000000000000
+      internalID: -672270168150034989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 334
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2e5c05ba267f60800000000000000
+      internalID: 8031653942546803492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 452
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f621dda5f7e810800000000000000
+      internalID: 1794673103417571828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 452
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51f085e8afdae40800000000000000
+      internalID: 5669462995199006193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 335
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985d4a00777faca0800000000000000
+      internalID: -6003448455168698214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation tete0115_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 276
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd755e4bb02d090800000000000000
+      internalID: -8011327915568931954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animation tete0115_0: 2974661226061546297
+      animation tete0115_1: -271581578912130604
+      animation tete0115_10: 2663798875953838765
+      animation tete0115_11: -2254241875757031242
+      animation tete0115_12: 6572841729910179426
+      animation tete0115_13: -672270168150034989
+      animation tete0115_14: 8031653942546803492
+      animation tete0115_15: 1794673103417571828
+      animation tete0115_16: 5669462995199006193
+      animation tete0115_17: -6003448455168698214
+      animation tete0115_18: -8011327915568931954
+      animation tete0115_2: -6018802590556150056
+      animation tete0115_3: 9059942463738221939
+      animation tete0115_4: 6067890373896948248
+      animation tete0115_5: 2503082069820077219
+      animation tete0115_6: -6815031399574387537
+      animation tete0115_7: 2541730800210029844
+      animation tete0115_8: 1838515824796021781
+      animation tete0115_9: -4316270795416797693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
