@@ -33,7 +33,7 @@ public class CharacterController : MonoBehaviour
     bool facingRight = true; //flip
 
     public EnemyMovement enemymovement;
-    public EnemyMovement enemymovement2;
+    //public EnemyMovement enemymovement2;
 
     //public Volume hue;
     //private float hueShiftMin = -180f;
@@ -47,8 +47,8 @@ public class CharacterController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        bloom.enabled = false;
-        chromaticab.enabled = false;
+        //bloom.enabled = false;
+        //chromaticab.enabled = false;
         //ts.SetActive(false);
         //ts2.SetActive(false);
 
@@ -57,6 +57,7 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         chromaticab.enabled = false;
+        bloom.enabled = false;
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
@@ -291,10 +292,10 @@ public class CharacterController : MonoBehaviour
         {
             //GameObject objectWithScript;
             //objectWithScript.GetComponent<enemymovement>().speed = 0.5f;
-            ////gameObject = GameObject.FindGameObjectWithTag("RectangleMortel");
-            ////gameObject.enemymovement.speed = 0.5f;
+            //gameObject = GameObject.FindGameObjectWithTag("RectangleMortel");
+            //gameObject.enemymovement.speed = 0.5f;
             enemymovement.speed = 0.5f;
-            enemymovement2.speed = 0.5f;
+            //enemymovement2.speed = 0.5f;
             ////bloom.enabled = true;
             other.gameObject.SetActive(false);
             ////StartCoroutine(ResetGrav());

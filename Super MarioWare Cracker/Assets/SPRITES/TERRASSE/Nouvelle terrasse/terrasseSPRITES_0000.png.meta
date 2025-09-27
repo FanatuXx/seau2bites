@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 8545ef903afb46c4ea7a54d23dd71a5e
+guid: 99bb500293fb584499b0dc542699bc09
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4457329243206406516
-    second: terrasseSPRITES_0001_0
-  - first:
-      213: 3329690075692770876
-    second: terrasseSPRITES_0001_1
+      213: 4596231363726972831
+    second: terrasseSPRITES_0000_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: terrasseSPRITES_0001_0
+      name: terrasseSPRITES_0000_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 494
-        height: 307
+        width: 726
+        height: 552
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8ea8b35ba26422c0800000000000000
-      internalID: -4457329243206406516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: terrasseSPRITES_0001_1
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 0
-        width: 96
-        height: 290
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c36afcd7b7f653e20800000000000000
-      internalID: 3329690075692770876
+      spriteID: f97947cc21819cf30800000000000000
+      internalID: 4596231363726972831
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      terrasseSPRITES_0001_0: -4457329243206406516
-      terrasseSPRITES_0001_1: 3329690075692770876
+      terrasseSPRITES_0000_0: 4596231363726972831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
