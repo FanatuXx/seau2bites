@@ -20,6 +20,8 @@ TagManager:
   - Finishfinal
   - Ground
   - Escargot
+  - Danger
+  - Danger2
   layers:
   - Default
   - TransparentFX

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class TroncheSpawner : MonoBehaviour
@@ -31,6 +32,13 @@ public class TroncheSpawner : MonoBehaviour
             GameObject _Instantiate = Instantiate(Tronches[randEnemy], spawnPoints[randSpawnPoint].position, transform.rotation);
             _Instantiate.GetComponent<AlarmDead>().Launch();
             SetTimeUntilSpawn();
+            StartCoroutine(DestroySpawn());
+        }
+
+        IEnumerator DestroySpawn ()
+        {
+            yield return new WaitForSeconds(6f);
+            Destroy(gameObject);
         }
     }
     private void SetTimeUntilSpawn()

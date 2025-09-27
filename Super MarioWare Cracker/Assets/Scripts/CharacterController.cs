@@ -39,6 +39,9 @@ public class CharacterController : MonoBehaviour
     //private float hueShiftMin = -180f;
     //private float hueShiftMax = 180f;
 
+    public GameObject ts;
+    public GameObject ts2;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -46,6 +49,8 @@ public class CharacterController : MonoBehaviour
     {
         bloom.enabled = false;
         chromaticab.enabled = false;
+        ts.SetActive(false);
+        ts2.SetActive(false);
 
     }
     void Start()
@@ -55,6 +60,7 @@ public class CharacterController : MonoBehaviour
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
+        ts2.SetActive(false);
         //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
 
     }
@@ -253,6 +259,17 @@ public class CharacterController : MonoBehaviour
         {
             isHidden = true;
         }
+
+        if (other.gameObject.CompareTag("Danger"))
+        {
+            ts.SetActive(true);
+        }
+
+        if (other.gameObject.CompareTag("Danger2"))
+        {
+            ts2.SetActive(true);
+        }
+
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
         { 
