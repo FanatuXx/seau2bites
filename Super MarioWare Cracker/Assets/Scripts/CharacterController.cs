@@ -39,7 +39,7 @@ public class CharacterController : MonoBehaviour
     //private float hueShiftMin = -180f;
     //private float hueShiftMax = 180f;
 
-    public GameObject ts;
+    //public GameObject ts;
     //public GameObject ts2;
 
 
@@ -49,7 +49,7 @@ public class CharacterController : MonoBehaviour
     {
         //bloom.enabled = false;
         //chromaticab.enabled = false;
-        ts.SetActive(false);
+        //ts.SetActive(false);
         //ts2.SetActive(false);
 
     }
@@ -189,67 +189,6 @@ public class CharacterController : MonoBehaviour
            
         }
 
-        IEnumerator hueshift()
-        {
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue.enabled = false;
-            hue2.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue2.enabled = false;
-            hue3.enabled = true;
-            yield return new WaitForSeconds(1);
-            hue3.enabled = false;
-            hue.enabled = true;
-
-
-
-
-        }
         if (other.gameObject.CompareTag("Reversecommands"))
         {
             this.isRevesed = !this.isRevesed;
@@ -261,10 +200,10 @@ public class CharacterController : MonoBehaviour
             isHidden = true;
         }
 
-        if (other.gameObject.CompareTag("Danger"))
-        {
-            ts.SetActive(true);
-        }
+        //if (other.gameObject.CompareTag("Danger"))
+        //{
+        //    ts.SetActive(true);
+        //}
 
         //if (other.gameObject.CompareTag("Danger2"))
         //{
@@ -277,16 +216,10 @@ public class CharacterController : MonoBehaviour
             rb.gravityScale = 0.5f;
             bloom.enabled = true;
             other.gameObject.SetActive(false);
-            StartCoroutine(ResetGrav());
+            StartCoroutine(ResetGrav(other));
         }
 
-        IEnumerator ResetGrav()
-        {
-            yield return new WaitForSeconds(3);
-            rb.gravityScale = V;
-            bloom.enabled = false;
-            other.gameObject.SetActive(true);
-        }
+       
 
         if (other.gameObject.CompareTag("Escargot"))
         {
@@ -300,6 +233,32 @@ public class CharacterController : MonoBehaviour
             other.gameObject.SetActive(false);
             ////StartCoroutine(ResetGrav());
         }
+    }
+    private IEnumerator ResetGrav(Collider2D other)
+    {
+        yield return new WaitForSeconds(3);
+        rb.gravityScale = V;
+        bloom.enabled = false;
+        other.gameObject.SetActive(true);
+    }
+
+
+    private IEnumerator hueshift()
+    {
+        while (rb.gravityScale < 0)
+        {
+            yield return new WaitForSeconds(1);
+            hue.enabled = false;
+            hue2.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue2.enabled = false;
+            hue3.enabled = true;
+            yield return new WaitForSeconds(1);
+            hue3.enabled = false;
+            hue.enabled = true;
+        }
+
+
     }
 
     private void OnTriggerExit2D(Collider2D other)
