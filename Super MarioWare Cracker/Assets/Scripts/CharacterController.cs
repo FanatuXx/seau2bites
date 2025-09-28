@@ -1,13 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.SocialPlatforms;
 
 public class CharacterController : MonoBehaviour
 {
+    // public InputActionReference move; FOR THE NEW INPUT SYSTEM
+    // public InputActionReference jump; FOR THE NEW INPUT SYSTEM
+
     private float V = 1.5f;
     private Rigidbody2D rb;
     public float speed;
@@ -96,11 +101,12 @@ public class CharacterController : MonoBehaviour
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
+        //moveInput = move.action.ReadValue<Vector2>().x; FOR THE NEW INPUT SYSTEM
+        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
         //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
         //isGrounded = isGrounded1;
-
 
         if (moveInput > 0 && !facingRight) //flip
 
@@ -113,6 +119,7 @@ public class CharacterController : MonoBehaviour
             Flip();
         }
 
+        
         if (!isGrounded)
         {
             this.isJumping = true;
@@ -125,7 +132,6 @@ public class CharacterController : MonoBehaviour
                 animator.SetBool("IsJumping", false);
                 this.isJumping = false;
             }
-
         }
 
         if (rb.gravityScale <= 0)
@@ -142,7 +148,52 @@ public class CharacterController : MonoBehaviour
         animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
     }
 
-   
+    // FOR THE NEW INPUT SYSTEM
+    //private void OnEnable()
+    //{
+    //    jump.action.started += Jump;
+    //}
+    //private void OnDisable()
+    //{
+    //    jump.action.started -= Jump;
+    //}
+
+    //private void Jump (InputAction.CallbackContext obj)
+    //{
+    //    Vector2 jumpDir = Vector2.up;
+    //    isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+    //    //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
+    //    //isGrounded = isGrounded1;
+
+    //    if (!isGrounded)
+    //    {
+    //        this.isJumping = true;
+    //    }
+
+    //    if (this.isJumping)
+    //    {
+    //        if (isGrounded)
+    //        {
+    //            animator.SetBool("IsJumping", false);
+    //            this.isJumping = false;
+    //        }
+    //    }
+
+    //    if (rb.gravityScale <= 0)
+    //    {
+    //        jumpDir = Vector2.down;
+    //    }
+    //    if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
+    //    {
+    //        rb.linearVelocity = jumpDir * jumpForce;
+    //        animator.SetBool("IsJumping", true);
+    //    }
+
+
+    //    animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+    //}
+
+
     void FixedUpdate()
     {
         float velocity;
@@ -158,18 +209,6 @@ public class CharacterController : MonoBehaviour
         }
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
-
-        
-
-       
-
-       
-       
-       
-
-
-
-
     }
 
 
