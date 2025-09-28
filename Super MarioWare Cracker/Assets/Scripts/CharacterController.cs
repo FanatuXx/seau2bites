@@ -39,7 +39,7 @@ public class CharacterController : MonoBehaviour
     //private float hueShiftMin = -180f;
     //private float hueShiftMax = 180f;
 
-    //public GameObject ts;
+    public GameObject ts;
     //public GameObject ts2;
 
 
@@ -49,7 +49,7 @@ public class CharacterController : MonoBehaviour
     {
         //bloom.enabled = false;
         //chromaticab.enabled = false;
-        //ts.SetActive(false);
+        ts.SetActive(false);
         //ts2.SetActive(false);
 
     }
@@ -261,10 +261,10 @@ public class CharacterController : MonoBehaviour
             isHidden = true;
         }
 
-        //if (other.gameObject.CompareTag("Danger"))
-        //{
-        //    ts.SetActive(true);
-        //}
+        if (other.gameObject.CompareTag("Danger"))
+        {
+            ts.SetActive(true);
+        }
 
         //if (other.gameObject.CompareTag("Danger2"))
         //{

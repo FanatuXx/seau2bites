@@ -3,46 +3,69 @@ using UnityEngine;
 
 public class TroncheSpawner : MonoBehaviour
 {
-    public Transform[] spawnPoints;
-    public GameObject[] Tronches;
+    ////public Transform[] spawnPoints;
+    //public GameObject[] Tronches;
 
-    [SerializeField]
-    private float _minimumSpawnTime;
+    //public Vector3 spawnPosition;
 
-    [SerializeField]
-    private float _maximumSpawnTime;
+    //[SerializeField]
+    //private float _minimumSpawnTime;
 
-    private float _timeUntilSpawn;
+    //[SerializeField]
+    //private float _maximumSpawnTime;
 
-    void Awake()
+    //private float _timeUntilSpawn;
+
+    //void Awake()
+    //{
+    //    SetTimeUntilSpawn();
+    //}
+
+    //void Update()
+    //{
+    //    _timeUntilSpawn -= Time.deltaTime;
+
+    //    if (_timeUntilSpawn <= 0)
+
+    //    {
+    //        int randEnemy = Random.Range(0, Tronches.Length);
+    //        //int randSpawnPoint = Random.Range(0, spawnPoints.Length);
+
+    //        //GameObject _Instantiate = Instantiate(Tronches[randEnemy], spawnPoints[randSpawnPoint].position, transform.rotation);
+    //        GameObject _Instantiate = Instantiate(Tronches[randEnemy], spawnPosition, Quaternion.identity);
+    //        _Instantiate.GetComponent<AlarmDead>().Launch();
+    //        SetTimeUntilSpawn();
+    //        StartCoroutine(DestroySpawn());
+    //    }
+
+    //    IEnumerator DestroySpawn ()
+    //    {
+    //        yield return new WaitForSeconds(6f);
+    //        Destroy(gameObject);
+    //    }
+    //}
+    //private void SetTimeUntilSpawn()
+    //{
+    //    _timeUntilSpawn = Random.Range(_minimumSpawnTime, _maximumSpawnTime);
+    //}
+
+    public GameObject [] Tronches;
+    //public Vector3 spawnPosition;
+    public float spawnRate = 2.0f; // How often to spawn an object
+    public float destroyDelay = 5.0f; // How long an object lives
+
+    void Start()
     {
-        SetTimeUntilSpawn();
+        InvokeRepeating("SpawnThenDestroy", 1f, spawnRate); // Call SpawnThenDestroy repeatedly
     }
 
-    void Update()
+    void SpawnThenDestroy()
     {
-        _timeUntilSpawn -= Time.deltaTime;
+        // Instantiate the object
+        int randEnemy = Random.Range(0, Tronches.Length); 
+        GameObject spawnedObject = Instantiate(Tronches[randEnemy], transform.position, Quaternion.identity);
 
-        if (_timeUntilSpawn <= 0)
-
-        {
-            int randEnemy = Random.Range(0, Tronches.Length);
-            int randSpawnPoint = Random.Range(0, spawnPoints.Length);
-
-            GameObject _Instantiate = Instantiate(Tronches[randEnemy], spawnPoints[randSpawnPoint].position, transform.rotation);
-            _Instantiate.GetComponent<AlarmDead>().Launch();
-            SetTimeUntilSpawn();
-            StartCoroutine(DestroySpawn());
-        }
-
-        IEnumerator DestroySpawn ()
-        {
-            yield return new WaitForSeconds(6f);
-            Destroy(gameObject);
-        }
-    }
-    private void SetTimeUntilSpawn()
-    {
-        _timeUntilSpawn = Random.Range(_minimumSpawnTime, _maximumSpawnTime);
+        // Schedule the object for destruction
+        Destroy(spawnedObject, destroyDelay);
     }
 }
