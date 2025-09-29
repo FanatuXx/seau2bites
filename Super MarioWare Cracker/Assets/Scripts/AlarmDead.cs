@@ -39,15 +39,7 @@ public class AlarmDead : MonoBehaviour
 
         }
 
-        IEnumerator ResetGame()
-        {
-
-          //videoPlayer.Play();
-          yield return new WaitForSeconds(10f);
-          SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
-
-        }
+     
 
 
         
@@ -67,5 +59,15 @@ public class AlarmDead : MonoBehaviour
         _checking = false;
         yield return new WaitForSeconds(1f);
         Destroy(gameObject);
+    }
+
+    IEnumerator ResetGame()
+    {
+
+        videoPlayer.Play();
+        yield return new WaitForSeconds(10f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
+
     }
 }

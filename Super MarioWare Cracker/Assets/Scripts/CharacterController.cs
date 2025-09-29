@@ -44,8 +44,8 @@ public class CharacterController : MonoBehaviour
     //private float hueShiftMin = -180f;
     //private float hueShiftMax = 180f;
 
-    //public GameObject ts;
-    //public GameObject ts2;
+    public GameObject ts;
+    public GameObject ts2;
 
 
 
@@ -54,8 +54,8 @@ public class CharacterController : MonoBehaviour
     {
         //bloom.enabled = false;
         //chromaticab.enabled = false;
-        //ts.SetActive(false);
-        //ts2.SetActive(false);
+        ts.SetActive(false);
+        ts2.SetActive(false);
 
     }
     void Start()
@@ -66,6 +66,7 @@ public class CharacterController : MonoBehaviour
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
+        //ts.SetActive(false);
         //ts2.SetActive(false);
         //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
 
@@ -78,7 +79,7 @@ public class CharacterController : MonoBehaviour
     //    {
     //        isGrounded = true;
     //    }
-        
+
     //}
 
 
@@ -89,7 +90,7 @@ public class CharacterController : MonoBehaviour
 
     //        isGrounded = false;
 
-                  
+
     //    }
 
 
@@ -97,7 +98,7 @@ public class CharacterController : MonoBehaviour
 
 
 
-// Update is called once per frame
+    // Update is called once per frame
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -239,15 +240,15 @@ public class CharacterController : MonoBehaviour
             isHidden = true;
         }
 
-        //if (other.gameObject.CompareTag("Danger"))
-        //{
-        //    ts.SetActive(true);
-        //}
+        if (other.gameObject.CompareTag("Danger"))
+        {
+            ts.SetActive(true);
+        }
 
-        //if (other.gameObject.CompareTag("Danger2"))
-        //{
-        //    ts2.SetActive(true);
-        //}
+        if (other.gameObject.CompareTag("Danger2"))
+        {
+            ts2.SetActive(true);
+        }
 
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
