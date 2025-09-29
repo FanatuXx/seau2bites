@@ -321,6 +321,14 @@ public class CharacterController : MonoBehaviour
 
     #endregion
 
-    
+    private void OnDrawGizmos()
+    {
+        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+        Color color = isGrounded ? Color.green : Color.red;
+        Gizmos.color = color;
+        Gizmos.DrawSphere(feetPos.position, checkRadius);
+    }
+
+
 
 }

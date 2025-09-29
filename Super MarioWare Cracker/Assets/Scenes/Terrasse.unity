@@ -718,7 +718,7 @@ PolygonCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 259528189}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3095,6 +3095,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 602417087501567204, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: e454424b8912b5c40917a6e39f39069c, type: 2}
     - target: {fileID: 1641004991733291392, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: videoPlayer
       value: 
@@ -3121,7 +3125,7 @@ PrefabInstance:
       objectReference: {fileID: 1266484047}
     - target: {fileID: 5320289198812414972, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: jumpForce
-      value: 7.5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5320289198812414972, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: isGrounded
