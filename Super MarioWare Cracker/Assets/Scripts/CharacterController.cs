@@ -58,16 +58,17 @@ public class CharacterController : MonoBehaviour
         ts.SetActive(false);
         ts2.SetActive(false);
         ts3.SetActive(false);
-
-    }
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
         chromaticab.enabled = false;
         bloom.enabled = false;
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
+
+    }
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+      
         //ts.SetActive(false);
         //ts2.SetActive(false);
         //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
@@ -321,6 +322,7 @@ public class CharacterController : MonoBehaviour
 
         if (other.gameObject.CompareTag("Danger2"))
         {
+            Debug.Log("trigger exit");
             ts2.SetActive(false);
         }
         if (other.gameObject.CompareTag("Danger3"))

@@ -15356,6 +15356,9 @@ MonoBehaviour:
   jumpForce: 15
   chromaticab: {fileID: 1422092695}
   bloom: {fileID: 1422092695}
+  hue: {fileID: 1422092695}
+  hue2: {fileID: 1422092695}
+  hue3: {fileID: 1422092695}
   isGrounded: 0
   feetPos: {fileID: 1921443572}
   checkRadius: 0.35
@@ -15365,7 +15368,9 @@ MonoBehaviour:
   isHidden: 0
   animator: {fileID: 1058957003}
   enemymovement: {fileID: 0}
-  enemymovement2: {fileID: 0}
+  ts: {fileID: 4901724198667477903, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
+  ts2: {fileID: 4901724198667477903, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
+  ts3: {fileID: 4901724198667477903, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
 --- !u!95 &1058957003
 Animator:
   serializedVersion: 7
