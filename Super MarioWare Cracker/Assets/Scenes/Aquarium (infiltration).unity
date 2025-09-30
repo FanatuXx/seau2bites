@@ -4859,11 +4859,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5283110954079911253, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: _maximumSpawnTime
-      value: 4
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5283110954079911253, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: _minimumSpawnTime
-      value: 4
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5283110954079911253, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: Tronches.Array.size
