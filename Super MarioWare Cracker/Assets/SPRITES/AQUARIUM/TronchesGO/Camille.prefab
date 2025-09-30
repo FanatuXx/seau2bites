@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5845950635746430891}
   - component: {fileID: 3835403507992847949}
+  - component: {fileID: -6258398446350760211}
+  - component: {fileID: 5085492508335913576}
   m_Layer: 0
   m_Name: Camille
   m_TagString: Untagged
@@ -55,6 +57,53 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-6258398446350760211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88918440074144310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  videoPlayer: {fileID: 9185181466078526587, guid: bc6063d0613aa92418930a1810b3f2b9, type: 3}
+--- !u!328 &5085492508335913576
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88918440074144310}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: c03187c54f8ed8c4f853f46984393381, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: <noninit>
+  m_RenderMode: 1
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources: []
+  m_DirectAudioVolumes: []
+  m_Url: 
+  m_EnabledAudioTracks: 
+  m_DirectAudioMutes: 
+  m_ControlledAudioTrackCount: 0
+  m_PlayOnAwake: 0
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &2614642910906527708
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 8464948797870663806}
+  videoPlayer: {fileID: 0}
 --- !u!328 &8464948797870663806
 VideoPlayer:
   m_ObjectHideFlags: 0

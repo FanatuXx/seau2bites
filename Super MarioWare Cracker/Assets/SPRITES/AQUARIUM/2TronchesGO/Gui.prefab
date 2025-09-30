@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 428277602564031433}
   - component: {fileID: 1527466797267711559}
+  - component: {fileID: 5364621515712217455}
   m_Layer: 0
   m_Name: Gui
   m_TagString: Untagged
@@ -55,6 +56,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5364621515712217455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303753030888509734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6563045032653093227
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 2800722026617629904}
 --- !u!328 &2800722026617629904
 VideoPlayer:
   m_ObjectHideFlags: 0

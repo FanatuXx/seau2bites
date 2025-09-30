@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7028752808075930908}
   - component: {fileID: 8778583762231884565}
+  - component: {fileID: 3577973562247357507}
   m_Layer: 0
   m_Name: LaurenceF
   m_TagString: Untagged
@@ -55,6 +56,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3577973562247357507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3990734002360805251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6670563648969069958
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 7597720688359221839}
 --- !u!328 &7597720688359221839
 VideoPlayer:
   m_ObjectHideFlags: 0

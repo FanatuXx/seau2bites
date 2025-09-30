@@ -98,7 +98,7 @@ public class CharacterController : MonoBehaviour
 
 
 
-    // Update is called once per frame
+   
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -307,6 +307,17 @@ public class CharacterController : MonoBehaviour
         {
             isHidden = false;
         }
+
+        if (other.gameObject.CompareTag("Danger"))
+        {
+            ts.SetActive(false);
+        }
+
+        if (other.gameObject.CompareTag("Danger2"))
+        {
+            ts2.SetActive(false);
+        }
+
     }
 
     #region Flip

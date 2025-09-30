@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8995008551308847600}
   - component: {fileID: 1831791718095817959}
+  - component: {fileID: -1868813770979138479}
   m_Layer: 0
   m_Name: Hugo
   m_TagString: Untagged
@@ -55,6 +56,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-1868813770979138479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8439030844298352255}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8502426511690863914
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 6317086031685605607}
 --- !u!328 &6317086031685605607
 VideoPlayer:
   m_ObjectHideFlags: 0

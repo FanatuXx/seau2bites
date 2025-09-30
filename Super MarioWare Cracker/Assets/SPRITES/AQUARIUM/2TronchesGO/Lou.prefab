@@ -101,7 +101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 6053462832974965706}
 --- !u!328 &6053462832974965706
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -146,6 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5162639668127624218}
   - component: {fileID: 5538675095848099040}
+  - component: {fileID: 4605149049766340577}
   m_Layer: 0
   m_Name: Lou
   m_TagString: Untagged
@@ -191,3 +191,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4605149049766340577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497008857154661067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

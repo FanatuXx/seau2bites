@@ -16,7 +16,9 @@ public class AlarmDead : MonoBehaviour
     bool _checking = false;
     CharacterController _cc;
     //public VideoPlayer videoPlayer;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+
+   
     //private void Start()
     //{
     //    var videoPlayer = GetComponent<VideoPlayer>();
@@ -32,6 +34,7 @@ public class AlarmDead : MonoBehaviour
             if (!_cc.isHidden)
             {
 
+                //var videoPlayer = GetComponent<VideoPlayer>(); 
                 //videoPlayer.Play();
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 //StartCoroutine(ResetGame());
@@ -40,7 +43,6 @@ public class AlarmDead : MonoBehaviour
         }
 
      
-
 
         
     }
@@ -52,19 +54,19 @@ public class AlarmDead : MonoBehaviour
 
     IEnumerator AnimKill()
     {
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(4f);
         _checking = true;
         
         yield return new WaitForSeconds(1f);
         _checking = false;
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(2f);
         Destroy(gameObject);
     }
 
     //IEnumerator ResetGame()
     //{
 
-    //    videoPlayer.Play();
+    //    //videoPlayer.Play();
     //    yield return new WaitForSeconds(10f);
     //    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 

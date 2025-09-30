@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4650924615116434642}
   - component: {fileID: 1051783056857803200}
+  - component: {fileID: -8987824318416101292}
   m_Layer: 0
   m_Name: Cabane
   m_TagString: Untagged
@@ -55,6 +56,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-8987824318416101292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138207946846063925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7924479129318440618
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 1932093240174920534}
 --- !u!328 &1932093240174920534
 VideoPlayer:
   m_ObjectHideFlags: 0
