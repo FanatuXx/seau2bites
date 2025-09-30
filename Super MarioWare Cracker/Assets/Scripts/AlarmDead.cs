@@ -34,9 +34,9 @@ public class AlarmDead : MonoBehaviour
             if (!_cc.isHidden)
             {
 
-                //var videoPlayer = GetComponent<VideoPlayer>(); 
-                //videoPlayer.Play();
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                var videoPlayer = GetComponent<VideoPlayer>(); 
+                videoPlayer.Play();
+                //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 //StartCoroutine(ResetGame());
             }
 
@@ -59,7 +59,7 @@ public class AlarmDead : MonoBehaviour
         
         yield return new WaitForSeconds(1f);
         _checking = false;
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(20f);
         Destroy(gameObject);
     }
 
