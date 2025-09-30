@@ -46,6 +46,7 @@ public class CharacterController : MonoBehaviour
 
     public GameObject ts;
     public GameObject ts2;
+    public GameObject ts3;
 
 
 
@@ -56,6 +57,7 @@ public class CharacterController : MonoBehaviour
         //chromaticab.enabled = false;
         ts.SetActive(false);
         ts2.SetActive(false);
+        ts3.SetActive(false);
 
     }
     void Start()
@@ -249,6 +251,10 @@ public class CharacterController : MonoBehaviour
         {
             ts2.SetActive(true);
         }
+        if (other.gameObject.CompareTag("Danger3"))
+        {
+            ts3.SetActive(true);
+        }
 
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
@@ -316,6 +322,10 @@ public class CharacterController : MonoBehaviour
         if (other.gameObject.CompareTag("Danger2"))
         {
             ts2.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger3"))
+        {
+            ts3.SetActive(false);
         }
 
     }

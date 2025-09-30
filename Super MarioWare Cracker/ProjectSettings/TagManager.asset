@@ -22,6 +22,7 @@ TagManager:
   - Escargot
   - Danger
   - Danger2
+  - Danger3
   layers:
   - Default
   - TransparentFX
