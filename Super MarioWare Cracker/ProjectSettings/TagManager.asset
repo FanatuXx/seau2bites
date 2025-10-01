@@ -23,6 +23,7 @@ TagManager:
   - Danger
   - Danger2
   - Danger3
+  - Danger4
   layers:
   - Default
   - TransparentFX
