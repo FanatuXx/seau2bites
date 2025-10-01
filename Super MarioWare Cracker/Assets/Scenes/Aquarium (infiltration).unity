@@ -3334,6 +3334,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2191017650318179002, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1115611184}
+    - targetCorrespondingSourceObject: {fileID: 2191017650318179002, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1115611185}
   m_SourcePrefab: {fileID: 100100000, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
 --- !u!1 &481134856
 GameObject:
@@ -4389,6 +4392,11 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.93, y: 4.97}
   m_EdgeRadius: 0
+--- !u!4 &702277736 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5993582061222265629, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+  m_PrefabInstance: {fileID: 411150519}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &735319108
 GameObject:
   m_ObjectHideFlags: 0
@@ -4934,6 +4942,37 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &1115611185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410130985}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a5c1f013b367244ba828f0e9ccc826, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  jumpForce: 9
+  chromaticab: {fileID: 1015236413}
+  bloom: {fileID: 1015236413}
+  hue: {fileID: 1015236413}
+  hue2: {fileID: 1015236413}
+  hue3: {fileID: 1015236413}
+  isGrounded: 0
+  feetPos: {fileID: 702277736}
+  checkRadius: 0.3
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 64
+  isHidden: 0
+  animator: {fileID: 1115611166}
+  enemymovement: {fileID: 0}
+  ts: {fileID: 527048703}
+  ts2: {fileID: 1600680540}
+  ts3: {fileID: 1471870324}
 --- !u!4 &1145597617 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1696402353574442578, guid: bc6063d0613aa92418930a1810b3f2b9, type: 3}
@@ -7593,11 +7632,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -46.730038
+      value: -46.727585
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.8169065
+      value: -4.816937
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.z

@@ -10,8 +10,6 @@ using UnityEngine.SocialPlatforms;
 
 public class CharacterController : MonoBehaviour
 {
-    // public InputActionReference move; FOR THE NEW INPUT SYSTEM
-    // public InputActionReference jump; FOR THE NEW INPUT SYSTEM
 
     private float V = 1.5f;
     private Rigidbody2D rb;
