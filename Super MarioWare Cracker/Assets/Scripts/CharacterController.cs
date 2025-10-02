@@ -47,6 +47,11 @@ public class CharacterController : MonoBehaviour
     public GameObject ts3;
     public GameObject ts4;
 
+    public AudioSource pill;
+    //public AudioSource jump;
+    //public AudioSource walk;
+
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -106,7 +111,7 @@ public class CharacterController : MonoBehaviour
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         //moveInput = move.action.ReadValue<Vector2>().x; FOR THE NEW INPUT SYSTEM
-        isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+        //isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
         //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
@@ -122,6 +127,12 @@ public class CharacterController : MonoBehaviour
         {
             Flip();
         }
+        //if (moveInput > 0)
+        //{
+        //    walk.Play();
+
+        //}
+
 
         
         if (!isGrounded)
@@ -133,8 +144,9 @@ public class CharacterController : MonoBehaviour
         {
             if (isGrounded)
             {
-                animator.SetBool("IsJumping", false);
+                
                 this.isJumping = false;
+                animator.SetBool("IsJumping", false);
             }
         }
 
@@ -144,8 +156,10 @@ public class CharacterController : MonoBehaviour
         }
         if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
+            
             rb.linearVelocity = jumpDir * jumpForce;
             animator.SetBool("IsJumping", true);
+            //jump.Play();
         }
 
 
@@ -263,10 +277,12 @@ public class CharacterController : MonoBehaviour
 
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
-        { 
+        {
+            
             rb.gravityScale = 0.5f;
             bloom.enabled = true;
             other.gameObject.SetActive(false);
+            pill.Play();
             StartCoroutine(ResetGrav(other));
         }
 
