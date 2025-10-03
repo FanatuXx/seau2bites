@@ -420,7 +420,7 @@ public class CharacterController : MonoBehaviour
         if (other.gameObject.CompareTag("Danger2"))
         {
             Debug.Log("trigger exit");
-            ts2.SetActive(false);
+            ts2.gameObject.SetActive(false);
         }
         if (other.gameObject.CompareTag("Danger3"))
         {
