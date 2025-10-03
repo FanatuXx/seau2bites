@@ -48,6 +48,17 @@ public class CharacterController : MonoBehaviour
     public GameObject ts4;
     public GameObject ts5;
     public GameObject ts6;
+    public GameObject ts7;
+    public GameObject ts8;
+    public GameObject ts9;
+    public GameObject ts10;
+    public GameObject ts11;
+    public GameObject ts12;
+    public GameObject ts13;
+    public GameObject ts14;
+    public GameObject ts15;
+    public GameObject ts16;
+    public GameObject ts17;
 
     public AudioSource pill;
     //public AudioSource jump;
@@ -67,6 +78,17 @@ public class CharacterController : MonoBehaviour
         ts4.SetActive(false);
         ts5.SetActive(false);
         ts6.SetActive(false);
+        ts7.SetActive(false);
+        ts8.SetActive(false);
+        ts9.SetActive(false);
+        ts10.SetActive(false);
+        ts11.SetActive(false);
+        ts12.SetActive(false);
+        ts13.SetActive(false);
+        ts14.SetActive(false); 
+        ts15.SetActive(false);
+        ts16.SetActive(false);
+        ts17.SetActive(false);
         chromaticab.enabled = false;
         bloom.enabled = false;
         hue.enabled = false;
@@ -286,8 +308,50 @@ public class CharacterController : MonoBehaviour
         {
             ts6.SetActive(true);
         }
-
-
+        if (other.gameObject.CompareTag("Danger7"))
+        {
+            ts7.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger8"))
+        {
+            ts8.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger9"))
+        {
+            ts9.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger10"))
+        {
+            ts10.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger11"))
+        {
+            ts11.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger12"))
+        {
+            ts12.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger13"))
+        {
+            ts13.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger14"))
+        {
+            ts14.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger15"))
+        {
+            ts15.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger16"))
+        {
+            ts16.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger17"))
+        {
+            ts17.SetActive(true);
+        }
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
         {
@@ -374,7 +438,50 @@ public class CharacterController : MonoBehaviour
         {
             ts6.SetActive(false);
         }
-
+        if (other.gameObject.CompareTag("Danger7"))
+        {
+            ts7.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger8"))
+        {
+            ts8.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger9"))
+        {
+            ts9.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger10"))
+        {
+            ts10.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger11"))
+        {
+            ts11.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger12"))
+        {
+            ts12.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger13"))
+        {
+            ts13.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger14"))
+        {
+            ts14.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger15"))
+        {
+            ts15.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger16"))
+        {
+            ts16.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger17"))
+        {
+            ts17.SetActive(false);
+        }
     }
 
     #region Flip
