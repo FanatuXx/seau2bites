@@ -46,6 +46,8 @@ public class CharacterController : MonoBehaviour
     public GameObject ts2;
     public GameObject ts3;
     public GameObject ts4;
+    public GameObject ts5;
+    public GameObject ts6;
 
     public AudioSource pill;
     //public AudioSource jump;
@@ -63,6 +65,8 @@ public class CharacterController : MonoBehaviour
         ts2.SetActive(false);
         ts3.SetActive(false);
         ts4.SetActive(false);
+        ts5.SetActive(false);
+        ts6.SetActive(false);
         chromaticab.enabled = false;
         bloom.enabled = false;
         hue.enabled = false;
@@ -274,6 +278,15 @@ public class CharacterController : MonoBehaviour
         {
             ts4.SetActive(true);
         }
+        if (other.gameObject.CompareTag("Danger5"))
+        {
+            ts5.SetActive(true);
+        }
+        if (other.gameObject.CompareTag("Danger6"))
+        {
+            ts6.SetActive(true);
+        }
+
 
 
         if (other.gameObject.CompareTag("SpaceMonkey"))
@@ -352,6 +365,14 @@ public class CharacterController : MonoBehaviour
         if (other.gameObject.CompareTag("Danger4"))
         {
             ts4.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger5"))
+        {
+            ts5.SetActive(false);
+        }
+        if (other.gameObject.CompareTag("Danger6"))
+        {
+            ts6.SetActive(false);
         }
 
     }
