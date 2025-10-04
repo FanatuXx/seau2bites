@@ -7,6 +7,7 @@ public class NewPlayerController : MonoBehaviour
 {
     private PlayerInputActions playerInputActions;
     private InputAction move;
+    public InputActionReference jump;
 
     private Rigidbody2D rb;
     public float speed;
@@ -55,15 +56,32 @@ public class NewPlayerController : MonoBehaviour
         Debug.Log("Jump!");
     }
 
+
+    private void Update()
+    {
+      /*  if (!isGrounded)
+        {
+            this.isJumping = true;
+        }
+
+        if (this.isJumping)
+        {
+            if (isGrounded)
+            {
+
+                this.isJumping = false;
+                animator.SetBool("IsJumping", false);
+            }
+        }
+      */
+
+        
+    }
     private void FixedUpdate()
     {
         Debug.Log("Movement values " + move.ReadValue<Vector2>());
-        rb.linearVelocity = new Vector2(move.ReadValue<Vector2>().x * speed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(move.ReadValue<Vector2>().x * speed, rb.linearVelocity.y); //Movements latéraux
 
-        //Vector2 moveInput = move.ReadValue<Vector2>();
-
-
-        //rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(jump.action.ReadValue<float>() * jumpForce, rb.linearVelocity.y); //Jump
     }
-
 }

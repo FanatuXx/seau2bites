@@ -16299,6 +16299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6a5c1f013b367244ba828f0e9ccc826, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jump: {fileID: 0}
   speed: 9
   jumpForce: 5
   isGrounded: 0
@@ -16321,7 +16322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Actions: {fileID: -944628639613478452, guid: dba36a476760550479535671c57a3c67, type: 3}
-  m_NotificationBehavior: 2
+  m_NotificationBehavior: 3
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
     m_PersistentCalls:
