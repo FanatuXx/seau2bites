@@ -37,7 +37,7 @@ public class Rectanglemortel : MonoBehaviour
         {
             //VideoPlayer.Play();
            
-            yield return new WaitForSeconds(10f);
+            yield return new WaitForSeconds(12f);
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
