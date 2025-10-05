@@ -26,6 +26,7 @@ public class CharacterController : MonoBehaviour
     public Volume saturation;
 
 
+
     public bool isGrounded;
     public Transform feetPos;
     public float checkRadius;
@@ -90,7 +91,7 @@ public class CharacterController : MonoBehaviour
         ts15.SetActive(false);
         ts16.SetActive(false);
         ts17.SetActive(false);
-        chromaticab.enabled = false;
+        //chromaticab.enabled = false;
         bloom.enabled = false;
         hue.enabled = false;
         hue2.enabled = false;
