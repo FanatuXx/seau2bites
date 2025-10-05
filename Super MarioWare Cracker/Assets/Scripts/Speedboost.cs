@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.Rendering;
-using Unity.Cinemachine;
 
 public class Speedboost : MonoBehaviour
 {
@@ -30,11 +29,10 @@ public class Speedboost : MonoBehaviour
             other.gameObject.SetActive(false);
         }
     }
-    IEnumerator ResetSpeed(Collider2D other)
+    IEnumerator ResetSpeed()
     {
         yield return new WaitForSeconds(m_duration);
         chromaticab.enabled = false;
-        other.gameObject.SetActive(true);
         gameObject.GetComponent<CharacterController>().speed = _tempSpeed;
     }
 
