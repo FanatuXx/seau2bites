@@ -23,6 +23,7 @@ public class CharacterController : MonoBehaviour
     public Volume hue;
     public Volume hue2;
     public Volume hue3;
+    public Volume saturation;
 
 
     public bool isGrounded;
@@ -94,6 +95,7 @@ public class CharacterController : MonoBehaviour
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
+        saturation.enabled = false;
 
     }
     void Start()
@@ -246,6 +248,7 @@ public class CharacterController : MonoBehaviour
         if (this.isRevesed)
         {
             velocity = moveInput * speed * -1;
+            //this.facingRight = !this.facingRight;
         }
         else
         {
@@ -274,8 +277,12 @@ public class CharacterController : MonoBehaviour
 
         if (other.gameObject.CompareTag("Reversecommands"))
         {
-            this.isRevesed = !this.isRevesed;
-            this.facingRight = !this.facingRight;   
+            this.isRevesed = true; //= !this.isRevesed;
+            saturation.enabled = true; 
+            //this.facingRight = !this.facingRight;
+            //saturation.enabled = true;
+            other.gameObject.SetActive(false);
+            StartCoroutine(ResetCommands(other));
         }
 
         if (other.gameObject.CompareTag("Cachette"))
@@ -384,6 +391,14 @@ public class CharacterController : MonoBehaviour
         rb.gravityScale = V;
         bloom.enabled = false;
         other.gameObject.SetActive(true);
+    }
+
+    private IEnumerator ResetCommands(Collider2D other)
+    {
+        yield return new WaitForSeconds(10);
+        saturation.enabled = false;
+        this.isRevesed = false;
+        //this.facingRight = true;
     }
 
 

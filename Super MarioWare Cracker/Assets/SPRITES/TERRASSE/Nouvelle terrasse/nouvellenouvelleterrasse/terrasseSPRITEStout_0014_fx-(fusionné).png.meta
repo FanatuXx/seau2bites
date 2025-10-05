@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: e21bc4f09936fae4e8f86de4fc0ead6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7057310471877423496
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_0"
+  - first:
+      213: 2376399934000285225
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_1"
+  - first:
+      213: 9063251675899404473
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_2"
+  - first:
+      213: -6640122357196572009
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_3"
+  - first:
+      213: -8176579057326566177
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_4"
+  - first:
+      213: 1881584608844364962
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_5"
+  - first:
+      213: -6103854650064242095
+    second: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_6"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 239
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e0a1e54856f0e90800000000000000
+      internalID: -7057310471877423496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_1"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9264956362baaf020800000000000000
+      internalID: 2376399934000285225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_2"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 649
+        width: 276
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a2fb416327cd70800000000000000
+      internalID: 9063251675899404473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_3"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 553
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a3b22a5eb89d3a0800000000000000
+      internalID: -6640122357196572009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_4"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 519
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d6223ba4f68e80800000000000000
+      internalID: -8176579057326566177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_5"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 464
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb2019b3bbc1a10800000000000000
+      internalID: 1881584608844364962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_6"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 242
+        width: 413
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15afd4e0980ca4ba0800000000000000
+      internalID: -6103854650064242095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_0": -7057310471877423496
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_1": 2376399934000285225
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_2": 9063251675899404473
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_3": -6640122357196572009
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_4": -8176579057326566177
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_5": 1881584608844364962
+      "terrasseSPRITEStout_0014_fx-(fusionn\xE9)_6": -6103854650064242095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
