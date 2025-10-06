@@ -11,12 +11,14 @@ public class Rectanglemortel : MonoBehaviour
     
 {
     public VideoPlayer videoPlayer;
+    public AudioSource audioSource;
     //public GameObject VideoMort;
 
     private void Start()
     {
         //VideoMort.SetActive(false);
         var videoPlayer = GetComponent<VideoPlayer>();
+        var audioSource = GetComponent<AudioSource>();
 
 
     }
@@ -27,6 +29,8 @@ public class Rectanglemortel : MonoBehaviour
         {
             Debug.Log("GROSLOSER") ;
             //VideoMort.SetActive(true);
+
+            audioSource.enabled = false ;
             
             videoPlayer.Play();
 
@@ -38,6 +42,7 @@ public class Rectanglemortel : MonoBehaviour
             //VideoPlayer.Play();
            
             yield return new WaitForSeconds(12f);
+            audioSource.enabled = true ;
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 

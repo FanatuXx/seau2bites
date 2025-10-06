@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: ca87f5e0255e0b444b208c591167f278
+guid: d639baa6657ff8d4ca255eac0c72d21c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6107812760764890970
-    second: Drogue 6_0
+      213: -2172663227214164671
+    second: "D copie 6 (fusionn\xE9)_0"
   - first:
-      213: -1735083530142123191
-    second: Drogue 6_1
+      213: 7207096947202011067
+    second: "D copie 6 (fusionn\xE9)_1"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,10 +49,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 4
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -103,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Drogue 6_0
+      name: "D copie 6 (fusionn\xE9)_0"
       rect:
         serializedVersion: 2
-        x: 55
-        y: 6
-        width: 206
-        height: 197
+        x: 0
+        y: 0
+        width: 205
+        height: 196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5f3df7685f43c450800000000000000
-      internalID: 6107812760764890970
+      spriteID: 14d885d5e4629d1e0800000000000000
+      internalID: -2172663227214164671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drogue 6_1
+      name: "D copie 6 (fusionn\xE9)_1"
       rect:
         serializedVersion: 2
-        x: 450
-        y: 94
-        width: 98
-        height: 115
+        x: 394
+        y: 87
+        width: 210
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 94b7f32e8bebbe7e0800000000000000
-      internalID: -1735083530142123191
+      spriteID: bbf27c71d70c40460800000000000000
+      internalID: 7207096947202011067
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Drogue 6_0: 6107812760764890970
-      Drogue 6_1: -1735083530142123191
+      "D copie 6 (fusionn\xE9)_0": -2172663227214164671
+      "D copie 6 (fusionn\xE9)_1": 7207096947202011067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

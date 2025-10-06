@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: abd5d333afb36924e949b2b418e9ec36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6814610722199518676
+    second: Calque 40dalles + pas_0
+  - first:
+      213: 5539710095598598657
+    second: Calque 40dalles + pas_1
+  - first:
+      213: 2500077539343432980
+    second: Calque 40dalles + pas_2
+  - first:
+      213: -8334964250406445243
+    second: Calque 40dalles + pas_3
+  - first:
+      213: 6016030640114945512
+    second: Calque 40dalles + pas_4
+  - first:
+      213: 3487228767459546899
+    second: Calque 40dalles + pas_5
+  - first:
+      213: -2205460308121388087
+    second: Calque 40dalles + pas_6
+  - first:
+      213: -953722316406636620
+    second: Calque 40dalles + pas_7
+  - first:
+      213: -3735601332975632131
+    second: Calque 40dalles + pas_8
+  - first:
+      213: -6847464294975528169
+    second: Calque 40dalles + pas_9
+  - first:
+      213: -8347527232395561153
+    second: Calque 40dalles + pas_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 343
+        width: 185
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22cabc47a3ad61a0800000000000000
+      internalID: -6814610722199518676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 324
+        width: 185
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10abcc63bf001ec40800000000000000
+      internalID: 5539710095598598657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 366
+        width: 189
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7f7ba64f02b220800000000000000
+      internalID: 2500077539343432980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 345
+        width: 331
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f91febc22445c80800000000000000
+      internalID: -8334964250406445243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_4
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 172
+        width: 498
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edcaed2efb3d7350800000000000000
+      internalID: 6016030640114945512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 624
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31713fe7610256030800000000000000
+      internalID: 3487228767459546899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 245
+        width: 232
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7338e881a461e0800000000000000
+      internalID: -2205460308121388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 49
+        width: 575
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf38343b92b3c2f0800000000000000
+      internalID: -953722316406636620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 246
+        width: 229
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00385316a782cc0800000000000000
+      internalID: -3735601332975632131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1
+        width: 639
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71320ddc08be8f0a0800000000000000
+      internalID: -6847464294975528169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calque 40dalles + pas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37b9209530a72c80800000000000000
+      internalID: -8347527232395561153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Calque 40dalles + pas_0: -6814610722199518676
+      Calque 40dalles + pas_1: 5539710095598598657
+      Calque 40dalles + pas_10: -8347527232395561153
+      Calque 40dalles + pas_2: 2500077539343432980
+      Calque 40dalles + pas_3: -8334964250406445243
+      Calque 40dalles + pas_4: 6016030640114945512
+      Calque 40dalles + pas_5: 3487228767459546899
+      Calque 40dalles + pas_6: -2205460308121388087
+      Calque 40dalles + pas_7: -953722316406636620
+      Calque 40dalles + pas_8: -3735601332975632131
+      Calque 40dalles + pas_9: -6847464294975528169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

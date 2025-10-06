@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: b699a17685a1be1458c907018cc7f1e0
+guid: fa550d80896df3443b8db63790bbabdd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7069951457465128532
-    second: Drogue 5_0
+      213: -8258139916833988173
+    second: D copie 5_0
   - first:
-      213: 9195023973347307836
-    second: Drogue 5_1
+      213: -6459061821104654885
+    second: D copie 5_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,10 +49,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 4
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -103,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Drogue 5_0
+      name: D copie 5_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 6
-        width: 289
-        height: 197
+        x: 0
+        y: 0
+        width: 288
+        height: 196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 456d67174638d1260800000000000000
-      internalID: 7069951457465128532
+      spriteID: 3b1e2a7cf71356d80800000000000000
+      internalID: -8258139916833988173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drogue 5_1
+      name: D copie 5_1
       rect:
         serializedVersion: 2
-        x: 450
-        y: 94
-        width: 98
-        height: 115
+        x: 394
+        y: 87
+        width: 210
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c31319026994b9f70800000000000000
-      internalID: 9195023973347307836
+      spriteID: bd5f4cace7dcc56a0800000000000000
+      internalID: -6459061821104654885
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Drogue 5_0: 7069951457465128532
-      Drogue 5_1: 9195023973347307836
+      D copie 5_0: -8258139916833988173
+      D copie 5_1: -6459061821104654885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

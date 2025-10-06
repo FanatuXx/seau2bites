@@ -24,7 +24,7 @@ public class CharacterController : MonoBehaviour
     public Volume hue2;
     public Volume hue3;
     public Volume saturation;
-
+    public Volume film;
 
 
     public bool isGrounded;
@@ -97,6 +97,7 @@ public class CharacterController : MonoBehaviour
         hue2.enabled = false;
         hue3.enabled = false;
         saturation.enabled = false;
+        film.enabled = false;
 
     }
     void Start()
@@ -381,7 +382,7 @@ public class CharacterController : MonoBehaviour
             //gameObject.enemymovement.speed = 0.5f;
             enemymovement.speed = 0.5f;
             //enemymovement2.speed = 0.5f;
-            ////bloom.enabled = true;
+            film.enabled = true;
             other.gameObject.SetActive(false);
             ////StartCoroutine(ResetGrav());
         }
