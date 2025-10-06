@@ -63,8 +63,7 @@ public class CharacterController : MonoBehaviour
     public GameObject ts17;
 
     public AudioSource pill;
-    [SerializeField] AudioSource audioSource;
-    [SerializeField] AudioClip myAudioClip;
+    public AudioSource jump;
     //public AudioSource walk;
 
 
@@ -191,7 +190,7 @@ public class CharacterController : MonoBehaviour
             rb.linearVelocity = jumpDir * jumpForce;
             //isJumping = true;
             animator.SetBool("IsJumping", true);
-            AudioSource.PlayOneShot(jump);
+            
         }
 
 
