@@ -63,7 +63,8 @@ public class CharacterController : MonoBehaviour
     public GameObject ts17;
 
     public AudioSource pill;
-    //public AudioSource jump;
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip myAudioClip;
     //public AudioSource walk;
 
 
@@ -188,8 +189,9 @@ public class CharacterController : MonoBehaviour
         {
             
             rb.linearVelocity = jumpDir * jumpForce;
+            //isJumping = true;
             animator.SetBool("IsJumping", true);
-            //jump.Play();
+            AudioSource.PlayOneShot(jump);
         }
 
 
@@ -259,6 +261,16 @@ public class CharacterController : MonoBehaviour
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
     }
+
+    //void Soundeffects(Rigidbody2D rb)
+    //{
+    //    if (rb.isJumping = true)
+    //    {
+    //        jump.Play();
+
+    //    }
+
+    //}
 
 
     private void OnTriggerEnter2D(Collider2D other)
