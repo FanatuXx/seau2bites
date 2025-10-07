@@ -11,7 +11,6 @@ public class NewPlayerController : MonoBehaviour
 
     private Rigidbody2D rb;
     public float speed;
-    private Vector2 _moveDirection;
     public float jumpForce;
     private bool isRevesed = false;
     private bool isJumping = false;
@@ -59,7 +58,6 @@ public class NewPlayerController : MonoBehaviour
 
     private void DoJump(InputAction.CallbackContext context)
     {
-        Debug.Log("Jump!");
         jumpNow = true;
     }
 
@@ -138,7 +136,5 @@ public class NewPlayerController : MonoBehaviour
         }
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
-
-        Debug.Log("Movement values " + move.ReadValue<Vector2>());
     }
 }
