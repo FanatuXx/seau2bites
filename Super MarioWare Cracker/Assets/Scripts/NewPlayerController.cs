@@ -38,6 +38,7 @@ public class NewPlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+
     private void OnEnable()
     {
         move = playerInputActions.Player.Move;
@@ -47,17 +48,21 @@ public class NewPlayerController : MonoBehaviour
         playerInputActions.Player.Jump.Enable();
     }
 
+
     private void OnDisable()
     {
         move.Disable();
         playerInputActions.Player.Jump.performed -= DoJump; 
         playerInputActions.Player.Jump.Disable();
     }
+
+
     private void DoJump(InputAction.CallbackContext context)
     {
         Debug.Log("Jump!");
         jumpNow = true;
     }
+
 
     void Flip() //flip
     {
@@ -71,10 +76,9 @@ public class NewPlayerController : MonoBehaviour
 
     private void Update()
     {
-        Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
 
-        if (move.ReadValue<Vector2>().x > 0 && !facingRight) //flip
+        if (move.ReadValue<Vector2>().x > 0 && !facingRight)
         {
             Flip();
         }
@@ -96,64 +100,37 @@ public class NewPlayerController : MonoBehaviour
                 animator.SetBool("IsJumping", false);
             }
         }
-
-        if (rb.gravityScale <= 0)
-        {
-            jumpDir = Vector2.down;
-        }
-        /*if (isGrounded == true && jump.pressed);
-        {
-
-            rb.linearVelocity = jumpDir * jumpForce;
-            //isJumping = true;
-            animator.SetBool("IsJumping", true);
-
-        }
-        */
-
-        animator.SetFloat("Speed", Mathf.Abs(move.ReadValue<Vector2>().x)); //anim
+        animator.SetFloat("Speed", Mathf.Abs(move.ReadValue<Vector2>().x));
     }
-    /*  if (!isGrounded)
-      {
-          this.isJumping = true;
-      }
 
-      if (this.isJumping)
-      {
-          if (isGrounded)
-          {
 
-              this.isJumping = false;
-              animator.SetBool("IsJumping", false);
-          }
-      }
-    */
     private void FixedUpdate()
     {
-        if (jumpNow)
+        Vector2 jumpDir = Vector2.up;
+
+        // Handle jumping with ground check
+        if (jumpNow && isGrounded)
         {
-            rb.linearVelocity = new Vector2(move.ReadValue<Vector2>().x * speed, jumpForce);
+            if (rb.gravityScale <= 0)
+            {
+                jumpDir = Vector2.down;
+            }
+
+            rb.linearVelocity = jumpDir * jumpForce;
+            animator.SetBool("IsJumping", true);
             jumpNow = false;
         }
 
         else
         {
-            rb.linearVelocity = new Vector2(move.ReadValue<Vector2>().x * speed, rb.linearVelocity.y);
+            jumpNow = false; // Reset jump flag even if not grounded
         }
 
-        Debug.Log("Movement values " + move.ReadValue<Vector2>());
-        //rb.linearVelocity = new Vector2(move.ReadValue<Vector2>().x * speed, jump.action.ReadValue<float>() * jumpForce); //Movements latéraux
-
-        //rb.linearVelocity = new Vector2(jump.action.ReadValue<float>() * jumpForce, rb.linearVelocity.y); //Jump
-        //Debug.Log(jump.action);
-
-        /*float velocity;
-
-
+        // Handle horizontal movement
+        float velocity;
         if (this.isRevesed)
         {
             velocity = move.ReadValue<Vector2>().x * speed * -1;
-            //this.facingRight = !this.facingRight;
         }
         else
         {
@@ -161,6 +138,7 @@ public class NewPlayerController : MonoBehaviour
         }
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
-        */
+
+        Debug.Log("Movement values " + move.ReadValue<Vector2>());
     }
 }
