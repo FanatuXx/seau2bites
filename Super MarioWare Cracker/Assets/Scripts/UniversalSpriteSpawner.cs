@@ -42,6 +42,11 @@ public class UniversalSpriteSpawner : MonoBehaviour
     public Transform[] spawnPoints; // Multiple spawn locations (optional)
     public bool useRandomSpawnPoint = true; // Pick random spawn point or use spawner position
 
+    [Header("Spawn Position Randomization")]
+    public bool useRandomXPosition = true; // Enable random X position offset
+    public float spawnRangeX = 3f; // Range for random X offset (-range to +range)
+    public float spawnRangeY = 0f; // Range for random Y offset (-range to +range)
+
     [Header("Global Movement Override")]
     public bool useGlobalMovement = false; // Override individual sprite movement settings
     public Vector2 globalMoveDirection = Vector2.right; // Global movement direction if override enabled
@@ -168,16 +173,33 @@ public class UniversalSpriteSpawner : MonoBehaviour
     /// <summary>
     /// Determines where to spawn the next sprite
     /// Uses random spawn point if configured, otherwise uses spawner position
+    /// Adds random position offset if enabled
     /// </summary>
     Vector3 GetSpawnPosition()
     {
+        Vector3 basePosition;
+
         if (useRandomSpawnPoint && spawnPoints.Length > 0)
         {
             int randomIndex = Random.Range(0, spawnPoints.Length);
-            return spawnPoints[randomIndex].position;
+            basePosition = spawnPoints[randomIndex].position;
         }
-        return transform.position;
+        else
+        {
+            basePosition = transform.position;
+        }
+
+        // Add random offset if enabled
+        if (useRandomXPosition || spawnRangeY > 0)
+        {
+            float randomX = useRandomXPosition ? Random.Range(-spawnRangeX, spawnRangeX) : 0f;
+            float randomY = spawnRangeY > 0 ? Random.Range(-spawnRangeY, spawnRangeY) : 0f;
+            basePosition += new Vector3(randomX, randomY, 0);
+        }
+
+        return basePosition;
     }
+
 
     /// <summary>
     /// Draws visual helpers in the Scene view to show spawn points and spawner location

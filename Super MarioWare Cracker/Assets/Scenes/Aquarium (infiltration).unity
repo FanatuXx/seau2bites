@@ -669,6 +669,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -1462,6 +1465,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -1852,11 +1858,11 @@ PrefabInstance:
       objectReference: {fileID: 6740693167476846030, guid: 89f824da68bd3c54a812ec75b9b4b9e7, type: 3}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -51.34759
+      value: -42.67
       objectReference: {fileID: 0}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.5552
+      value: -0.53
       objectReference: {fileID: 0}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1934,25 +1940,25 @@ MonoBehaviour:
   spawnableSprites:
   - prefab: {fileID: 4588083879166954012, guid: 94c17e4a33dbdd5499d1b0466f7df20c, type: 3}
     moveDuration: 3
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 3
+    moveDirection: {x: 0, y: 3}
+    moveSpeed: 1.5
     movementCurve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
         value: 0
-        inSlope: 2
-        outSlope: 2
+        inSlope: 0
+        outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.46998984
-        value: 0.99809647
-        inSlope: 0
-        outSlope: 0
+        time: 0.1922909
+        value: 2.7907245
+        inSlope: 2
+        outSlope: 2
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
@@ -1961,205 +1967,16 @@ MonoBehaviour:
       m_PostInfinity: 0
       m_RotationOrder: 4
     useAnimation: 0
-    spawnWeight: 0.667
-  - prefab: {fileID: 6777784695299604224, guid: a0950c7ba7e8cf942b40d49fd59005e4, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.452
-  - prefab: {fileID: 4169457546131384039, guid: a2af041958e478c4680a5e98213e9daf, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0
-  - prefab: {fileID: 1494867137669493909, guid: 1c933ec9fef374249aa329d6babc1c18, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.69
-  - prefab: {fileID: 8534170468482521818, guid: 42626e3551f2fa140bbf86705b166f03, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.829
-  - prefab: {fileID: 4138207946846063925, guid: de1c5f9e050be1742ae21946154137ba, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.246
-  - prefab: {fileID: 88918440074144310, guid: 561d49cbc99b59048adac08c958c6aed, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.371
-  - prefab: {fileID: 39239518585399496, guid: c8a841d3e77df1f4b837e724f3953687, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.58
-  - prefab: {fileID: 4905534336672110533, guid: f20ecce6432841a4cb80b7392935d6f8, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.371
-  - prefab: {fileID: 5532443365843300710, guid: 9985329727a448d42a989e16f12a2b92, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.632
-  - prefab: {fileID: 1303753030888509734, guid: 96caab337c77cee43bfae180f541008a, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.513
-  - prefab: {fileID: 7695944640553012441, guid: c8974c0a563df2b4782987dbabd54adc, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.762
-  - prefab: {fileID: 8439030844298352255, guid: 92d8b9753e32f3b4ca4391f80d35eb7b, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.47
-  - prefab: {fileID: 4912876744460243662, guid: 06aa0cf29191a6d4c9f1f193d35aeedb, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.754
-  - prefab: {fileID: 5836297366062255145, guid: 60b21304e978d6e4abbd28922356c950, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.655
-  - prefab: {fileID: 7382186121711429899, guid: 41ac10f81bce3a24988d066a294f834a, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.499
-  - prefab: {fileID: 7611334190996728131, guid: 6fb76e302d75a30478c7ec553cae5915, type: 3}
-    moveDuration: 0
-    moveDirection: {x: 0, y: 0}
-    moveSpeed: 0
-    movementCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 0
-      m_PostInfinity: 0
-      m_RotationOrder: 0
-    useAnimation: 1
-    spawnWeight: 0.774
+    spawnWeight: 0.11
   spawnRate: 1
-  spawnDelay: 1
+  spawnDelay: 0.5
   autoStart: 0
-  maxActiveSprites: 10
+  maxActiveSprites: 5
   spawnPoints: []
-  useRandomSpawnPoint: 1
+  useRandomSpawnPoint: 0
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -6441,7 +6258,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.02
+      value: -2.14
       objectReference: {fileID: 0}
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6475,8 +6292,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7538155209530182876, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1641004991733291392, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+    - {fileID: 5320289198812414972, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+    - {fileID: 5251691532741858018, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+    - {fileID: 1032737746184664847, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -7264,6 +7088,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -8332,6 +8159,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -11019,6 +10849,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -12272,7 +12105,7 @@ MonoBehaviour:
   jump: {fileID: -7776943862613296953, guid: dba36a476760550479535671c57a3c67, type: 3}
   speed: 5
   jumpForce: 9
-  isGrounded: 1
+  isGrounded: 0
   feetPos: {fileID: 702277736}
   checkRadius: 0.3
   whatIsGround:
@@ -13514,6 +13347,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -14518,6 +14354,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -14794,6 +14633,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -14847,7 +14689,7 @@ MonoBehaviour:
   playerTag: Player
   startOnEnter: 1
   stopOnExit: 1
-  debugMessages: 0
+  debugMessages: 1
 --- !u!61 &1399522446
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15270,6 +15112,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -15714,6 +15559,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -18194,6 +18042,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -18708,6 +18559,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -19300,6 +19154,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -20019,6 +19876,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -20313,11 +20173,11 @@ PrefabInstance:
       objectReference: {fileID: 6740693167476846030, guid: 89f824da68bd3c54a812ec75b9b4b9e7, type: 3}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.71759
+      value: -30.12
       objectReference: {fileID: 0}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.5552
+      value: -0.48
       objectReference: {fileID: 0}
     - target: {fileID: 5936478678459481471, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20603,6 +20463,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
@@ -21733,7 +21596,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1010714064717535455, guid: e00d51c986d5dec42aa9bff495204e01, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.59286
+      value: -3.71286
       objectReference: {fileID: 0}
     - target: {fileID: 2697811065429559369, guid: e00d51c986d5dec42aa9bff495204e01, type: 3}
       propertyPath: m_Size.x
@@ -22709,11 +22572,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -47.90761
+      value: -47.904945
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.8063064
+      value: -2.1393983
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -22906,6 +22769,9 @@ MonoBehaviour:
   maxActiveSprites: 10
   spawnPoints: []
   useRandomSpawnPoint: 1
+  useRandomXPosition: 1
+  spawnRangeX: 3
+  spawnRangeY: 0
   useGlobalMovement: 0
   globalMoveDirection: {x: 1, y: 0}
   globalMoveSpeed: 2
