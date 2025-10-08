@@ -121,7 +121,7 @@ public class NewPlayerController : MonoBehaviour
 
         else
         {
-            jumpNow = false; // Reset jump flag even if not grounded
+            jumpNow = false; // Reset jumpAudiosource flag even if not grounded
         }
 
         // Handle horizontal movement

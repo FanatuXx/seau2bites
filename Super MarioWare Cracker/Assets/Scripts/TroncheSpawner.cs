@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class TroncheSpawner : MonoBehaviour
 {
@@ -55,19 +56,28 @@ public class TroncheSpawner : MonoBehaviour
     public float spawnRate = 1.0f; // How often to spawn an object
     public float destroyDelay = 6.0f; // How long an object lives
 
-    void Start()
+    void OnEnable()
     {
-        InvokeRepeating("SpawnThenDestroy", 1f, spawnRate); // Call SpawnThenDestroy repeatedly
+        StartCoroutine(SpawnThenDestroy()); // Call SpawnThenDestroy repeatedly
     }
 
-    void SpawnThenDestroy()
+    private void OnDisable()
     {
-        // Instantiate the object
-        int randEnemy = Random.Range(0, Tronches.Length);
-        GameObject spawnedObject = Instantiate(Tronches[randEnemy], transform.position, Quaternion.identity);
-        spawnedObject.GetComponent<AlarmDead>().Launch();
+        StopAllCoroutines();
+    }
 
-        // Schedule the object for destruction
-        Destroy(spawnedObject, destroyDelay);
+    private IEnumerator SpawnThenDestroy()
+    {
+        while (true)
+        {
+            // Instantiate the object
+            int randEnemy = Random.Range(0, Tronches.Length);
+            GameObject spawnedObject = Instantiate(Tronches[randEnemy], transform.position, Quaternion.identity);
+            spawnedObject.GetComponent<AlarmDead>().Launch();
+
+            // Schedule the object for destruction
+            Destroy(spawnedObject, destroyDelay);
+            yield return new WaitForSeconds(spawnRate);
+        }
     }
 }
