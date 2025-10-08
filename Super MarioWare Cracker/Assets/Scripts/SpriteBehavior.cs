@@ -31,19 +31,28 @@ public class SpriteBehavior : MonoBehaviour
     public void Initialize(Vector2 direction, float speed, float duration, bool enableAnimation, AnimationCurve curve, Action destroyCallback)
     {
         // Store all the movement settings
-        moveDirection = direction.normalized; // Ensure direction is normalized
+        moveDirection = direction.normalized;
         moveSpeed = speed;
         moveDuration = duration;
         useAnimation = enableAnimation;
         movementCurve = curve;
         onDestroyed = destroyCallback;
 
-        // Cache starting position for movement calculations
-        startPosition = transform.position;
+        // Find the actual sprite renderer (might be on child)
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+
+        // Use the sprite renderer's position as start position if found
+        if (spriteRenderer != null)
+        {
+            startPosition = spriteRenderer.transform.position;
+        }
+        else
+        {
+            startPosition = transform.position;
+        }
 
         // Get component references
         animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
 
         // Enable animation if requested and animator exists
         if (useAnimation && animator != null)
@@ -74,7 +83,17 @@ public class SpriteBehavior : MonoBehaviour
 
             // Calculate new position based on direction, speed, and curve
             Vector3 currentOffset = moveDirection * moveSpeed * curveValue * elapsedTime;
-            transform.position = startPosition + currentOffset;
+            Vector3 newPosition = startPosition + currentOffset;
+
+            // Move the visual sprite if it's on a child, otherwise move the root
+            if (spriteRenderer != null && spriteRenderer.transform != transform)
+            {
+                spriteRenderer.transform.position = newPosition;
+            }
+            else
+            {
+                transform.position = newPosition;
+            }
 
             // Wait for next frame
             yield return null;
