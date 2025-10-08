@@ -2,12 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Video;
-using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
-using UnityEngine.Video;
-
-using System.Collections;
 using UnityEngine.SocialPlatforms.Impl;
 using System.Linq;
 
