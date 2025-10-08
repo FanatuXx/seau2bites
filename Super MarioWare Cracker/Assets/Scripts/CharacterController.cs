@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
@@ -63,8 +64,12 @@ public class CharacterController : MonoBehaviour
     public GameObject ts17;
 
     public AudioSource pill;
-    public AudioSource jump;
+    public AudioSource jumpAudiosource;
+    [SerializeField] private AudioClip[] jumpAudios;
     //public AudioSource walk;
+
+    AudioClip impact;
+    public AudioSource audioSource;
 
 
 
@@ -72,8 +77,7 @@ public class CharacterController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        //bloom.enabled = false;
-        //chromaticab.enabled = false;
+        
         ts.SetActive(false);
         ts2.SetActive(false);
         ts3.SetActive(false);
@@ -91,7 +95,7 @@ public class CharacterController : MonoBehaviour
         ts15.SetActive(false);
         ts16.SetActive(false);
         ts17.SetActive(false);
-        //chromaticab.enabled = false;
+        chromaticab.enabled = false;
         bloom.enabled = false;
         hue.enabled = false;
         hue2.enabled = false;
@@ -103,36 +107,17 @@ public class CharacterController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-      
-        //ts.SetActive(false);
-        //ts2.SetActive(false);
-        //ColorGradingMode = hue.profile.GetSetting<ColorGrading>();
+        audioSource = GetComponent<AudioSource>();  
 
     }
 
-    //public void OnCollisionEnter2D(Collision2D col)
-    //{
-
-    //    if (col.gameObject.CompareTag("Ground"))
-    //    {
-    //        isGrounded = true;
-    //    }
-
-    //}
-
-
-    //public void OnCollisionExit2D(Collision2D col)
-    //{
-    //    if (col.gameObject.CompareTag("Ground"))
-    //    {
-
-    //        isGrounded = false;
-
-
-    //    }
-
-
-    //}
+     private void PlayJump()
+     {
+        if (jumpAudiosource.isPlaying) return;
+        int index = Random.Range(0, jumpAudios.Length);
+        jumpAudiosource.clip = jumpAudios[index];
+        jumpAudiosource.Play();
+     }
 
 
 
@@ -140,14 +125,12 @@ public class CharacterController : MonoBehaviour
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
-        //moveInput = move.action.ReadValue<Vector2>().x; FOR THE NEW INPUT SYSTEM
-        //isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
+    
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
-        //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
-        //isGrounded = isGrounded1;
+       
 
-        if (moveInput > 0 && !facingRight) //flip
+        if (moveInput > 0 && !facingRight) 
 
         {
             Flip();
@@ -177,6 +160,7 @@ public class CharacterController : MonoBehaviour
                 
                 this.isJumping = false;
                 animator.SetBool("IsJumping", false);
+
             }
         }
 
@@ -188,59 +172,17 @@ public class CharacterController : MonoBehaviour
         {
             
             rb.linearVelocity = jumpDir * jumpForce;
-            //isJumping = true;
             animator.SetBool("IsJumping", true);
-            
+            PlayJump();
+
+
         }
 
 
-        animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
+        animator.SetFloat("Speed", Mathf.Abs(moveInput)); 
     }
 
-    // FOR THE NEW INPUT SYSTEM
-    //private void OnEnable()
-    //{
-    //    jump.action.started += Jump;
-    //}
-    //private void OnDisable()
-    //{
-    //    jump.action.started -= Jump;
-    //}
-
-    //private void Jump (InputAction.CallbackContext obj)
-    //{
-    //    Vector2 jumpDir = Vector2.up;
-    //    isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
-    //    //bool isGrounded1 = GetComponentInChildren<Groundcheck>().isGrounded;
-    //    //isGrounded = isGrounded1;
-
-    //    if (!isGrounded)
-    //    {
-    //        this.isJumping = true;
-    //    }
-
-    //    if (this.isJumping)
-    //    {
-    //        if (isGrounded)
-    //        {
-    //            animator.SetBool("IsJumping", false);
-    //            this.isJumping = false;
-    //        }
-    //    }
-
-    //    if (rb.gravityScale <= 0)
-    //    {
-    //        jumpDir = Vector2.down;
-    //    }
-    //    if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
-    //    {
-    //        rb.linearVelocity = jumpDir * jumpForce;
-    //        animator.SetBool("IsJumping", true);
-    //    }
-
-
-    //    animator.SetFloat("Speed", Mathf.Abs(moveInput)); //anim
-    //}
+ 
 
 
     void FixedUpdate()
@@ -251,7 +193,7 @@ public class CharacterController : MonoBehaviour
         if (this.isRevesed)
         {
             velocity = moveInput * speed * -1;
-            //this.facingRight = !this.facingRight;
+            
         }
         else
         {
@@ -261,15 +203,7 @@ public class CharacterController : MonoBehaviour
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);
     }
 
-    //void Soundeffects(Rigidbody2D rb)
-    //{
-    //    if (rb.isJumping = true)
-    //    {
-    //        jump.Play();
-
-    //    }
-
-    //}
+   
 
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -280,8 +214,7 @@ public class CharacterController : MonoBehaviour
             Vector3 currentScale = gameObject.transform.localScale;
             currentScale.y *= -1;
             gameObject.transform.localScale = currentScale;
-            //chromaticab.enabled = true;
-            //chromaticab.active = true;
+          
             other.gameObject.SetActive(false);
             hue.enabled = true;
             StartCoroutine(hueshift());
@@ -290,13 +223,38 @@ public class CharacterController : MonoBehaviour
 
         if (other.gameObject.CompareTag("Reversecommands"))
         {
-            this.isRevesed = true; //= !this.isRevesed;
+            this.isRevesed = true; 
             saturation.enabled = true; 
-            //this.facingRight = !this.facingRight;
-            //saturation.enabled = true;
             other.gameObject.SetActive(false);
             StartCoroutine(ResetCommands(other));
         }
+
+
+
+        if (other.gameObject.CompareTag("SpaceMonkey"))
+        {
+            
+            rb.gravityScale = 0.5f;
+            bloom.enabled = true;
+            other.gameObject.SetActive(false);
+            pill.Play();
+            StartCoroutine(ResetGrav(other));
+        }
+
+       
+
+        if (other.gameObject.CompareTag("Escargot"))
+        {
+            
+            enemymovement.speed = 0.5f;
+           
+            film.enabled = true;
+            other.gameObject.SetActive(false);
+            
+        }
+
+
+        #region Spawners
 
         if (other.gameObject.CompareTag("Cachette"))
         {
@@ -373,30 +331,7 @@ public class CharacterController : MonoBehaviour
             ts17.SetActive(true);
         }
 
-        if (other.gameObject.CompareTag("SpaceMonkey"))
-        {
-            
-            rb.gravityScale = 0.5f;
-            bloom.enabled = true;
-            other.gameObject.SetActive(false);
-            pill.Play();
-            StartCoroutine(ResetGrav(other));
-        }
-
-       
-
-        if (other.gameObject.CompareTag("Escargot"))
-        {
-            //GameObject objectWithScript;
-            //objectWithScript.GetComponent<enemymovement>().speed = 0.5f;
-            //gameObject = GameObject.FindGameObjectWithTag("RectangleMortel");
-            //gameObject.enemymovement.speed = 0.5f;
-            enemymovement.speed = 0.5f;
-            //enemymovement2.speed = 0.5f;
-            film.enabled = true;
-            other.gameObject.SetActive(false);
-            ////StartCoroutine(ResetGrav());
-        }
+        #endregion
     }
     private IEnumerator ResetGrav(Collider2D other)
     {
@@ -411,7 +346,7 @@ public class CharacterController : MonoBehaviour
         yield return new WaitForSeconds(10);
         saturation.enabled = false;
         this.isRevesed = false;
-        //this.facingRight = true;
+        
     }
 
 
