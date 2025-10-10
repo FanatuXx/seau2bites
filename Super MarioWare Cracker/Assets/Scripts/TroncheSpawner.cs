@@ -53,7 +53,7 @@ public class TroncheSpawner : MonoBehaviour
 
     public GameObject[] Tronches;
     //public Vector3 spawnPosition;
-    public float spawnRate = 1.0f; // How often to spawn an object
+    public float spawnRate = 6.0f; // How often to spawn an object
     public float destroyDelay = 6.0f; // How long an object lives
 
     void OnEnable()
