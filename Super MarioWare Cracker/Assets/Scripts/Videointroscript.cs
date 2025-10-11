@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Videointroscript : MonoBehaviour
 {
@@ -8,8 +9,15 @@ public class Videointroscript : MonoBehaviour
     {
         StartCoroutine(NextLevel());  
     }
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+    }
 
-    
+
     private IEnumerator NextLevel ()
     {
         yield return new WaitForSeconds(124);
