@@ -12,6 +12,11 @@ using UnityEngine.SocialPlatforms;
 public class CharacterController : MonoBehaviour
 {
 
+    private PlayerInputActions playerInputActions;
+    private InputAction move;
+    public InputActionReference jump;
+    bool jumpNow = false;
+
     private float V = 1.5f;
     private Rigidbody2D rb;
     public float speed;
@@ -77,7 +82,8 @@ public class CharacterController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        
+        playerInputActions = new PlayerInputActions();
+
         ts.SetActive(false);
         ts2.SetActive(false);
         ts3.SetActive(false);
@@ -103,6 +109,7 @@ public class CharacterController : MonoBehaviour
         saturation.enabled = false;
         film.enabled = false;
 
+
     }
     void Start()
     {
@@ -119,24 +126,45 @@ public class CharacterController : MonoBehaviour
         jumpAudiosource.Play();
      }
 
+    private void OnEnable()
+    {
+        move = playerInputActions.Player.Move;
+        move.Enable();
+
+        playerInputActions.Player.Jump.performed += DoJump;
+        playerInputActions.Player.Jump.Enable();
+    }
 
 
-   
+    private void OnDisable()
+    {
+        move.Disable();
+        playerInputActions.Player.Jump.performed -= DoJump;
+        playerInputActions.Player.Jump.Disable();
+    }
+
+    private void DoJump(InputAction.CallbackContext context)
+    {
+        
+        jumpNow = true;
+    }
+
+
     void Update()
     {
-        moveInput = Input.GetAxisRaw("Horizontal");
+        //moveInput = Input.GetAxisRaw("Horizontal");
     
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
        
 
-        if (moveInput > 0 && !facingRight) 
+        if (move.ReadValue<Vector2>().x > 0 && !facingRight) 
 
         {
             Flip();
         }
 
-        if (moveInput < 0 && facingRight)
+        if (move.ReadValue<Vector2>().x < 0 && facingRight)
         {
             Flip();
         }
@@ -168,7 +196,7 @@ public class CharacterController : MonoBehaviour
         {
             jumpDir = Vector2.down;
         }
-        if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
+        if (isGrounded == true && jumpNow)//Input.GetKeyDown(KeyCode.Space))
         {
             
             rb.linearVelocity = jumpDir * jumpForce;
@@ -177,9 +205,13 @@ public class CharacterController : MonoBehaviour
 
 
         }
+        else
+        {
+            jumpNow = false;
+        }
 
 
-        animator.SetFloat("Speed", Mathf.Abs(moveInput)); 
+            animator.SetFloat("Speed", Mathf.Abs(move.ReadValue<Vector2>().x));//moveInput)); 
     }
 
  
@@ -192,12 +224,12 @@ public class CharacterController : MonoBehaviour
 
         if (this.isRevesed)
         {
-            velocity = moveInput * speed * -1;
+            velocity = move.ReadValue<Vector2>().x * speed * -1;//moveInput * speed * -1;
             
         }
         else
         {
-            velocity = moveInput * speed;
+            velocity = move.ReadValue<Vector2>().x * speed;// moveInput * speed;
         }
 
         rb.linearVelocity = new Vector2(velocity, rb.linearVelocity.y);

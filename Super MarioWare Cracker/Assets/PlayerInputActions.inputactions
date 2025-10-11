@@ -16,12 +16,12 @@
                 },
                 {
                     "name": "Jump",
-                    "type": "Button",
+                    "type": "Value",
                     "id": "88526907-ddbe-4d74-9615-3f73f7a24d7d",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -172,6 +172,39 @@
                     "name": "",
                     "id": "d4ed98a4-8b4d-4ca8-822b-cfc60531659b",
                     "path": "<HID>/{PrimaryAction}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8dbcaf68-b6c0-4d43-872c-d59baf83eb59",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3c5cba21-caec-43b9-a1eb-7867f490031c",
+                    "path": "<Joystick>/trigger",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d874bb7f-0ecd-4387-b5dd-e7126e70da13",
+                    "path": "<HID::CYPRESS USB Peripherals>/button8",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
