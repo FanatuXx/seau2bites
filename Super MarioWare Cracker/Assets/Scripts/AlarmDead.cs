@@ -31,7 +31,7 @@ public class AlarmDead : MonoBehaviour
 
                 //var videoPlayer = GetComponent<VideoPlayer>(); 
                 //videoPlayer.Play();
-                //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 //StartCoroutine(ResetGame());
             }
 
