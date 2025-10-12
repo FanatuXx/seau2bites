@@ -13,6 +13,10 @@ PrefabInstance:
       value: Saturation Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5607859773394725832, guid: 21bbc534f3f57f345847015ee0bb576e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5607859773394725832, guid: 21bbc534f3f57f345847015ee0bb576e, type: 3}
       propertyPath: m_IsGlobal
       value: 1
       objectReference: {fileID: 0}
