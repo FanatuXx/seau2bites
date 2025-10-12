@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using Unity.Properties;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Video;
 
 
@@ -11,13 +12,13 @@ public class Finishfinal : MonoBehaviour
 {
     
 
-    public VideoPlayer videoPlayer;
+    //public VideoPlayer videoPlayer;
     //public GameObject VideoMort;
 
     private void Start()
     {
         //VideoMort.SetActive(false);
-        var videoPlayer = GetComponent<VideoPlayer>();
+        //var videoPlayer = GetComponent<VideoPlayer>();
 
 
     }
@@ -26,18 +27,19 @@ public class Finishfinal : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Finishfinal"))
         {
-            Debug.Log("C FINI");
-            videoPlayer.Play();
-            StartCoroutine(NextLevel());
+            //GameManager.instance.NextLevel(); 
+
+            //StartCoroutine(NextLevel());
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
 
         }
 
     }
-    IEnumerator NextLevel()
-    {
-        yield return new WaitForSeconds(10);
-        GameManager.instance.NextLevel();
-    }
+    //IEnumerator NextLevel()
+    //{
+    //    yield return new WaitForSeconds(10);
+    //    GameManager.instance.NextLevel();
+    //}
 
 
 

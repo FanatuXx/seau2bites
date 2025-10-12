@@ -954,7 +954,7 @@ Transform:
   m_GameObject: {fileID: 1594087030}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.6, y: -269.7, z: 0}
+  m_LocalPosition: {x: 2.24, y: -274.37, z: 0}
   m_LocalScale: {x: 0.68, y: 0.68, z: 0.68}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3866,6 +3866,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2191017650318179002, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1676531473}
+    - targetCorrespondingSourceObject: {fileID: 2191017650318179002, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1676531475}
   m_SourcePrefab: {fileID: 100100000, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
 --- !u!1 &1676531470 stripped
 GameObject:
@@ -3934,6 +3937,18 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &1676531475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1676531470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4cd320d3cffb446b067f7802888d4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1877759148
 GameObject:
   m_ObjectHideFlags: 0

@@ -405,6 +405,13 @@ public class CharacterController : MonoBehaviour
             hue.enabled = true;
         }
 
+        yield return new WaitForSeconds(30);
+        hue.enabled = false;
+        hue2.enabled = false;
+        hue3.enabled = false;
+        rb.gravityScale = V;
+
+
 
     }
 
