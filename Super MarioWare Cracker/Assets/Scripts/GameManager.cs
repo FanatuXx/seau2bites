@@ -20,13 +20,14 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.JoystickButton8))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
-public void NextLevel()
+    public void NextLevel()
     {
+    
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
 
     }

@@ -37,6 +37,8 @@ TagManager:
   - Danger15
   - Danger16
   - Danger17
+  - vp
+  - ts
   layers:
   - Default
   - TransparentFX

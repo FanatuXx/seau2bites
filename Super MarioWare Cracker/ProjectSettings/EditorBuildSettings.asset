@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Aquarium (infiltration).unity
     guid: 25c9caae68f3db9428d7545ae203fee0
+  - enabled: 1
+    path: "Assets/Scenes/G\xE9n\xE9riquefin.unity"
+    guid: 3f7ac6885c1acd5449edc932f16f9a40
   - enabled: 0
     path: "Assets/Scenes/Cr\xE9dits.unity"
     guid: ac503601d66993d4098ff5a30f746c3b

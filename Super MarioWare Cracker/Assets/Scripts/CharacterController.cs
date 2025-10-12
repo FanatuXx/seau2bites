@@ -282,6 +282,7 @@ public class CharacterController : MonoBehaviour
            
             film.enabled = true;
             other.gameObject.SetActive(false);
+            StartCoroutine(ResetEscargot(other));
             
         }
 
@@ -370,6 +371,13 @@ public class CharacterController : MonoBehaviour
         yield return new WaitForSeconds(3);
         rb.gravityScale = V;
         bloom.enabled = false;
+        other.gameObject.SetActive(true);
+    }
+    private IEnumerator ResetEscargot(Collider2D other)
+    {
+        yield return new WaitForSeconds(10);
+        //enemymovement.speed = null;
+        film.enabled = false;
         other.gameObject.SetActive(true);
     }
 
