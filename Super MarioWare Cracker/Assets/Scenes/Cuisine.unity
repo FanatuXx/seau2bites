@@ -2734,7 +2734,7 @@ GameObject:
   - component: {fileID: 1146941276}
   - component: {fileID: 1146941275}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Musiquecuisine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2753,13 +2753,13 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: eb963d028c87c414d84062e395c909fa, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.505
   m_Pitch: 1
   Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 256
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
