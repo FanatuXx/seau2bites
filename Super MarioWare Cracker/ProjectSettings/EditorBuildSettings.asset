@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Infirmerie.unity
     guid: fd2f4797a59e6a847b7fe6736d5a7e52
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Aquarium (infiltration).unity
     guid: 25c9caae68f3db9428d7545ae203fee0
   - enabled: 1
