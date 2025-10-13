@@ -4112,13 +4112,16 @@ Transform:
   m_Children: []
   m_Father: {fileID: 133198862}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &1134981363
-CapsuleCollider:
+--- !u!70 &1134981363
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1134981361}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -4127,14 +4130,25 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
   m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.053519487
-  m_Height: 1
-  m_Direction: 1
-  m_Center: {x: -0.06868911, y: 4.31026, z: 0}
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.083696604, y: 4.482091}
+  m_Size: {x: 0.12030363, y: 0.7665806}
+  m_Direction: 0
 --- !u!1 &1140333205
 GameObject:
   m_ObjectHideFlags: 0

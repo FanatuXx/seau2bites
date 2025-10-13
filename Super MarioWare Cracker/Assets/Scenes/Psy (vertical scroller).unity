@@ -15500,6 +15500,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   isHidden: 0
+  canbeKilled: 1
   animator: {fileID: 1058957003}
   enemymovement: {fileID: 0}
   ts: {fileID: 4901724198667477903, guid: 19555998bb44a6e4b85e07c611160de1, type: 3}
@@ -15558,7 +15559,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   videoPlayer: {fileID: 1759698105}
-  audioSource: {fileID: 80612458}
 --- !u!60 &1058957005
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -16776,7 +16776,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 791442062719729902, guid: 414169a32a4dabf44bd0d99df5b7e932, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1870339014}
+      addedObject: {fileID: 1870339018}
   m_SourcePrefab: {fileID: 100100000, guid: 414169a32a4dabf44bd0d99df5b7e932, type: 3}
 --- !u!1 &1079125557
 GameObject:
@@ -18040,7 +18040,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 9.313064, y: 0}
+  m_Offset: {x: 7.6022196, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -18050,7 +18050,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 10.227781, y: 0.6123047}
+  m_Size: {x: 6.8060894, y: 0.6123047}
   m_EdgeRadius: 0
 --- !u!61 &1162068647
 BoxCollider2D:
@@ -20987,7 +20987,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 5999916722556475925}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
   m_Name: 
@@ -28405,7 +28405,12 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 791442062719729902, guid: 414169a32a4dabf44bd0d99df5b7e932, type: 3}
   m_PrefabInstance: {fileID: 1075315446}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1870339014
+--- !u!20 &1870339017 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 5466824699805534396, guid: 414169a32a4dabf44bd0d99df5b7e932, type: 3}
+  m_PrefabInstance: {fileID: 1075315446}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1870339018
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -28414,14 +28419,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1870339013}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dca3b2ce6f2752f42b03b57f6082166e, type: 3}
+  m_Script: {fileID: 11500000, guid: acadc63570b32774fbd5d153d53b51ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!20 &1870339017 stripped
-Camera:
-  m_CorrespondingSourceObject: {fileID: 5466824699805534396, guid: 414169a32a4dabf44bd0d99df5b7e932, type: 3}
-  m_PrefabInstance: {fileID: 1075315446}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1903109629
 GameObject:
   m_ObjectHideFlags: 0
