@@ -1870,9 +1870,9 @@ PolygonCollider2D:
       - {x: 170.4558, y: -4.565222}
       - {x: 195.36662, y: -4.4913154}
       - {x: 230.2589, y: -4.5038915}
-      - {x: 251.25246, y: -4.463758}
-      - {x: 251.26024, y: -4.5964847}
-      - {x: 251.27647, y: 0.3118872}
+      - {x: 251.76102, y: -4.5880213}
+      - {x: 251.7573, y: -4.447368}
+      - {x: 251.82324, y: 0.41129774}
   m_UseDelaunayMesh: 0
 --- !u!1 &384560372
 GameObject:
@@ -5263,11 +5263,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -45.25
+      value: -44.87
       objectReference: {fileID: 0}
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.22
+      value: -5.75
       objectReference: {fileID: 0}
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11684,7 +11684,7 @@ MonoBehaviour:
   jump: {fileID: -7776943862613296953, guid: dba36a476760550479535671c57a3c67, type: 3}
   speed: 5
   jumpForce: 9
-  isGrounded: 1
+  isGrounded: 0
   feetPos: {fileID: 702277736}
   checkRadius: 0.3
   whatIsGround:
@@ -12712,7 +12712,7 @@ Transform:
   m_GameObject: {fileID: 1315331369}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.00833178, w: 0.9999653}
-  m_LocalPosition: {x: 125.98, y: -0.07, z: 0}
+  m_LocalPosition: {x: 124.37, y: 0, z: 0}
   m_LocalScale: {x: 1.25, y: 1.25, z: 1.25}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -18410,7 +18410,7 @@ Transform:
   m_GameObject: {fileID: 2040457625}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 159.79, y: -0.45, z: 0}
+  m_LocalPosition: {x: 160.76, y: -0.41, z: 0}
   m_LocalScale: {x: 0.85854906, y: 0.85854906, z: 0.85854906}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -19596,11 +19596,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1010714064717535455, guid: e00d51c986d5dec42aa9bff495204e01, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -42.50523
+      value: -42.12523
       objectReference: {fileID: 0}
     - target: {fileID: 1010714064717535455, guid: e00d51c986d5dec42aa9bff495204e01, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.79286
+      value: -7.32286
       objectReference: {fileID: 0}
     - target: {fileID: 2697811065429559369, guid: e00d51c986d5dec42aa9bff495204e01, type: 3}
       propertyPath: m_Size.x
@@ -20783,11 +20783,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -46.54242
+      value: -46.542427
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.965785
+      value: -4.965783
       objectReference: {fileID: 0}
     - target: {fileID: 7642580361256286557, guid: d6cfaee42619a854daa5fc6f3c2f96b3, type: 3}
       propertyPath: m_LocalPosition.z
