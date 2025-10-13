@@ -69,7 +69,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: -1386193321946896918, guid: c14ac31c96115ba45bec2098b5331a7f, type: 3}
 --- !u!328 &8007268074362356768
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -184,7 +183,7 @@ SpriteRenderer:
   m_SortingLayerID: -535397841
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 707900cf81359cc4fa90925c2e0d26ca, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 63264ff024388db4485e3a04a42cc4df, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -207,7 +206,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 0}
 --- !u!328 &778836562135051704
 VideoPlayer:
   m_ObjectHideFlags: 0
