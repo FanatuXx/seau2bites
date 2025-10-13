@@ -11,7 +11,7 @@ public class AlarmDead : MonoBehaviour
     bool _checking = false;
     CharacterController _cc;
     VideoPlayer _vp;
-    GameObject _pawner;
+    //GameObject _pawner;
     //GameObject _player;
     //Collider2D _hide;
 
@@ -37,20 +37,22 @@ public class AlarmDead : MonoBehaviour
         {
             _cc = GameObject.FindWithTag("Player").GetComponent<CharacterController>();
             _vp = GameObject.FindWithTag("vp").GetComponent<VideoPlayer>();
-            _pawner = GameObject.FindWithTag("ts");
+            //_pawner = GameObject.FindWithTag("ts");
             //Collider2D collider2D1 = GameObject.FindWithTag("Player").GetComponentInChildren<Collider2D>();
             //_player = collider2D1;
 
             //_hide = GameObject.FindWithTag("Cachette").GetComponent<Collider2D>();
             //_hide.enabled = false;
-            if (!_cc.isHidden)
+            if (_cc.canbeKilled = true && !_cc.isHidden)
             {
                 
                 //Destroy(_pawner);
                 //var videoPlayer = GetComponent<VideoPlayer>(); 
                 //_vp.Play();
                 //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                _cc.canbeKilled = false;
                 StartCoroutine(ResetGame());
+
             }
 
             IEnumerator ResetGame()
@@ -60,7 +62,7 @@ public class AlarmDead : MonoBehaviour
                 //_player.SetActive(false);
                 //Destroy(_pawner);
                 _vp.Play();
-                Destroy(_pawner.gameObject);
+                //Destroy(_pawner.gameObject);
                 //_cc.isHidden = true;
                 yield return new WaitForSeconds(10f);
                 //_cc.isHidden = true;

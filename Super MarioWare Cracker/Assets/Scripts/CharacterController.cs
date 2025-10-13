@@ -39,6 +39,7 @@ public class CharacterController : MonoBehaviour
     public LayerMask whatIsGround;
 
     public bool isHidden = false;
+    public bool canbeKilled = true;
 
     public Animator animator; //anim
     bool facingRight = true; //flip
