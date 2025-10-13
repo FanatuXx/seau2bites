@@ -966,8 +966,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17fbdf8557975fb4098d947d2a37f734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  moveDistance: 1.5
+  speed: 0.8
+  moveDistance: 1
   player: {fileID: 0}
 --- !u!60 &362758587
 PolygonCollider2D:
@@ -1049,21 +1049,24 @@ PolygonCollider2D:
       - {x: 2.29, y: 0.695}
       - {x: 2.24, y: 0.885}
       - {x: 2.18, y: 1.255}
-      - {x: 2.1499999, y: 1.485}
-      - {x: 2.1299999, y: 1.495}
-      - {x: 1.79, y: 1.495}
-      - {x: 1.7199999, y: 1.4649999}
-      - {x: 1.6899999, y: 1.3349999}
+      - {x: 2.1505394, y: 1.3779497}
+      - {x: 2.1371353, y: 1.3563604}
+      - {x: 2.0985441, y: 1.3434966}
+      - {x: 2.098545, y: 1.3692255}
+      - {x: 2.0142252, y: 1.3277695}
+      - {x: 1.8929118, y: 1.3149048}
+      - {x: 1.7457273, y: 1.2591783}
+      - {x: 1.6256803, y: 1.2706814}
       - {x: 1.51, y: 1.225}
       - {x: 1.24, y: 1.0649999}
       - {x: 1.11, y: 0.97499996}
       - {x: 1, y: 1.0649999}
       - {x: 0.96999997, y: 1.1949999}
       - {x: 0.90999997, y: 1.3349999}
-      - {x: 0.83, y: 1.385}
-      - {x: 0.78999996, y: 1.3349999}
-      - {x: 0.65999997, y: 1.3349999}
-      - {x: 0.61, y: 1.295}
+      - {x: 0.83, y: 1.2692244}
+      - {x: 0.6870881, y: 1.2578176}
+      - {x: 0.5956803, y: 1.2192243}
+      - {x: 0.54568034, y: 1.1663617}
       - {x: 0.57, y: 1.225}
       - {x: 0.39999998, y: 1.185}
       - {x: 0.24, y: 1.175}
@@ -1702,12 +1705,12 @@ PolygonCollider2D:
       - {x: -0.41, y: 0.885}
       - {x: -0.41, y: 0.59499997}
       - {x: -0.42, y: 0.415}
-      - {x: -0.64, y: 0.415}
-      - {x: -0.7, y: 0.325}
-      - {x: -0.71999997, y: 0.205}
-      - {x: -0.71999997, y: -0.095}
-      - {x: -0.64, y: -0.175}
-      - {x: -0.61, y: -0.295}
+      - {x: -0.4287803, y: 0.37587032}
+      - {x: -0.51189554, y: 0.30983412}
+      - {x: -0.54345286, y: 0.20181604}
+      - {x: -0.5554348, y: -0.10974234}
+      - {x: -0.52336323, y: -0.23597184}
+      - {x: -0.52846056, y: -0.3435644}
       - {x: -0.53999996, y: -0.42499998}
       - {x: -0.53999996, y: -0.895}
       - {x: -0.52, y: -1.0649999}
@@ -2503,8 +2506,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17fbdf8557975fb4098d947d2a37f734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  moveDistance: 1.5
+  speed: 0.75
+  moveDistance: 1.2
   player: {fileID: 0}
 --- !u!50 &977488146
 Rigidbody2D:
@@ -3515,7 +3518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.9
-  moveDistance: 1.6
+  moveDistance: 1.3
   player: {fileID: 0}
 --- !u!60 &1334090300
 PolygonCollider2D:
@@ -3577,6 +3580,7 @@ PolygonCollider2D:
       - {x: 1.125, y: 1.0649999}
       - {x: 1.185, y: 1.0749999}
       - {x: 1.2049999, y: 1.0849999}
+      - {x: 1.2050002, y: 1.4350003}
       - {x: 1.2049999, y: 1.435}
       - {x: 1.175, y: 1.525}
       - {x: 1.145, y: 1.555}
@@ -4308,7 +4312,7 @@ Transform:
   m_GameObject: {fileID: 1607215462}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.224512, y: -1.92, z: 0}
+  m_LocalPosition: {x: -4.224512, y: -2.42, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5315,7 +5319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.1
-  moveDistance: 1.8
+  moveDistance: 1.6
   player: {fileID: 0}
 --- !u!212 &1892632674
 SpriteRenderer:
@@ -8902,6 +8906,10 @@ PrefabInstance:
     - target: {fileID: 7250020843912494419, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7443735613517331467, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
+      propertyPath: m_Volume
+      value: 0.755
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3114438997317172022, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}

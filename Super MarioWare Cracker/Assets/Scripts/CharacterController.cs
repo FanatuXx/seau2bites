@@ -250,8 +250,11 @@ public class CharacterController : MonoBehaviour
           
             other.gameObject.SetActive(false);
             hue.enabled = true;
-            StartCoroutine(hueshift());
-           
+            StartCoroutine(hueshift(other));
+            StartCoroutine(resetgravityhue(other));
+            StartCoroutine(resethue(other));
+
+
         }
 
         if (other.gameObject.CompareTag("Reversecommands"))
@@ -272,6 +275,7 @@ public class CharacterController : MonoBehaviour
             other.gameObject.SetActive(false);
             pill.Play();
             StartCoroutine(ResetGrav(other));
+
         }
 
        
@@ -279,12 +283,13 @@ public class CharacterController : MonoBehaviour
         if (other.gameObject.CompareTag("Escargot"))
         {
             
-            enemymovement.speed = 0.5f;
-           
+            //enemymovement.speed = 0.5f;
+         
             film.enabled = true;
             other.gameObject.SetActive(false);
             StartCoroutine(ResetEscargot(other));
-            
+            enemymovement.speed = 0.5f;
+
         }
 
 
@@ -391,8 +396,10 @@ public class CharacterController : MonoBehaviour
     }
 
 
-    private IEnumerator hueshift()
+    private IEnumerator hueshift(Collider2D other)
     {
+        //StartCoroutine(resetgravityhue(other));
+
         while (rb.gravityScale < 0)
         {
             yield return new WaitForSeconds(1);
@@ -406,15 +413,37 @@ public class CharacterController : MonoBehaviour
             hue.enabled = true;
         }
 
-        yield return new WaitForSeconds(30);
-        hue.enabled = false;
-        hue2.enabled = false;
-        hue3.enabled = false;
-        rb.gravityScale = V;
+       
 
 
 
     }
+
+    IEnumerator resetgravityhue(Collider2D other)
+    {
+        yield return new WaitForSeconds(10);
+       
+        rb.gravityScale = V;
+        Vector3 currentScale = gameObject.transform.localScale;
+        currentScale.y *= -1;
+        gameObject.transform.localScale = currentScale;
+
+        
+
+    }
+
+    IEnumerator resethue(Collider2D other)
+    {
+        yield return new WaitForSeconds(14);
+        hue.enabled = false;
+        hue2.enabled = false;
+        hue3.enabled = false;
+    }
+
+
+
+
+
 
     private void OnTriggerExit2D(Collider2D other)
     {
