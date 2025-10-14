@@ -389,7 +389,7 @@ public class CharacterController : MonoBehaviour
 
     private IEnumerator ResetCommands(Collider2D other)
     {
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(20);
         saturation.enabled = false;
         this.isRevesed = false;
         
