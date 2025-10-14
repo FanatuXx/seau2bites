@@ -5,7 +5,7 @@ public class psycam : MonoBehaviour
     Vector3 startPosition = new Vector3(1.8f, 2.7f, 0);
     Vector3 targetPosition = new Vector3(1.8f, -275f, 0);
     float initialMoveSpeed = 1f;
-    float finalMoveSpeed = 2.5f;
+    float finalMoveSpeed = 2f;
     float currentMoveSpeed;
 
     float totalDistance;
