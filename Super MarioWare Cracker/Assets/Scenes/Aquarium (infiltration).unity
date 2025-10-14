@@ -1145,7 +1145,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 0bea603862d4b7747968dd17861a39be, type: 3}
   - {fileID: 7705742094267336554, guid: e52295a89533e804580931e2d627fe96, type: 3}
   - {fileID: 6740693167476846030, guid: fd1cea12c6956e740aa7dc1e76067437, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &230211880
 GameObject:
@@ -6237,7 +6237,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 7892c322b416d80458b21afb6415d862, type: 3}
   - {fileID: 7705742094267336554, guid: f66ea09fc615dd0479839361064389ec, type: 3}
   - {fileID: 6740693167476846030, guid: 1811194d1a00da6448621810241cae44, type: 3}
-  spawnRate: 7
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &532171038
 GameObject:
@@ -6426,7 +6426,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 04224e22c503f23438a8cd5a967485d3, type: 3}
   - {fileID: 7705742094267336554, guid: 72f8cabd5dc13914db401a0f611e8e2e, type: 3}
   - {fileID: 6740693167476846030, guid: 2b46bc0ab46b52043bc07e206eddb8f1, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &553541584
 GameObject:
@@ -6455,7 +6455,7 @@ Transform:
   m_GameObject: {fileID: 553541584}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 136.72, y: -0.94, z: 0}
+  m_LocalPosition: {x: 135.98, y: -0.94, z: 0}
   m_LocalScale: {x: 0.7113681, y: 0.7113681, z: 0.7113681}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -6550,7 +6550,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.62261677, y: 0.6434121}
+  m_Offset: {x: 0.101413846, y: 0.6434121}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6560,7 +6560,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.2701607, y: 3.3733578}
+  m_Size: {x: 6.3125668, y: 3.3733578}
   m_EdgeRadius: 0
 --- !u!1 &554224504
 GameObject:
@@ -10744,7 +10744,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 492141d474b050049ad2271f80fef8e5, type: 3}
   - {fileID: 7705742094267336554, guid: f9c9d92f3aa9db94db120d073aa96c46, type: 3}
   - {fileID: 6740693167476846030, guid: 80d1331e4a69d1d46beda62bfbfcb7c8, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!114 &1015236413 stripped
 MonoBehaviour:
@@ -12574,7 +12574,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 43c3a41c372cc55428d3a64e6975dcff, type: 3}
   - {fileID: 7705742094267336554, guid: 4d8c383d7caf4634cacc16212ae06e1a, type: 3}
   - {fileID: 6740693167476846030, guid: 7b85fa06eddc65143824b371fcdc3972, type: 3}
-  spawnRate: 8
+  spawnRate: 9
   destroyDelay: 16
 --- !u!1 &1255582593
 GameObject:
@@ -12770,7 +12770,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: c2a47a2a6cc276043800a58d96221203, type: 3}
   - {fileID: 7705742094267336554, guid: 7f1b54a2c407c9e419e71a5c46953f8b, type: 3}
   - {fileID: 6740693167476846030, guid: 009b48688ea34e6408a4253f74cb47c6, type: 3}
-  spawnRate: 7
+  spawnRate: 9
   destroyDelay: 16
 --- !u!1 &1315331369
 GameObject:
@@ -12799,7 +12799,7 @@ Transform:
   m_GameObject: {fileID: 1315331369}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.00833178, w: 0.9999653}
-  m_LocalPosition: {x: 124.31, y: -0.49, z: 0}
+  m_LocalPosition: {x: 122.31, y: -0.54, z: 0}
   m_LocalScale: {x: 0.7877287, y: 0.7877287, z: 0.7877287}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -13698,7 +13698,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: a532f53e2c0f6c44bafd5c2c5f7105b7, type: 3}
   - {fileID: 7705742094267336554, guid: eaea212af846b1f43b9fe950853c406d, type: 3}
   - {fileID: 6740693167476846030, guid: 5b0eab2e9c1d91a40bb02f844805601c, type: 3}
-  spawnRate: 7
+  spawnRate: 10
   destroyDelay: 16
 --- !u!1 &1429628163
 GameObject:
@@ -14065,7 +14065,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 6ab4d1567ee096c48b0843835a6edb70, type: 3}
   - {fileID: 7705742094267336554, guid: eb7d7a4ea7b197d458e7234f26b378f6, type: 3}
   - {fileID: 6740693167476846030, guid: 12c2b2d7d03da994ab996ccc92a53da3, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &1487265934
 GameObject:
@@ -14261,7 +14261,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 046a8348c76dc324c940ed5d661001b1, type: 3}
   - {fileID: 7705742094267336554, guid: 4ec91333d7f99ea46826115ecb85b1e0, type: 3}
   - {fileID: 6740693167476846030, guid: 4c18c193555a6d146ab8bc143993964b, type: 3}
-  spawnRate: 8
+  spawnRate: 9
   destroyDelay: 16
 --- !u!1 &1533640868 stripped
 GameObject:
@@ -14316,7 +14316,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: c770c1d762a91a44f9cdf4ed94ba6cf8, type: 3}
   - {fileID: 7705742094267336554, guid: 9641062cee72003459c01668fa49c72d, type: 3}
   - {fileID: 6740693167476846030, guid: 143e8b7d354e17c46888da9b62db8a3b, type: 3}
-  spawnRate: 7
+  spawnRate: 8
   destroyDelay: 16
 --- !u!20 &1538429629 stripped
 Camera:
@@ -16410,7 +16410,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 5da9dca10bfee56428e25067c5b8abf0, type: 3}
   - {fileID: 7705742094267336554, guid: 9306aca7e005f194ba52124c4bc6898d, type: 3}
   - {fileID: 6740693167476846030, guid: cc441775e7526ce4d96124fb2f7bc6e7, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &1788617075
 GameObject:
@@ -16662,7 +16662,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 361fbad175fcba74d88d2bc89204f2ab, type: 3}
   - {fileID: 7705742094267336554, guid: 9dfefbb307b6159419025cef2654e1f8, type: 3}
   - {fileID: 6740693167476846030, guid: 0c39b24ad65b232439bee2b12e822895, type: 3}
-  spawnRate: 6
+  spawnRate: 8
   destroyDelay: 16
 --- !u!1 &1806999626
 GameObject:
@@ -17371,7 +17371,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: bddb804cc23c97f469fbe7819598b25a, type: 3}
   - {fileID: 7705742094267336554, guid: eef2328a0ca7adb41a44c66bc475d3a2, type: 3}
   - {fileID: 6740693167476846030, guid: bfcd841ccd3314f459efcb477df70ea4, type: 3}
-  spawnRate: 7
+  spawnRate: 10
   destroyDelay: 16
 --- !u!1 &1930421268
 GameObject:
@@ -18822,7 +18822,7 @@ MonoBehaviour:
   - {fileID: 553387915177055157, guid: 22d4bdedb63ee5d4fbb2634c7b6b97c8, type: 3}
   - {fileID: 7705742094267336554, guid: 323a0180aa51043418f5e4c66bb61b18, type: 3}
   - {fileID: 6740693167476846030, guid: 7ee9d1fa34b8bd24881be031d29d700e, type: 3}
-  spawnRate: 6
+  spawnRate: 9
   destroyDelay: 16
 --- !u!1 &2058781320
 GameObject:
