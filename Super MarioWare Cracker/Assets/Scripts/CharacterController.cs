@@ -374,7 +374,7 @@ public class CharacterController : MonoBehaviour
     }
     private IEnumerator ResetGrav(Collider2D other)
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(5);
         rb.gravityScale = V;
         bloom.enabled = false;
         other.gameObject.SetActive(true);
