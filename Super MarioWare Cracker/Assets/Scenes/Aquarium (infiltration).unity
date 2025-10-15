@@ -9565,6 +9565,10 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6292612635695016856, guid: 8d537effb3ea8144eb7a79f5af4ff3db, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7098640236978403966, guid: 8d537effb3ea8144eb7a79f5af4ff3db, type: 3}
       propertyPath: m_LocalPosition.x
       value: -50.202793
@@ -11674,6 +11678,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e46db002d2b525c40a4330979f31c1e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _renderer: {fileID: 0}
 --- !u!95 &1115611166 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 7877542068365127628, guid: 0336ddf3b79a80840b2b6866d4fa0efb, type: 3}
