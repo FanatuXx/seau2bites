@@ -1,10 +1,11 @@
 using System.Collections;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.Video;
-using UnityEngine.UI;
 using UnityEngine.SocialPlatforms.Impl;
-using System.Linq;
+using UnityEngine.UI;
+using UnityEngine.UIElements;
+using UnityEngine.Video;
 
 public class AlarmDead : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class AlarmDead : MonoBehaviour
     //GameObject _pawner;
     //GameObject _player;
     //Collider2D _hide;
+    Renderer _renderer;
 
 
 
@@ -27,9 +29,11 @@ public class AlarmDead : MonoBehaviour
         //_hide = GameObject.FindWithTag("Cachette").GetComponent<Collider2D>();
         //_hide.enabled = false;
         //videoPlayer.enabled = true;
+        _renderer = GetComponent<Renderer>();
     }
 
     // Update is called once per frame
+    
     void Update()
     {
         //_pawner = GameObject.FindWithTag("ts")//.GetComponent<GameObject>();
@@ -55,6 +59,8 @@ public class AlarmDead : MonoBehaviour
 
             }
 
+         
+
             IEnumerator ResetGame()
             {
 
@@ -71,6 +77,19 @@ public class AlarmDead : MonoBehaviour
 
 
             }
+
+           
+            if (_renderer.isVisible)
+            {
+                Debug.Log("Object is visible");
+            }
+            else 
+            {
+                Debug.Log("Object is no longer visible");
+            }
+
+            
+           
             //IEnumerator ResetGame()
             //{
 
@@ -91,6 +110,12 @@ public class AlarmDead : MonoBehaviour
 
         
     }
+
+    //void OnBecameInvisible(SpriteRenderer _renderer)
+    //{
+    //    Debug.Log("caché");
+    //    _cc.isHidden = true;
+    //}
 
     //IEnumerator ResetGame()
     //{
