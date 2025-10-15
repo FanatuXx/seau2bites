@@ -448,20 +448,21 @@ public class CharacterController : MonoBehaviour
 
     IEnumerator resetgravityhue(Collider2D other)
     {
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(15);
        
         rb.gravityScale = V;
         Vector3 currentScale = gameObject.transform.localScale;
         currentScale.y *= -1;
         gameObject.transform.localScale = currentScale;
+        other.gameObject.SetActive(true);
 
-        
+
 
     }
 
     IEnumerator resethue(Collider2D other)
     {
-        yield return new WaitForSeconds(14);
+        yield return new WaitForSeconds(19);
         hue.enabled = false;
         hue2.enabled = false;
         hue3.enabled = false;
