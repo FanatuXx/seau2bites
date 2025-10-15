@@ -6,7 +6,7 @@ public class Speedboost : MonoBehaviour
 {
 
     public float m_multiplier = 2f;
-    public float m_duration = 5f;
+    public float m_duration = 4f;
     private float _tempSpeed;
     public Volume chromaticab;
  
