@@ -157,7 +157,9 @@ public class CharacterController : MonoBehaviour
     
         Vector2 jumpDir = Vector2.up;
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
-       
+
+        UpdateHiddenStatus();
+
 
         if (move.ReadValue<Vector2>().x > 0 && !facingRight) 
 
@@ -215,7 +217,32 @@ public class CharacterController : MonoBehaviour
             animator.SetFloat("Speed", Mathf.Abs(move.ReadValue<Vector2>().x));//moveInput)); 
     }
 
- 
+    private void UpdateHiddenStatus()
+    {
+        bool behindCachette = false;
+
+        Collider2D[] hitColliders = Physics2D.OverlapCircleAll(transform.position, 0.1f);
+        foreach (var hitCollider in hitColliders)
+        {
+            if (hitCollider.CompareTag("Cachette"))
+            {
+                behindCachette = true;
+                break;
+            }
+        }
+
+        bool noFacesVisible = FaceVisibilityManager.Instance != null && !FaceVisibilityManager.Instance.AnyFaceVisible();
+
+        bool wasHidden = isHidden;
+        isHidden = behindCachette || noFacesVisible;
+
+        if (wasHidden != isHidden)
+        {
+            Debug.Log($"Player hidden status changed: {isHidden} (Behind Cachette: {behindCachette}, No Faces Visible: {noFacesVisible})");
+        }
+    }
+
+
 
 
     void FixedUpdate()
@@ -295,10 +322,10 @@ public class CharacterController : MonoBehaviour
 
         #region Spawners
 
-        if (other.gameObject.CompareTag("Cachette"))
+        /*if (other.gameObject.CompareTag("Cachette"))
         {
             isHidden = true;
-        }
+        } */
 
         if (other.gameObject.CompareTag("Danger"))
         {
@@ -447,10 +474,10 @@ public class CharacterController : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Cachette"))
+        /*if (other.gameObject.CompareTag("Cachette"))
         {
             isHidden = false;
-        }
+        } */
 
         if (other.gameObject.CompareTag("Danger"))
         {

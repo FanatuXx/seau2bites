@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -172,4 +172,132 @@ public class AlarmDead : MonoBehaviour
 
 
     //    }
+}
+*/
+
+using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.Video;
+
+public class AlarmDead : MonoBehaviour
+{
+    bool _checking = false;
+    CharacterController _cc;
+    VideoPlayer _vp;
+    Camera _mainCamera;
+
+    private void Start()
+    {
+        _mainCamera = Camera.main;
+
+        if (_mainCamera == null)
+        {
+            Debug.LogError("Main Camera not found!");
+        }
+
+        if (FaceVisibilityManager.Instance != null)
+        {
+            FaceVisibilityManager.Instance.RegisterFace(this);
+            Debug.Log($"Face {gameObject.name} registered");
+        }
+        else
+        {
+            Debug.LogError("FaceVisibilityManager.Instance is NULL!");
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (FaceVisibilityManager.Instance != null)
+        {
+            FaceVisibilityManager.Instance.SetFaceChecking(this, false);
+            FaceVisibilityManager.Instance.UnregisterFace(this);
+        }
+    }
+
+    public bool IsVisibleOnScreen()
+    {
+        if (_mainCamera == null)
+        {
+            return false;
+        }
+
+        Vector3 viewportPoint = _mainCamera.WorldToViewportPoint(transform.position);
+
+        bool isVisible = viewportPoint.x >= 0 && viewportPoint.x <= 1 &&
+                        viewportPoint.y >= 0 && viewportPoint.y <= 1 &&
+                        viewportPoint.z > 0;
+
+        return isVisible;
+    }
+
+    public bool IsChecking()
+    {
+        return _checking;
+    }
+
+    void Update()
+    {
+        if (_checking)
+        {
+            _cc = GameObject.FindWithTag("Player")?.GetComponent<CharacterController>();
+            _vp = GameObject.FindWithTag("vp")?.GetComponent<VideoPlayer>();
+
+            if (_cc == null || _vp == null)
+            {
+                Debug.LogError("Player or VideoPlayer not found!");
+                return;
+            }
+
+            bool faceVisible = IsVisibleOnScreen();
+
+            Debug.Log($"Face {gameObject.name} - Visible: {faceVisible}, Player Hidden: {_cc.isHidden}, Can Kill: {_cc.canbeKilled}");
+
+            if (faceVisible && _cc.canbeKilled && !_cc.isHidden)
+            {
+                Debug.LogWarning($"Face {gameObject.name} is KILLING the player!");
+                _cc.canbeKilled = false;
+                StartCoroutine(ResetGame());
+            }
+        }
+    }
+
+    IEnumerator ResetGame()
+    {
+        _vp.Play();
+        yield return new WaitForSeconds(10f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void Launch()
+    {
+        StartCoroutine(AnimKill());
+    }
+
+    IEnumerator AnimKill()
+    {
+        yield return new WaitForSeconds(4f);
+        _checking = true;
+
+        if (FaceVisibilityManager.Instance != null)
+        {
+            FaceVisibilityManager.Instance.SetFaceChecking(this, true);
+        }
+
+        Debug.Log($"Face {gameObject.name} started checking (will check for 1 second)");
+
+        yield return new WaitForSeconds(1f);
+        _checking = false;
+
+        if (FaceVisibilityManager.Instance != null)
+        {
+            FaceVisibilityManager.Instance.SetFaceChecking(this, false);
+        }
+
+        Debug.Log($"Face {gameObject.name} stopped checking");
+
+        yield return new WaitForSeconds(60f);
+        Destroy(gameObject);
+    }
 }
