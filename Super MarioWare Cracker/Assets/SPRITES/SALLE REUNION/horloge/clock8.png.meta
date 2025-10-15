@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f9bf2913eaf6659489007c6eef846a08
+guid: b6bab8ddac54bc74c8fd3aa0e726d58e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8421706249239519766
-    second: Courbes 3 (merged)-13_0
+      213: -3875788123123701665
+    second: clock8_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Courbes 3 (merged)-13_0
+      name: clock8_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 444
-        height: 607
+        width: 515
+        height: 755
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aed146359c6102b80800000000000000
-      internalID: -8421706249239519766
+      spriteID: f58a880ac3f663ac0800000000000000
+      internalID: -3875788123123701665
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Courbes 3 (merged)-13_0: -8421706249239519766
+      clock8_0: -3875788123123701665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
