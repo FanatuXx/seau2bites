@@ -206,6 +206,7 @@ MonoBehaviour:
   ts16: {fileID: 0}
   ts17: {fileID: 0}
   pill: {fileID: 4454805467558463568, guid: f9898ab9e630c7544bcbf2c61567b39b, type: 3}
+  needle: {fileID: 3185273215312055041, guid: 5709bace735423d469a5bd47ebdd4e51, type: 3}
   jumpAudiosource: {fileID: 7443735613517331467}
   jumpAudios:
   - {fileID: 8300000, guid: b0b9c0f36133e464192fe261ce7a8e96, type: 3}
@@ -229,6 +230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpboost: 1.5
   postex: {fileID: 1314327561276517556, guid: 0abdaefd12f560c4686af78ecedc85e9, type: 3}
+  needle: {fileID: 0}
 --- !u!114 &1032737746184664847
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -244,6 +246,7 @@ MonoBehaviour:
   m_multiplier: 2
   m_duration: 5
   chromaticab: {fileID: 5574093697061318265, guid: 36047c5ced667774a82550cc5fd0c8b6, type: 3}
+  pill2: {fileID: 0}
 --- !u!95 &7877542068365127628
 Animator:
   serializedVersion: 7

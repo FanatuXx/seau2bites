@@ -34,6 +34,7 @@ public class Jumpboost : MonoBehaviour
             gameObject.GetComponent<CharacterController>().jumpForce *= jumpboost;
             other.gameObject.SetActive(false);
             postex.enabled = true;
+            needle.Play();
             StartCoroutine(ResetJump(other));
         }
 
