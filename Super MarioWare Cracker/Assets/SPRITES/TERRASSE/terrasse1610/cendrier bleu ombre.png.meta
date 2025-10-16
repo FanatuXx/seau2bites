@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ef32126ba76202148b4a805f44070615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5525330360257332644
+    second: cendrier bleu ombre_0
+  - first:
+      213: -6372586422360657810
+    second: cendrier bleu ombre_1
+  - first:
+      213: 8285674090759201034
+    second: cendrier bleu ombre_2
+  - first:
+      213: 7380880313767557723
+    second: cendrier bleu ombre_3
+  - first:
+      213: 1240929035894035160
+    second: cendrier bleu ombre_4
+  - first:
+      213: -2717258308167181514
+    second: cendrier bleu ombre_5
+  - first:
+      213: 6204634481835427702
+    second: cendrier bleu ombre_6
+  - first:
+      213: 2251688408325539938
+    second: cendrier bleu ombre_7
+  - first:
+      213: -4092860513583388130
+    second: cendrier bleu ombre_8
+  - first:
+      213: 21417066005439792
+    second: cendrier bleu ombre_9
+  - first:
+      213: -1101811137096297807
+    second: cendrier bleu ombre_10
+  - first:
+      213: -6317362623739869006
+    second: cendrier bleu ombre_11
+  - first:
+      213: -3420568202009556187
+    second: cendrier bleu ombre_12
+  - first:
+      213: 3747946987995518376
+    second: cendrier bleu ombre_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cendrier bleu ombre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 278
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c1dd20baedac40800000000000000
+      internalID: 5525330360257332644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 180
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6037ba89660097a0800000000000000
+      internalID: -6372586422360657810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 174
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012c58afa0acf270800000000000000
+      internalID: 8285674090759201034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af9cf2a872e6660800000000000000
+      internalID: 7380880313767557723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 172
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d29ee7226aa83110800000000000000
+      internalID: 1240929035894035160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 178
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b57b227fb5a4ad0800000000000000
+      internalID: -2717258308167181514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c0fa003a4b1650800000000000000
+      internalID: 6204634481835427702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 177
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268cb1b6daa9f3f10800000000000000
+      internalID: 2251688408325539938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 166
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa3ac3c0d3337c0800000000000000
+      internalID: -4092860513583388130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a26345b61c4000800000000000000
+      internalID: 21417066005439792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 170
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25ec3cb9495b0f0800000000000000
+      internalID: -1101811137096297807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 114
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c7ae1a283458a0800000000000000
+      internalID: -6317362623739869006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 269
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b493dd753b780d0800000000000000
+      internalID: -3420568202009556187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cendrier bleu ombre_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5d7789de1630430800000000000000
+      internalID: 3747946987995518376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cendrier bleu ombre_0: 5525330360257332644
+      cendrier bleu ombre_1: -6372586422360657810
+      cendrier bleu ombre_10: -1101811137096297807
+      cendrier bleu ombre_11: -6317362623739869006
+      cendrier bleu ombre_12: -3420568202009556187
+      cendrier bleu ombre_13: 3747946987995518376
+      cendrier bleu ombre_2: 8285674090759201034
+      cendrier bleu ombre_3: 7380880313767557723
+      cendrier bleu ombre_4: 1240929035894035160
+      cendrier bleu ombre_5: -2717258308167181514
+      cendrier bleu ombre_6: 6204634481835427702
+      cendrier bleu ombre_7: 2251688408325539938
+      cendrier bleu ombre_8: -4092860513583388130
+      cendrier bleu ombre_9: 21417066005439792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
