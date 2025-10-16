@@ -31,7 +31,7 @@ public class Jumpboost : MonoBehaviour
         if (other.gameObject.CompareTag("Jumpboost"))
         {
 
-            gameObject.GetComponent<CharacterController>().jumpForce *= jumpboost;
+            gameObject.GetComponent<CharacterController>().jumpForce = 18;
             other.gameObject.SetActive(false);
             postex.enabled = true;
             needle.Play();
