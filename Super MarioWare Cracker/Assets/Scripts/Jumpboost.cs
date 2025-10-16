@@ -15,6 +15,7 @@ public class Jumpboost : MonoBehaviour
 {
     public float jumpboost = 1.1f;
     public Volume postex;
+    public AudioSource needle;
     //public float m_duration = 5f;
     //private float tempjump;
 

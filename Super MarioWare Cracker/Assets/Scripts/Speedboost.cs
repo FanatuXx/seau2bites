@@ -9,6 +9,7 @@ public class Speedboost : MonoBehaviour
     public float m_duration = 4f;
     private float _tempSpeed;
     public Volume chromaticab;
+    public AudioSource pill2;
  
 
     private void Awake()
@@ -25,6 +26,7 @@ public class Speedboost : MonoBehaviour
             gameObject.GetComponent<CharacterController>().speed *= m_multiplier;
             gameObject.GetComponent<CharacterController>().speed = Mathf.Clamp(gameObject.GetComponent<CharacterController>().speed, _tempSpeed, _tempSpeed * m_multiplier);
             chromaticab.enabled = true;
+            pill2.Play();
             StartCoroutine(ResetSpeed());
             other.gameObject.SetActive(false);
         }

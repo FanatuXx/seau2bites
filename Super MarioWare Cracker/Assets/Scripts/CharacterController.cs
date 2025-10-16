@@ -70,6 +70,7 @@ public class CharacterController : MonoBehaviour
     public GameObject ts17;
 
     public AudioSource pill;
+    public AudioSource needle;
     public AudioSource jumpAudiosource;
     [SerializeField] private AudioClip[] jumpAudios;
     //public AudioSource walk;
@@ -276,6 +277,7 @@ public class CharacterController : MonoBehaviour
             gameObject.transform.localScale = currentScale;
           
             other.gameObject.SetActive(false);
+            pill.Play();
             hue.enabled = true;
             StartCoroutine(hueshift(other));
             StartCoroutine(resetgravityhue(other));
@@ -289,6 +291,7 @@ public class CharacterController : MonoBehaviour
             this.isRevesed = true; 
             saturation.enabled = true; 
             other.gameObject.SetActive(false);
+            needle.Play();
             StartCoroutine(ResetCommands(other));
         }
 
@@ -314,6 +317,7 @@ public class CharacterController : MonoBehaviour
          
             film.enabled = true;
             other.gameObject.SetActive(false);
+            pill.Play();
             StartCoroutine(ResetEscargot(other));
             enemymovement.speed = 0.5f;
 
