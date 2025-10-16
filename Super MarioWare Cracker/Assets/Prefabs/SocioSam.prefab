@@ -211,7 +211,6 @@ MonoBehaviour:
   jumpAudios:
   - {fileID: 8300000, guid: b0b9c0f36133e464192fe261ce7a8e96, type: 3}
   - {fileID: 8300000, guid: 1fa239a2f9626b34aae964ba564cff74, type: 3}
-  - {fileID: 8300000, guid: aa8e44cea0887b4498eead8a700c602f, type: 3}
   - {fileID: 8300000, guid: 65018757796de634daf33561516a5b53, type: 3}
   - {fileID: 8300000, guid: 535be8c4db0d79249b289d7efc8767cb, type: 3}
   - {fileID: 8300000, guid: 08b57f9eaa3b1104aa4aac80fa672ab0, type: 3}

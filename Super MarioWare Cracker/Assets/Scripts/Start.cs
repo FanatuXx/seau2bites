@@ -1,17 +1,18 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Start : MonoBehaviour
 {
 
 
-    private void Update()
+    void Update()
     {
-        if (Input.GetKeyDown(KeyCode.JoystickButton8))
+        if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.JoystickButton8))
         {
-            GameManager.instance.NextLevel();
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         }
-
-
     }
-
 }
+
+
