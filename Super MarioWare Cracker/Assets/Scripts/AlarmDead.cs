@@ -266,7 +266,7 @@ public class AlarmDead : MonoBehaviour
     IEnumerator ResetGame()
     {
         _vp.Play();
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(5f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
